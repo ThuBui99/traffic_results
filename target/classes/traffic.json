@@ -1,0 +1,7149 @@
+[
+  {
+    "mac_client": "c4:a3:66:eb:97:10",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 2599915,
+    "qt_traffic": 244301
+  },
+  {
+    "mac_client": "a0:65:18:74:fc:23",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 27062945,
+    "qt_traffic": 646
+  },
+  {
+    "mac_client": "cc:71:90:1b:47:11",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 9675250,
+    "qt_traffic": 5249387
+  },
+  {
+    "mac_client": "98:f4:28:ea:53:72",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 53731637,
+    "qt_traffic": 214181
+  },
+  {
+    "mac_client": "a0:65:18:3e:ca:ea",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 88582202,
+    "qt_traffic": 54745182
+  },
+  {
+    "mac_client": "a0:65:18:2d:5d:4b",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 14573183,
+    "qt_traffic": 5961136
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:94:00",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 43576961,
+    "qt_traffic": 23350950
+  },
+  {
+    "mac_client": "cc:71:90:57:79:f1",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 68254724,
+    "qt_traffic": 11616372
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:61:92",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521645E9,
+    "vn_traffic": 92343645,
+    "qt_traffic": 136590
+  },
+  {
+    "mac_client": "cc:71:90:1b:cd:99",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 360,
+    "qt_traffic": 7749235
+  },
+  {
+    "mac_client": "c4:a3:66:e5:d4:da",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 38014368,
+    "qt_traffic": 3769677
+  },
+  {
+    "mac_client": "a0:65:18:8c:ae:43",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 2196,
+    "qt_traffic": 34979164
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:42:3a",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 1420255,
+    "qt_traffic": 563393
+  },
+  {
+    "mac_client": "98:f4:28:db:11:bb",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 4560232,
+    "qt_traffic": 3162385
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:3a:03",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 15139579,
+    "qt_traffic": 45512981
+  },
+  {
+    "mac_client": "a0:65:18:49:67:64",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 49321632,
+    "qt_traffic": 62978407
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:a6:55",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 7452445,
+    "qt_traffic": 17477645
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:68:61",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 52109157,
+    "qt_traffic": 6028658
+  },
+  {
+    "mac_client": "a0:65:18:98:55:1b",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 11131219,
+    "qt_traffic": 4090980
+  },
+  {
+    "mac_client": "a0:65:18:31:9f:77",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 19820018,
+    "qt_traffic": 94743770
+  },
+  {
+    "mac_client": "d4:9a:a0:4b:b3:d0",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 246,
+    "qt_traffic": 58187449
+  },
+  {
+    "mac_client": "94:a7:b7:d1:fa:fc",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521646E9,
+    "vn_traffic": 37351161,
+    "qt_traffic": 569908
+  },
+  {
+    "mac_client": "a0:65:18:4c:b1:bf",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 3483,
+    "qt_traffic": 31426116
+  },
+  {
+    "mac_client": "a0:65:18:4c:6a:9a",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 22632145,
+    "qt_traffic": 42335
+  },
+  {
+    "mac_client": "a0:65:18:c3:82:fe",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 39389583,
+    "qt_traffic": 31786
+  },
+  {
+    "mac_client": "a0:65:18:32:13:91",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 27120867,
+    "qt_traffic": 2813578
+  },
+  {
+    "mac_client": "cc:71:90:00:4e:41",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 26587157,
+    "qt_traffic": 24472202
+  },
+  {
+    "mac_client": "a0:65:18:44:7c:cc",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 22424454,
+    "qt_traffic": 1129336
+  },
+  {
+    "mac_client": "d4:9a:a0:93:c6:59",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 9048442,
+    "qt_traffic": 13025662
+  },
+  {
+    "mac_client": "cc:71:90:17:d5:19",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 18731520,
+    "qt_traffic": 27451356
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:88:42",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 48453527,
+    "qt_traffic": 77055922
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:1e:d9",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 11416310,
+    "qt_traffic": 1918373
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:61:fc",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 422251,
+    "qt_traffic": 27293
+  },
+  {
+    "mac_client": "e4:3a:6e:33:1e:4b",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 4394484,
+    "qt_traffic": 20910620
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:07:87",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521647E9,
+    "vn_traffic": 878,
+    "qt_traffic": 23740753
+  },
+  {
+    "mac_client": "98:f4:28:e5:8f:13",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521648E9,
+    "vn_traffic": 1395278,
+    "qt_traffic": 1326325
+  },
+  {
+    "mac_client": "00:1d:aa:00:00:01",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521648E9,
+    "vn_traffic": 77777347,
+    "qt_traffic": 1382481
+  },
+  {
+    "mac_client": "cc:71:90:1d:18:a1",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521648E9,
+    "vn_traffic": 57265229,
+    "qt_traffic": 798490
+  },
+  {
+    "mac_client": "a0:65:18:7a:4b:8b",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521648E9,
+    "vn_traffic": 53959217,
+    "qt_traffic": 883655
+  },
+  {
+    "mac_client": "a4:f4:c2:f3:5c:0f",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521648E9,
+    "vn_traffic": 1497434,
+    "qt_traffic": 9610
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:32:65",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 1406776,
+    "qt_traffic": 2360
+  },
+  {
+    "mac_client": "a0:65:18:9f:a9:9b",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 5701354,
+    "qt_traffic": 36988103
+  },
+  {
+    "mac_client": "a0:65:18:2f:29:2c",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 19723383,
+    "qt_traffic": 4877
+  },
+  {
+    "mac_client": "d4:9a:a0:79:93:77",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 23405629,
+    "qt_traffic": 19945295
+  },
+  {
+    "mac_client": "a0:65:18:61:87:9e",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 11515174,
+    "qt_traffic": 2459395
+  },
+  {
+    "mac_client": "18:44:e6:bc:4b:bc",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 26737,
+    "qt_traffic": 5175956
+  },
+  {
+    "mac_client": "a0:65:18:cb:73:24",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 62886841,
+    "qt_traffic": 740162
+  },
+  {
+    "mac_client": "a0:65:18:49:2e:8e",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 55662,
+    "qt_traffic": 1880232
+  },
+  {
+    "mac_client": "d4:9a:a0:0e:6b:57",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 31641824,
+    "qt_traffic": 9633886
+  },
+  {
+    "mac_client": "c4:a3:66:eb:54:6e",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 68909336,
+    "qt_traffic": 53895
+  },
+  {
+    "mac_client": "d4:9a:a0:14:dc:27",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521649E9,
+    "vn_traffic": 50962943,
+    "qt_traffic": 25867179
+  },
+  {
+    "mac_client": "18:44:e6:a4:27:36",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 6651736,
+    "qt_traffic": 410508
+  },
+  {
+    "mac_client": "a0:65:18:31:be:bf",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 1538136,
+    "qt_traffic": 10205
+  },
+  {
+    "mac_client": "d4:9a:a0:87:e8:d0",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 8271732,
+    "qt_traffic": 2388791
+  },
+  {
+    "mac_client": "c4:a3:66:ec:1f:9c",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 882,
+    "qt_traffic": 11321210
+  },
+  {
+    "mac_client": "a0:65:18:4a:8e:93",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 392,
+    "qt_traffic": 3022
+  },
+  {
+    "mac_client": "d4:9a:a0:63:c8:c8",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 9477071,
+    "qt_traffic": 2394263
+  },
+  {
+    "mac_client": "70:9f:2d:d3:63:aa",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 42724587,
+    "qt_traffic": 110221
+  },
+  {
+    "mac_client": "a0:65:18:49:0d:b2",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 727006,
+    "qt_traffic": 583862
+  },
+  {
+    "mac_client": "a0:65:18:42:c4:4d",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.64925752165E9,
+    "vn_traffic": 4993688,
+    "qt_traffic": 2387506
+  },
+  {
+    "mac_client": "a0:65:18:95:cb:aa",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521651E9,
+    "vn_traffic": 9170223,
+    "qt_traffic": 15103
+  },
+  {
+    "mac_client": "a0:65:18:2d:53:91",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521651E9,
+    "vn_traffic": 920568,
+    "qt_traffic": 3329274
+  },
+  {
+    "mac_client": "a4:f4:c2:0a:11:f5",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521651E9,
+    "vn_traffic": 38584592,
+    "qt_traffic": 8203442
+  },
+  {
+    "mac_client": "a0:65:18:4a:50:3e",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 160514,
+    "qt_traffic": 3772
+  },
+  {
+    "mac_client": "a0:65:18:35:3a:07",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 691907,
+    "qt_traffic": 1047588
+  },
+  {
+    "mac_client": "d4:9a:a0:cb:85:69",
+    "from_time": 1.649257461651E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 33861598,
+    "qt_traffic": 81930
+  },
+  {
+    "mac_client": "a0:65:18:75:31:ec",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 24318876,
+    "qt_traffic": 5424255
+  },
+  {
+    "mac_client": "ac:64:62:e9:a6:4b",
+    "from_time": 1.649257461651E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 39011936,
+    "qt_traffic": 673796
+  },
+  {
+    "mac_client": "cc:71:90:0a:ea:11",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 32646852,
+    "qt_traffic": 7306173
+  },
+  {
+    "mac_client": "a0:65:18:44:79:6f",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 13329258,
+    "qt_traffic": 55113
+  },
+  {
+    "mac_client": "d4:9a:a0:5f:bd:47",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521652E9,
+    "vn_traffic": 62185505,
+    "qt_traffic": 20866188
+  },
+  {
+    "mac_client": "98:f4:28:e5:2d:ed",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 19320655,
+    "qt_traffic": 231538
+  },
+  {
+    "mac_client": "44:f4:36:eb:8f:62",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 697424,
+    "qt_traffic": 11593419
+  },
+  {
+    "mac_client": "a0:65:18:75:b8:05",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 10122250,
+    "qt_traffic": 5899041
+  },
+  {
+    "mac_client": "a0:65:18:0e:fd:74",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 0,
+    "qt_traffic": 6521155
+  },
+  {
+    "mac_client": "d8:38:0d:e3:45:11",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 37163,
+    "qt_traffic": 950661
+  },
+  {
+    "mac_client": "a0:65:18:49:6d:d0",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 12613694,
+    "qt_traffic": 2940588
+  },
+  {
+    "mac_client": "a0:65:18:6d:0e:bd",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 19257580,
+    "qt_traffic": 3694102
+  },
+  {
+    "mac_client": "c4:a3:66:e8:a1:44",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.649257521653E9,
+    "vn_traffic": 16495980,
+    "qt_traffic": 15783
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:d4:29",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 25231617,
+    "qt_traffic": 12018053
+  },
+  {
+    "mac_client": "cc:71:90:38:ef:a1",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 6780880,
+    "qt_traffic": 1262151
+  },
+  {
+    "mac_client": "70:9f:2d:d3:eb:59",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 19868111,
+    "qt_traffic": 4265726
+  },
+  {
+    "mac_client": "d4:9a:a0:d0:eb:c9",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 56288150,
+    "qt_traffic": 4375223
+  },
+  {
+    "mac_client": "c4:ad:34:c7:ba:f6",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 1783631,
+    "qt_traffic": 7353423
+  },
+  {
+    "mac_client": "98:f4:28:e1:8f:29",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 39937005,
+    "qt_traffic": 20291837
+  },
+  {
+    "mac_client": "a0:65:18:c5:f8:6e",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 1386469,
+    "qt_traffic": 333437
+  },
+  {
+    "mac_client": "a4:f4:c2:1b:1e:72",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521654E9,
+    "vn_traffic": 34051077,
+    "qt_traffic": 5410980
+  },
+  {
+    "mac_client": "d4:9a:a0:49:42:e8",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521655E9,
+    "vn_traffic": 39790703,
+    "qt_traffic": 10478596
+  },
+  {
+    "mac_client": "a0:65:18:7e:90:84",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521656E9,
+    "vn_traffic": 127359790,
+    "qt_traffic": 455016
+  },
+  {
+    "mac_client": "18:44:e6:a3:8d:76",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.649257521656E9,
+    "vn_traffic": 14440629,
+    "qt_traffic": 4186118
+  },
+  {
+    "mac_client": "d4:9a:a0:d5:e5:11",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.649257521656E9,
+    "vn_traffic": 8883922,
+    "qt_traffic": 5032846
+  },
+  {
+    "mac_client": "a0:65:18:ac:0a:eb",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521657E9,
+    "vn_traffic": 39575632,
+    "qt_traffic": 2909
+  },
+  {
+    "mac_client": "70:9f:2d:d3:9b:63",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257521657E9,
+    "vn_traffic": 36798471,
+    "qt_traffic": 7874262
+  },
+  {
+    "mac_client": "a0:65:18:08:1e:bb",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521657E9,
+    "vn_traffic": 364192,
+    "qt_traffic": 646488
+  },
+  {
+    "mac_client": "a0:65:18:3f:e8:e6",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257521657E9,
+    "vn_traffic": 28181238,
+    "qt_traffic": 951455
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:97:6d",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521657E9,
+    "vn_traffic": 10458859,
+    "qt_traffic": 7684244
+  },
+  {
+    "mac_client": "ac:64:62:e9:10:1e",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521657E9,
+    "vn_traffic": 4542173,
+    "qt_traffic": 868629
+  },
+  {
+    "mac_client": "98:f4:28:da:94:8e",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.649257521658E9,
+    "vn_traffic": 25571904,
+    "qt_traffic": 18512855
+  },
+  {
+    "mac_client": "98:f4:28:e1:aa:40",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521658E9,
+    "vn_traffic": 7901331,
+    "qt_traffic": 744
+  },
+  {
+    "mac_client": "ac:64:62:d1:30:b6",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521659E9,
+    "vn_traffic": 20420340,
+    "qt_traffic": 963794
+  },
+  {
+    "mac_client": "18:e8:29:2f:51:a2",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521659E9,
+    "vn_traffic": 77845691,
+    "qt_traffic": 38147995
+  },
+  {
+    "mac_client": "98:f4:28:e1:f7:6b",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521659E9,
+    "vn_traffic": 37756275,
+    "qt_traffic": 1015368
+  },
+  {
+    "mac_client": "d4:9a:a0:ec:45:82",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257521659E9,
+    "vn_traffic": 26649038,
+    "qt_traffic": 959617
+  },
+  {
+    "mac_client": "a0:65:18:2f:65:08",
+    "from_time": 1.649257461657E9,
+    "to_time": 1.64925752166E9,
+    "vn_traffic": 39690033,
+    "qt_traffic": 5302
+  },
+  {
+    "mac_client": "a0:65:18:3e:cd:78",
+    "from_time": 1.649257461651E9,
+    "to_time": 1.64925752166E9,
+    "vn_traffic": 2585,
+    "qt_traffic": 14983886
+  },
+  {
+    "mac_client": "a4:f4:c2:15:59:89",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.64925752166E9,
+    "vn_traffic": 2071,
+    "qt_traffic": 307196
+  },
+  {
+    "mac_client": "a0:65:18:3d:dd:51",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.649257521661E9,
+    "vn_traffic": 950873,
+    "qt_traffic": 550767
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:ee:ab",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521661E9,
+    "vn_traffic": 920550,
+    "qt_traffic": 572225
+  },
+  {
+    "mac_client": "18:44:e6:bc:b7:dc",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521661E9,
+    "vn_traffic": 422,
+    "qt_traffic": 23429347
+  },
+  {
+    "mac_client": "a0:65:18:4e:72:c9",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521661E9,
+    "vn_traffic": 546560,
+    "qt_traffic": 70318
+  },
+  {
+    "mac_client": "cc:71:90:50:06:b9",
+    "from_time": 1.64925746166E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 52785312,
+    "qt_traffic": 633866
+  },
+  {
+    "mac_client": "a0:65:18:ad:c8:3e",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 7420851,
+    "qt_traffic": 7572911
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:b4:a9",
+    "from_time": 1.64925746166E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 15122651,
+    "qt_traffic": 243415
+  },
+  {
+    "mac_client": "a0:65:18:65:c4:a5",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 31551417,
+    "qt_traffic": 7915080
+  },
+  {
+    "mac_client": "a0:65:18:9b:9c:85",
+    "from_time": 1.649257461662E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 67558219,
+    "qt_traffic": 2020661
+  },
+  {
+    "mac_client": "a0:65:18:8c:53:cc",
+    "from_time": 1.649257461651E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 25086557,
+    "qt_traffic": 96714
+  },
+  {
+    "mac_client": "cc:71:90:11:21:21",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 8049,
+    "qt_traffic": 254779
+  },
+  {
+    "mac_client": "d4:9a:a0:b2:37:99",
+    "from_time": 1.649257461651E9,
+    "to_time": 1.649257521662E9,
+    "vn_traffic": 12545516,
+    "qt_traffic": 10238836
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:cc:13",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521663E9,
+    "vn_traffic": 55517713,
+    "qt_traffic": 7919393
+  },
+  {
+    "mac_client": "a0:65:18:74:f4:61",
+    "from_time": 1.64925746166E9,
+    "to_time": 1.649257521663E9,
+    "vn_traffic": 14838407,
+    "qt_traffic": 1993091
+  },
+  {
+    "mac_client": "a0:65:18:59:cb:b0",
+    "from_time": 1.649257461657E9,
+    "to_time": 1.649257521664E9,
+    "vn_traffic": 6715054,
+    "qt_traffic": 274166
+  },
+  {
+    "mac_client": "a0:65:18:31:a2:5a",
+    "from_time": 1.649257461664E9,
+    "to_time": 1.649257521665E9,
+    "vn_traffic": 282825,
+    "qt_traffic": 14468
+  },
+  {
+    "mac_client": "a0:65:18:50:4e:e8",
+    "from_time": 1.649257461657E9,
+    "to_time": 1.649257521665E9,
+    "vn_traffic": 1920842,
+    "qt_traffic": 723637
+  },
+  {
+    "mac_client": "a0:65:18:4c:c6:dd",
+    "from_time": 1.649257461664E9,
+    "to_time": 1.649257521665E9,
+    "vn_traffic": 7141890,
+    "qt_traffic": 32528
+  },
+  {
+    "mac_client": "a0:65:18:cb:13:e7",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.649257521665E9,
+    "vn_traffic": 12159267,
+    "qt_traffic": 256154
+  },
+  {
+    "mac_client": "d4:9a:a0:d8:12:c1",
+    "from_time": 1.649257461666E9,
+    "to_time": 1.649257521666E9,
+    "vn_traffic": 2961280,
+    "qt_traffic": 25449702
+  },
+  {
+    "mac_client": "94:a7:b7:d1:fb:10",
+    "from_time": 1.649257461664E9,
+    "to_time": 1.649257521666E9,
+    "vn_traffic": 827787,
+    "qt_traffic": 2847165
+  },
+  {
+    "mac_client": "cc:71:90:1b:56:19",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521666E9,
+    "vn_traffic": 360,
+    "qt_traffic": 667380
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:5e:c1",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521667E9,
+    "vn_traffic": 87728,
+    "qt_traffic": 2147102
+  },
+  {
+    "mac_client": "a0:65:18:65:78:b2",
+    "from_time": 1.649257461664E9,
+    "to_time": 1.649257521667E9,
+    "vn_traffic": 42451021,
+    "qt_traffic": 14718448
+  },
+  {
+    "mac_client": "5c:c7:d7:1f:26:36",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521667E9,
+    "vn_traffic": 32885780,
+    "qt_traffic": 222364
+  },
+  {
+    "mac_client": "d4:9a:a0:e2:f9:21",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521667E9,
+    "vn_traffic": 16393331,
+    "qt_traffic": 8303594
+  },
+  {
+    "mac_client": "cc:71:90:0b:5b:51",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257521668E9,
+    "vn_traffic": 14412141,
+    "qt_traffic": 1024111
+  },
+  {
+    "mac_client": "98:f4:28:eb:ac:1d",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521668E9,
+    "vn_traffic": 188,
+    "qt_traffic": 473801
+  },
+  {
+    "mac_client": "14:49:bc:1b:b0:41",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257521669E9,
+    "vn_traffic": 657933,
+    "qt_traffic": 636095
+  },
+  {
+    "mac_client": "d4:9a:a0:9b:9c:79",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.64925752167E9,
+    "vn_traffic": 37763796,
+    "qt_traffic": 6589918
+  },
+  {
+    "mac_client": "a0:65:18:ad:e6:9e",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.64925752167E9,
+    "vn_traffic": 45295990,
+    "qt_traffic": 6598945
+  },
+  {
+    "mac_client": "98:f4:28:ea:7c:d5",
+    "from_time": 1.649257461655E9,
+    "to_time": 1.64925752167E9,
+    "vn_traffic": 7597494,
+    "qt_traffic": 11295541
+  },
+  {
+    "mac_client": "a4:f4:c2:93:51:9e",
+    "from_time": 1.649257461667E9,
+    "to_time": 1.64925752167E9,
+    "vn_traffic": 526,
+    "qt_traffic": 384415
+  },
+  {
+    "mac_client": "94:a7:b7:d1:f9:3a",
+    "from_time": 1.649257461656E9,
+    "to_time": 1.649257521671E9,
+    "vn_traffic": 28974486,
+    "qt_traffic": 4112983
+  },
+  {
+    "mac_client": "a4:f4:c2:19:d7:75",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521672E9,
+    "vn_traffic": 1187337,
+    "qt_traffic": 52949
+  },
+  {
+    "mac_client": "a4:f4:c2:19:f1:52",
+    "from_time": 1.649257461673E9,
+    "to_time": 1.649257521673E9,
+    "vn_traffic": 37244509,
+    "qt_traffic": 160080
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:72:1c",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521674E9,
+    "vn_traffic": 2418047,
+    "qt_traffic": 1124637
+  },
+  {
+    "mac_client": "ac:64:62:e9:53:26",
+    "from_time": 1.649257461664E9,
+    "to_time": 1.649257521675E9,
+    "vn_traffic": 7199430,
+    "qt_traffic": 46416
+  },
+  {
+    "mac_client": "a0:65:18:35:0f:97",
+    "from_time": 1.649257461662E9,
+    "to_time": 1.649257521675E9,
+    "vn_traffic": 32530915,
+    "qt_traffic": 1929332
+  },
+  {
+    "mac_client": "d4:9a:a0:ce:29:51",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521676E9,
+    "vn_traffic": 1994365,
+    "qt_traffic": 22450274
+  },
+  {
+    "mac_client": "34:4d:ea:d8:f3:36",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521676E9,
+    "vn_traffic": 117611,
+    "qt_traffic": 506
+  },
+  {
+    "mac_client": "a0:65:18:38:1d:a4",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257521676E9,
+    "vn_traffic": 8744553,
+    "qt_traffic": 112037
+  },
+  {
+    "mac_client": "94:a7:b7:d2:27:ac",
+    "from_time": 1.649257461657E9,
+    "to_time": 1.649257521677E9,
+    "vn_traffic": 39066584,
+    "qt_traffic": 2687117
+  },
+  {
+    "mac_client": "ec:8a:4c:fb:5f:70",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521677E9,
+    "vn_traffic": 48732096,
+    "qt_traffic": 15810207
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:85:e8",
+    "from_time": 1.649257461676E9,
+    "to_time": 1.649257521679E9,
+    "vn_traffic": 6974870,
+    "qt_traffic": 8142
+  },
+  {
+    "mac_client": "d4:9a:a0:b2:30:a2",
+    "from_time": 1.64925746168E9,
+    "to_time": 1.64925752168E9,
+    "vn_traffic": 14056987,
+    "qt_traffic": 6886139
+  },
+  {
+    "mac_client": "d4:9a:a0:3c:68:6f",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.64925752168E9,
+    "vn_traffic": 598795,
+    "qt_traffic": 338330
+  },
+  {
+    "mac_client": "98:f4:28:db:58:01",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.64925752168E9,
+    "vn_traffic": 12475170,
+    "qt_traffic": 3497479
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:0c:12",
+    "from_time": 1.64925746167E9,
+    "to_time": 1.649257521681E9,
+    "vn_traffic": 10875875,
+    "qt_traffic": 109379
+  },
+  {
+    "mac_client": "cc:71:90:33:cf:29",
+    "from_time": 1.64925746167E9,
+    "to_time": 1.649257521681E9,
+    "vn_traffic": 6085258,
+    "qt_traffic": 834051
+  },
+  {
+    "mac_client": "d4:9a:a0:87:29:48",
+    "from_time": 1.649257461661E9,
+    "to_time": 1.649257521681E9,
+    "vn_traffic": 42291801,
+    "qt_traffic": 679787
+  },
+  {
+    "mac_client": "ac:64:62:e9:4a:ca",
+    "from_time": 1.649257461677E9,
+    "to_time": 1.649257521681E9,
+    "vn_traffic": 12764412,
+    "qt_traffic": 730423
+  },
+  {
+    "mac_client": "24:43:e2:41:ec:91",
+    "from_time": 1.649257461655E9,
+    "to_time": 1.649257521682E9,
+    "vn_traffic": 100587,
+    "qt_traffic": 2020913
+  },
+  {
+    "mac_client": "a0:65:18:39:d1:cd",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521683E9,
+    "vn_traffic": 2110451,
+    "qt_traffic": 7822
+  },
+  {
+    "mac_client": "a0:65:18:69:6a:71",
+    "from_time": 1.64925746168E9,
+    "to_time": 1.649257521687E9,
+    "vn_traffic": 23949231,
+    "qt_traffic": 272034
+  },
+  {
+    "mac_client": "a0:65:18:91:65:8a",
+    "from_time": 1.649257461671E9,
+    "to_time": 1.649257521687E9,
+    "vn_traffic": 2847467,
+    "qt_traffic": 40688
+  },
+  {
+    "mac_client": "d4:9a:a0:ed:d2:c9",
+    "from_time": 1.649257461687E9,
+    "to_time": 1.649257521688E9,
+    "vn_traffic": 44445130,
+    "qt_traffic": 14121
+  },
+  {
+    "mac_client": "a0:65:18:34:c8:84",
+    "from_time": 1.649257461687E9,
+    "to_time": 1.649257521688E9,
+    "vn_traffic": 25820428,
+    "qt_traffic": 70124
+  },
+  {
+    "mac_client": "98:f4:28:da:bb:03",
+    "from_time": 1.649257461689E9,
+    "to_time": 1.649257521691E9,
+    "vn_traffic": 23372787,
+    "qt_traffic": 13285311
+  },
+  {
+    "mac_client": "24:43:e2:58:c8:c9",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521693E9,
+    "vn_traffic": 74507172,
+    "qt_traffic": 3426682
+  },
+  {
+    "mac_client": "a4:f4:c2:1b:2c:2b",
+    "from_time": 1.649257461681E9,
+    "to_time": 1.649257521693E9,
+    "vn_traffic": 49287470,
+    "qt_traffic": 4495884
+  },
+  {
+    "mac_client": "d4:9a:a0:64:f7:88",
+    "from_time": 1.649257461687E9,
+    "to_time": 1.649257521693E9,
+    "vn_traffic": 11948071,
+    "qt_traffic": 115313
+  },
+  {
+    "mac_client": "cc:71:90:00:54:f1",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521694E9,
+    "vn_traffic": 2955175,
+    "qt_traffic": 10885705
+  },
+  {
+    "mac_client": "a4:f4:c2:ae:15:2d",
+    "from_time": 1.649257461679E9,
+    "to_time": 1.649257521694E9,
+    "vn_traffic": 29164733,
+    "qt_traffic": 4857629
+  },
+  {
+    "mac_client": "a0:65:18:3d:d2:4a",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521695E9,
+    "vn_traffic": 81791,
+    "qt_traffic": 1882088
+  },
+  {
+    "mac_client": "c4:a3:66:ec:09:e8",
+    "from_time": 1.649257461697E9,
+    "to_time": 1.649257521698E9,
+    "vn_traffic": 63775576,
+    "qt_traffic": 1789193
+  },
+  {
+    "mac_client": "98:f4:28:eb:83:e1",
+    "from_time": 1.649257461669E9,
+    "to_time": 1.649257521698E9,
+    "vn_traffic": 56022642,
+    "qt_traffic": 27884
+  },
+  {
+    "mac_client": "cc:71:90:38:89:c9",
+    "from_time": 1.649257461686E9,
+    "to_time": 1.649257521698E9,
+    "vn_traffic": 27145577,
+    "qt_traffic": 369389
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:c9:6d",
+    "from_time": 1.649257461694E9,
+    "to_time": 1.649257521698E9,
+    "vn_traffic": 80560,
+    "qt_traffic": 3783641
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:bf:4a",
+    "from_time": 1.649257461672E9,
+    "to_time": 1.649257521699E9,
+    "vn_traffic": 4827249,
+    "qt_traffic": 36013
+  },
+  {
+    "mac_client": "a4:f4:c2:9b:b9:01",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521699E9,
+    "vn_traffic": 29695239,
+    "qt_traffic": 2298487
+  },
+  {
+    "mac_client": "94:a7:b7:d2:52:f4",
+    "from_time": 1.6492574617E9,
+    "to_time": 1.6492575217E9,
+    "vn_traffic": 0,
+    "qt_traffic": 6444679
+  },
+  {
+    "mac_client": "98:f4:28:e5:e5:0d",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521701E9,
+    "vn_traffic": 570696,
+    "qt_traffic": 7894846
+  },
+  {
+    "mac_client": "cc:71:90:1b:5b:b1",
+    "from_time": 1.649257461698E9,
+    "to_time": 1.649257521702E9,
+    "vn_traffic": 315090,
+    "qt_traffic": 230476
+  },
+  {
+    "mac_client": "a0:65:18:74:f1:19",
+    "from_time": 1.649257461702E9,
+    "to_time": 1.649257521702E9,
+    "vn_traffic": 1482,
+    "qt_traffic": 42446
+  },
+  {
+    "mac_client": "a0:65:18:53:bb:f3",
+    "from_time": 1.649257461698E9,
+    "to_time": 1.649257521704E9,
+    "vn_traffic": 188,
+    "qt_traffic": 1003000
+  },
+  {
+    "mac_client": "94:a7:b7:d2:44:a3",
+    "from_time": 1.649257461687E9,
+    "to_time": 1.649257521704E9,
+    "vn_traffic": 5279422,
+    "qt_traffic": 50426752
+  },
+  {
+    "mac_client": "24:43:e2:57:04:99",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521705E9,
+    "vn_traffic": 197320,
+    "qt_traffic": 52594
+  },
+  {
+    "mac_client": "ac:64:62:d1:33:b3",
+    "from_time": 1.6492574617E9,
+    "to_time": 1.649257521708E9,
+    "vn_traffic": 5857676,
+    "qt_traffic": 269771
+  },
+  {
+    "mac_client": "a4:f4:c2:0e:37:3b",
+    "from_time": 1.649257461698E9,
+    "to_time": 1.649257521709E9,
+    "vn_traffic": 1004111,
+    "qt_traffic": 766437
+  },
+  {
+    "mac_client": "98:f4:28:db:ab:a3",
+    "from_time": 1.649257461699E9,
+    "to_time": 1.649257521709E9,
+    "vn_traffic": 0,
+    "qt_traffic": 10923
+  },
+  {
+    "mac_client": "24:43:e2:6b:c3:71",
+    "from_time": 1.649257461655E9,
+    "to_time": 1.64925752171E9,
+    "vn_traffic": 32872818,
+    "qt_traffic": 1447580
+  },
+  {
+    "mac_client": "a4:f4:c2:19:de:ef",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.64925752171E9,
+    "vn_traffic": 316156,
+    "qt_traffic": 2086475
+  },
+  {
+    "mac_client": "a0:65:18:2d:01:b6",
+    "from_time": 1.649257461703E9,
+    "to_time": 1.649257521711E9,
+    "vn_traffic": 14587820,
+    "qt_traffic": 1053756
+  },
+  {
+    "mac_client": "a4:f4:c2:19:d9:34",
+    "from_time": 1.649257461673E9,
+    "to_time": 1.649257521711E9,
+    "vn_traffic": 154161,
+    "qt_traffic": 37358
+  },
+  {
+    "mac_client": "ac:64:62:e9:4e:35",
+    "from_time": 1.649257461708E9,
+    "to_time": 1.649257521712E9,
+    "vn_traffic": 39786,
+    "qt_traffic": 952824
+  },
+  {
+    "mac_client": "94:a7:b7:d3:0e:7e",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257521713E9,
+    "vn_traffic": 52576566,
+    "qt_traffic": 1326687
+  },
+  {
+    "mac_client": "d4:9a:a0:0b:fe:f7",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521713E9,
+    "vn_traffic": 6720186,
+    "qt_traffic": 1243210
+  },
+  {
+    "mac_client": "a0:65:18:61:37:1f",
+    "from_time": 1.649257461706E9,
+    "to_time": 1.649257521715E9,
+    "vn_traffic": 391076,
+    "qt_traffic": 1411396
+  },
+  {
+    "mac_client": "a4:f4:c2:de:65:53",
+    "from_time": 1.649257461715E9,
+    "to_time": 1.649257521715E9,
+    "vn_traffic": 65780331,
+    "qt_traffic": 227054
+  },
+  {
+    "mac_client": "98:f4:28:ea:38:1a",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257521717E9,
+    "vn_traffic": 77994776,
+    "qt_traffic": 1261417
+  },
+  {
+    "mac_client": "d4:9a:a0:d5:e3:49",
+    "from_time": 1.649257461713E9,
+    "to_time": 1.649257521717E9,
+    "vn_traffic": 23061423,
+    "qt_traffic": 762773
+  },
+  {
+    "mac_client": "a4:f4:c2:c3:28:3f",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521719E9,
+    "vn_traffic": 7243341,
+    "qt_traffic": 369216
+  },
+  {
+    "mac_client": "d4:9a:a0:5d:d5:9f",
+    "from_time": 1.649257461686E9,
+    "to_time": 1.64925752172E9,
+    "vn_traffic": 63329347,
+    "qt_traffic": 210794
+  },
+  {
+    "mac_client": "ac:64:62:e9:ae:ed",
+    "from_time": 1.649257461679E9,
+    "to_time": 1.64925752172E9,
+    "vn_traffic": 17036654,
+    "qt_traffic": 4619082
+  },
+  {
+    "mac_client": "d4:9a:a0:86:68:e0",
+    "from_time": 1.649257461651E9,
+    "to_time": 1.649257521721E9,
+    "vn_traffic": 26974,
+    "qt_traffic": 27823851
+  },
+  {
+    "mac_client": "98:f4:28:ea:36:f8",
+    "from_time": 1.649257461674E9,
+    "to_time": 1.649257521723E9,
+    "vn_traffic": 858,
+    "qt_traffic": 32535
+  },
+  {
+    "mac_client": "c4:a3:66:e8:30:ee",
+    "from_time": 1.649257461719E9,
+    "to_time": 1.64925752173E9,
+    "vn_traffic": 2480571,
+    "qt_traffic": 12531194
+  },
+  {
+    "mac_client": "d4:9a:a0:6c:72:21",
+    "from_time": 1.649257461667E9,
+    "to_time": 1.649257521735E9,
+    "vn_traffic": 87595108,
+    "qt_traffic": 287658
+  },
+  {
+    "mac_client": "70:9f:2d:fb:67:3c",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257521735E9,
+    "vn_traffic": 20350,
+    "qt_traffic": 541178
+  },
+  {
+    "mac_client": "a0:65:18:9b:c5:0e",
+    "from_time": 1.649257461726E9,
+    "to_time": 1.649257521737E9,
+    "vn_traffic": 8140166,
+    "qt_traffic": 272018
+  },
+  {
+    "mac_client": "d4:9a:a0:d0:bf:b9",
+    "from_time": 1.649257461657E9,
+    "to_time": 1.649257521741E9,
+    "vn_traffic": 39222217,
+    "qt_traffic": 1676613
+  },
+  {
+    "mac_client": "a0:65:18:ad:e8:ea",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521744E9,
+    "vn_traffic": 20721268,
+    "qt_traffic": 494510
+  },
+  {
+    "mac_client": "d4:9a:a0:03:31:c7",
+    "from_time": 1.649257461739E9,
+    "to_time": 1.649257521745E9,
+    "vn_traffic": 15965940,
+    "qt_traffic": 6369653
+  },
+  {
+    "mac_client": "98:f4:28:eb:99:4e",
+    "from_time": 1.64925746167E9,
+    "to_time": 1.649257521746E9,
+    "vn_traffic": 985885,
+    "qt_traffic": 513811
+  },
+  {
+    "mac_client": "d4:9a:a0:64:47:48",
+    "from_time": 1.649257461747E9,
+    "to_time": 1.649257521747E9,
+    "vn_traffic": 7169149,
+    "qt_traffic": 9527221
+  },
+  {
+    "mac_client": "a0:65:18:76:a4:b7",
+    "from_time": 1.64925746174E9,
+    "to_time": 1.649257521747E9,
+    "vn_traffic": 24114,
+    "qt_traffic": 20889
+  },
+  {
+    "mac_client": "c4:a3:66:ec:2b:78",
+    "from_time": 1.649257461742E9,
+    "to_time": 1.649257521749E9,
+    "vn_traffic": 14395618,
+    "qt_traffic": 1003988
+  },
+  {
+    "mac_client": "a0:65:18:5f:68:41",
+    "from_time": 1.64925746169E9,
+    "to_time": 1.649257521756E9,
+    "vn_traffic": 29150264,
+    "qt_traffic": 45500
+  },
+  {
+    "mac_client": "a0:65:18:72:61:81",
+    "from_time": 1.649257461747E9,
+    "to_time": 1.649257521761E9,
+    "vn_traffic": 8774302,
+    "qt_traffic": 685766
+  },
+  {
+    "mac_client": "c4:a3:66:eb:92:c6",
+    "from_time": 1.649257461746E9,
+    "to_time": 1.649257521769E9,
+    "vn_traffic": 21327,
+    "qt_traffic": 164298
+  },
+  {
+    "mac_client": "a0:65:18:35:0e:3c",
+    "from_time": 1.649257461766E9,
+    "to_time": 1.649257521771E9,
+    "vn_traffic": 35877704,
+    "qt_traffic": 88742
+  },
+  {
+    "mac_client": "a0:65:18:9f:a0:e3",
+    "from_time": 1.649257461734E9,
+    "to_time": 1.649257521772E9,
+    "vn_traffic": 29150172,
+    "qt_traffic": 119363
+  },
+  {
+    "mac_client": "a0:65:18:a3:f4:46",
+    "from_time": 1.649257461742E9,
+    "to_time": 1.649257521772E9,
+    "vn_traffic": 18795105,
+    "qt_traffic": 58686
+  },
+  {
+    "mac_client": "c4:a3:66:e7:ed:e0",
+    "from_time": 1.649257461726E9,
+    "to_time": 1.649257521772E9,
+    "vn_traffic": 9296,
+    "qt_traffic": 553465
+  },
+  {
+    "mac_client": "ac:64:62:d1:2e:22",
+    "from_time": 1.649257461758E9,
+    "to_time": 1.649257521774E9,
+    "vn_traffic": 5120,
+    "qt_traffic": 22940
+  },
+  {
+    "mac_client": "ac:64:62:d1:16:4e",
+    "from_time": 1.64925746176E9,
+    "to_time": 1.649257521776E9,
+    "vn_traffic": 134850,
+    "qt_traffic": 882805
+  },
+  {
+    "mac_client": "98:f4:28:ea:b5:88",
+    "from_time": 1.649257461739E9,
+    "to_time": 1.649257521781E9,
+    "vn_traffic": 34687932,
+    "qt_traffic": 2763880
+  },
+  {
+    "mac_client": "18:44:e6:a3:ba:f3",
+    "from_time": 1.649257461747E9,
+    "to_time": 1.649257521782E9,
+    "vn_traffic": 794,
+    "qt_traffic": 21625
+  },
+  {
+    "mac_client": "a0:65:18:3e:c3:97",
+    "from_time": 1.649257461662E9,
+    "to_time": 1.649257521784E9,
+    "vn_traffic": 2167,
+    "qt_traffic": 2038240
+  },
+  {
+    "mac_client": "a0:65:18:8c:da:ad",
+    "from_time": 1.649257461667E9,
+    "to_time": 1.649257521785E9,
+    "vn_traffic": 29596634,
+    "qt_traffic": 274525
+  },
+  {
+    "mac_client": "cc:71:90:11:88:79",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.64925752179E9,
+    "vn_traffic": 245201,
+    "qt_traffic": 50014612
+  },
+  {
+    "mac_client": "a0:65:18:3d:3a:b8",
+    "from_time": 1.649257461673E9,
+    "to_time": 1.649257521793E9,
+    "vn_traffic": 21967900,
+    "qt_traffic": 4260931
+  },
+  {
+    "mac_client": "d4:9a:a0:52:82:d9",
+    "from_time": 1.649257461792E9,
+    "to_time": 1.649257521794E9,
+    "vn_traffic": 9492,
+    "qt_traffic": 1476273
+  },
+  {
+    "mac_client": "98:f4:28:e1:a1:da",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521797E9,
+    "vn_traffic": 38451012,
+    "qt_traffic": 20439
+  },
+  {
+    "mac_client": "a4:f4:c2:d0:b9:3c",
+    "from_time": 1.649257461657E9,
+    "to_time": 1.649257521798E9,
+    "vn_traffic": 47621837,
+    "qt_traffic": 46526
+  },
+  {
+    "mac_client": "a0:65:18:3e:c4:84",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521802E9,
+    "vn_traffic": 1153,
+    "qt_traffic": 4536595
+  },
+  {
+    "mac_client": "a0:65:18:4c:47:a5",
+    "from_time": 1.649257461774E9,
+    "to_time": 1.649257521804E9,
+    "vn_traffic": 704309,
+    "qt_traffic": 23767141
+  },
+  {
+    "mac_client": "a0:65:18:d0:2e:b8",
+    "from_time": 1.649257461712E9,
+    "to_time": 1.649257521808E9,
+    "vn_traffic": 156,
+    "qt_traffic": 550779
+  },
+  {
+    "mac_client": "d4:9a:a0:da:7f:39",
+    "from_time": 1.649257461809E9,
+    "to_time": 1.649257521809E9,
+    "vn_traffic": 85565962,
+    "qt_traffic": 79294
+  },
+  {
+    "mac_client": "d4:9a:a0:b2:f0:81",
+    "from_time": 1.649257461808E9,
+    "to_time": 1.649257521812E9,
+    "vn_traffic": 10701829,
+    "qt_traffic": 651203
+  },
+  {
+    "mac_client": "74:4d:28:57:14:32",
+    "from_time": 1.649257461789E9,
+    "to_time": 1.649257521812E9,
+    "vn_traffic": 27760422,
+    "qt_traffic": 489741
+  },
+  {
+    "mac_client": "98:f4:28:ea:37:c5",
+    "from_time": 1.649257461813E9,
+    "to_time": 1.649257521814E9,
+    "vn_traffic": 90233716,
+    "qt_traffic": 10693348
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:8d:67",
+    "from_time": 1.649257461708E9,
+    "to_time": 1.649257521815E9,
+    "vn_traffic": 28850818,
+    "qt_traffic": 13219505
+  },
+  {
+    "mac_client": "cc:71:90:11:2d:91",
+    "from_time": 1.649257461775E9,
+    "to_time": 1.649257521816E9,
+    "vn_traffic": 11618286,
+    "qt_traffic": 41283
+  },
+  {
+    "mac_client": "18:44:e6:bc:bd:c7",
+    "from_time": 1.649257461683E9,
+    "to_time": 1.649257521817E9,
+    "vn_traffic": 68791413,
+    "qt_traffic": 7192886
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:fd:ae",
+    "from_time": 1.649257461747E9,
+    "to_time": 1.649257521822E9,
+    "vn_traffic": 219342,
+    "qt_traffic": 185556
+  },
+  {
+    "mac_client": "ac:64:62:e9:59:11",
+    "from_time": 1.649257461789E9,
+    "to_time": 1.649257521827E9,
+    "vn_traffic": 1709,
+    "qt_traffic": 782712
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:ba:c1",
+    "from_time": 1.649257461683E9,
+    "to_time": 1.649257521828E9,
+    "vn_traffic": 16710051,
+    "qt_traffic": 3133564
+  },
+  {
+    "mac_client": "ec:8a:4c:fb:53:46",
+    "from_time": 1.649257461709E9,
+    "to_time": 1.649257521833E9,
+    "vn_traffic": 9346,
+    "qt_traffic": 3111272
+  },
+  {
+    "mac_client": "a4:f4:c2:1b:12:20",
+    "from_time": 1.649257461656E9,
+    "to_time": 1.649257521836E9,
+    "vn_traffic": 63527,
+    "qt_traffic": 36496
+  },
+  {
+    "mac_client": "34:4d:ea:d7:d7:4a",
+    "from_time": 1.64925746173E9,
+    "to_time": 1.649257521837E9,
+    "vn_traffic": 19336461,
+    "qt_traffic": 199515
+  },
+  {
+    "mac_client": "00:09:0f:17:e3:2e",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.649257521841E9,
+    "vn_traffic": 4016895,
+    "qt_traffic": 1483207
+  },
+  {
+    "mac_client": "a0:65:18:98:d9:e1",
+    "from_time": 1.649257461668E9,
+    "to_time": 1.649257521842E9,
+    "vn_traffic": 44073002,
+    "qt_traffic": 2181766
+  },
+  {
+    "mac_client": "98:f4:28:e1:e0:b9",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521844E9,
+    "vn_traffic": 47525667,
+    "qt_traffic": 873428
+  },
+  {
+    "mac_client": "cc:71:90:00:57:21",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521853E9,
+    "vn_traffic": 53289836,
+    "qt_traffic": 149384
+  },
+  {
+    "mac_client": "a0:65:18:38:21:a6",
+    "from_time": 1.649257461826E9,
+    "to_time": 1.649257521854E9,
+    "vn_traffic": 10472508,
+    "qt_traffic": 168250
+  },
+  {
+    "mac_client": "a4:f4:c2:1f:fa:0c",
+    "from_time": 1.649257461677E9,
+    "to_time": 1.649257521857E9,
+    "vn_traffic": 165912,
+    "qt_traffic": 43978
+  },
+  {
+    "mac_client": "a0:65:18:a1:6d:6f",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521858E9,
+    "vn_traffic": 906416,
+    "qt_traffic": 228085
+  },
+  {
+    "mac_client": "d4:9a:a0:d9:24:41",
+    "from_time": 1.649257461663E9,
+    "to_time": 1.649257521866E9,
+    "vn_traffic": 46186980,
+    "qt_traffic": 6364
+  },
+  {
+    "mac_client": "d4:9a:a0:80:d1:77",
+    "from_time": 1.649257461757E9,
+    "to_time": 1.64925752187E9,
+    "vn_traffic": 10189013,
+    "qt_traffic": 331078
+  },
+  {
+    "mac_client": "a0:65:18:48:f3:ab",
+    "from_time": 1.649257461788E9,
+    "to_time": 1.649257521878E9,
+    "vn_traffic": 372,
+    "qt_traffic": 269246
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:0c:b1",
+    "from_time": 1.649257461877E9,
+    "to_time": 1.649257521881E9,
+    "vn_traffic": 15291610,
+    "qt_traffic": 143548
+  },
+  {
+    "mac_client": "98:f4:28:eb:0f:56",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257521889E9,
+    "vn_traffic": 19754774,
+    "qt_traffic": 329276
+  },
+  {
+    "mac_client": "a0:65:18:54:a4:40",
+    "from_time": 1.649257461824E9,
+    "to_time": 1.649257521891E9,
+    "vn_traffic": 6689334,
+    "qt_traffic": 3113861
+  },
+  {
+    "mac_client": "a0:65:18:0e:ec:37",
+    "from_time": 1.649257461651E9,
+    "to_time": 1.649257521892E9,
+    "vn_traffic": 292554,
+    "qt_traffic": 856
+  },
+  {
+    "mac_client": "a0:65:18:31:aa:12",
+    "from_time": 1.649257461703E9,
+    "to_time": 1.649257521894E9,
+    "vn_traffic": 27320806,
+    "qt_traffic": 331712
+  },
+  {
+    "mac_client": "d4:9a:a0:e4:80:51",
+    "from_time": 1.649257461732E9,
+    "to_time": 1.649257521899E9,
+    "vn_traffic": 2768637,
+    "qt_traffic": 149574
+  },
+  {
+    "mac_client": "a0:65:18:c8:11:aa",
+    "from_time": 1.649257461788E9,
+    "to_time": 1.6492575219E9,
+    "vn_traffic": 23409369,
+    "qt_traffic": 50802258
+  },
+  {
+    "mac_client": "c4:a3:66:ec:13:00",
+    "from_time": 1.649257461747E9,
+    "to_time": 1.64925752191E9,
+    "vn_traffic": 37543849,
+    "qt_traffic": 50405
+  },
+  {
+    "mac_client": "c4:a3:66:e6:31:74",
+    "from_time": 1.649257461903E9,
+    "to_time": 1.64925752192E9,
+    "vn_traffic": 15278,
+    "qt_traffic": 100439
+  },
+  {
+    "mac_client": "a0:65:18:98:ec:3e",
+    "from_time": 1.649257461898E9,
+    "to_time": 1.649257521921E9,
+    "vn_traffic": 40577731,
+    "qt_traffic": 21030
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:6e:52",
+    "from_time": 1.649257461931E9,
+    "to_time": 1.649257521932E9,
+    "vn_traffic": 8209,
+    "qt_traffic": 54401
+  },
+  {
+    "mac_client": "d4:9a:a0:4b:b9:d8",
+    "from_time": 1.649257461927E9,
+    "to_time": 1.649257521932E9,
+    "vn_traffic": 38588,
+    "qt_traffic": 8235473
+  },
+  {
+    "mac_client": "a0:65:18:ad:d0:81",
+    "from_time": 1.649257461926E9,
+    "to_time": 1.649257521933E9,
+    "vn_traffic": 28486529,
+    "qt_traffic": 13479179
+  },
+  {
+    "mac_client": "98:f4:28:da:b1:67",
+    "from_time": 1.649257461787E9,
+    "to_time": 1.649257521933E9,
+    "vn_traffic": 28814,
+    "qt_traffic": 74828
+  },
+  {
+    "mac_client": "a0:65:18:5f:e6:fb",
+    "from_time": 1.649257461939E9,
+    "to_time": 1.649257521939E9,
+    "vn_traffic": 29232914,
+    "qt_traffic": 37022
+  },
+  {
+    "mac_client": "d4:9a:a0:80:cf:ef",
+    "from_time": 1.649257461656E9,
+    "to_time": 1.649257521939E9,
+    "vn_traffic": 566787,
+    "qt_traffic": 4625816
+  },
+  {
+    "mac_client": "ac:64:62:e9:52:9a",
+    "from_time": 1.649257461919E9,
+    "to_time": 1.649257521942E9,
+    "vn_traffic": 16799315,
+    "qt_traffic": 318831
+  },
+  {
+    "mac_client": "a0:65:18:86:a9:d8",
+    "from_time": 1.649257461759E9,
+    "to_time": 1.649257521951E9,
+    "vn_traffic": 156,
+    "qt_traffic": 129794
+  },
+  {
+    "mac_client": "a0:65:18:6d:3c:50",
+    "from_time": 1.64925746175E9,
+    "to_time": 1.649257521954E9,
+    "vn_traffic": 1846,
+    "qt_traffic": 91248
+  },
+  {
+    "mac_client": "a0:65:18:31:70:6a",
+    "from_time": 1.649257461805E9,
+    "to_time": 1.649257521959E9,
+    "vn_traffic": 9482501,
+    "qt_traffic": 44741
+  },
+  {
+    "mac_client": "a0:65:18:10:77:b9",
+    "from_time": 1.649257461851E9,
+    "to_time": 1.649257521962E9,
+    "vn_traffic": 10069366,
+    "qt_traffic": 33921
+  },
+  {
+    "mac_client": "98:f4:28:ea:40:35",
+    "from_time": 1.649257461962E9,
+    "to_time": 1.649257521962E9,
+    "vn_traffic": 7371952,
+    "qt_traffic": 999544
+  },
+  {
+    "mac_client": "98:f4:28:e2:bd:59",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257521967E9,
+    "vn_traffic": 15037462,
+    "qt_traffic": 32678
+  },
+  {
+    "mac_client": "98:f4:28:eb:a3:03",
+    "from_time": 1.649257461789E9,
+    "to_time": 1.649257521967E9,
+    "vn_traffic": 2825595,
+    "qt_traffic": 203164
+  },
+  {
+    "mac_client": "a0:65:18:6c:7a:3d",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257521968E9,
+    "vn_traffic": 3915823,
+    "qt_traffic": 367787
+  },
+  {
+    "mac_client": "cc:71:90:57:92:d9",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.64925752197E9,
+    "vn_traffic": 86226557,
+    "qt_traffic": 269190
+  },
+  {
+    "mac_client": "a0:65:18:57:d4:d9",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521974E9,
+    "vn_traffic": 15440066,
+    "qt_traffic": 7591
+  },
+  {
+    "mac_client": "d4:9a:a0:03:33:df",
+    "from_time": 1.649257461978E9,
+    "to_time": 1.649257521979E9,
+    "vn_traffic": 80677,
+    "qt_traffic": 88275
+  },
+  {
+    "mac_client": "a0:65:18:c6:1f:f2",
+    "from_time": 1.649257461963E9,
+    "to_time": 1.649257521981E9,
+    "vn_traffic": 872,
+    "qt_traffic": 56241
+  },
+  {
+    "mac_client": "98:f4:28:da:88:f4",
+    "from_time": 1.649257461904E9,
+    "to_time": 1.649257521991E9,
+    "vn_traffic": 3606,
+    "qt_traffic": 16158
+  },
+  {
+    "mac_client": "a0:65:18:5d:21:18",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257521993E9,
+    "vn_traffic": 40408549,
+    "qt_traffic": 222776
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:f3:b8",
+    "from_time": 1.649257461997E9,
+    "to_time": 1.649257521999E9,
+    "vn_traffic": 6825,
+    "qt_traffic": 64561
+  },
+  {
+    "mac_client": "a4:f4:c2:af:0b:b7",
+    "from_time": 1.649257461893E9,
+    "to_time": 1.649257522009E9,
+    "vn_traffic": 374032,
+    "qt_traffic": 385157
+  },
+  {
+    "mac_client": "d4:9a:a0:ed:d9:d1",
+    "from_time": 1.649257461991E9,
+    "to_time": 1.649257522015E9,
+    "vn_traffic": 3404875,
+    "qt_traffic": 613369
+  },
+  {
+    "mac_client": "18:44:e6:bc:eb:f3",
+    "from_time": 1.649257461802E9,
+    "to_time": 1.649257522016E9,
+    "vn_traffic": 1163,
+    "qt_traffic": 21115
+  },
+  {
+    "mac_client": "a0:65:18:57:d2:07",
+    "from_time": 1.649257461916E9,
+    "to_time": 1.649257522016E9,
+    "vn_traffic": 1589772,
+    "qt_traffic": 2909800
+  },
+  {
+    "mac_client": "94:a7:b7:d2:5c:0e",
+    "from_time": 1.649257462007E9,
+    "to_time": 1.649257522021E9,
+    "vn_traffic": 99578922,
+    "qt_traffic": 34405
+  },
+  {
+    "mac_client": "a0:65:18:76:d1:ff",
+    "from_time": 1.649257462001E9,
+    "to_time": 1.649257522046E9,
+    "vn_traffic": 1478840,
+    "qt_traffic": 381506
+  },
+  {
+    "mac_client": "a0:65:18:4b:a5:1e",
+    "from_time": 1.649257462032E9,
+    "to_time": 1.649257522047E9,
+    "vn_traffic": 154042,
+    "qt_traffic": 3051082
+  },
+  {
+    "mac_client": "d4:9a:a0:a7:f3:d9",
+    "from_time": 1.649257462016E9,
+    "to_time": 1.649257522048E9,
+    "vn_traffic": 8864597,
+    "qt_traffic": 18979
+  },
+  {
+    "mac_client": "18:44:e6:bc:a2:e7",
+    "from_time": 1.649257461936E9,
+    "to_time": 1.649257522051E9,
+    "vn_traffic": 0,
+    "qt_traffic": 83538
+  },
+  {
+    "mac_client": "a4:f4:c2:a9:99:cb",
+    "from_time": 1.649257462059E9,
+    "to_time": 1.649257522059E9,
+    "vn_traffic": 11596968,
+    "qt_traffic": 21437
+  },
+  {
+    "mac_client": "a0:65:18:49:5d:b6",
+    "from_time": 1.649257461936E9,
+    "to_time": 1.649257522059E9,
+    "vn_traffic": 16910056,
+    "qt_traffic": 1004848
+  },
+  {
+    "mac_client": "d4:9a:a0:e6:f2:41",
+    "from_time": 1.649257461801E9,
+    "to_time": 1.649257522061E9,
+    "vn_traffic": 1990168,
+    "qt_traffic": 216690
+  },
+  {
+    "mac_client": "d4:9a:a0:b2:54:62",
+    "from_time": 1.649257461708E9,
+    "to_time": 1.649257522067E9,
+    "vn_traffic": 9783251,
+    "qt_traffic": 35473
+  },
+  {
+    "mac_client": "a0:65:18:35:36:25",
+    "from_time": 1.649257462033E9,
+    "to_time": 1.649257522077E9,
+    "vn_traffic": 15089152,
+    "qt_traffic": 1851875
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:26:81",
+    "from_time": 1.649257461873E9,
+    "to_time": 1.64925752208E9,
+    "vn_traffic": 32575292,
+    "qt_traffic": 1235750
+  },
+  {
+    "mac_client": "a0:65:18:47:1e:a0",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.64925752208E9,
+    "vn_traffic": 38798599,
+    "qt_traffic": 70079
+  },
+  {
+    "mac_client": "d4:9a:a0:ed:ae:91",
+    "from_time": 1.649257461655E9,
+    "to_time": 1.649257522081E9,
+    "vn_traffic": 40468601,
+    "qt_traffic": 170085
+  },
+  {
+    "mac_client": "d4:9a:a0:f7:f8:a1",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257522087E9,
+    "vn_traffic": 39145302,
+    "qt_traffic": 68184
+  },
+  {
+    "mac_client": "98:f4:28:e5:71:ae",
+    "from_time": 1.649257462091E9,
+    "to_time": 1.649257522092E9,
+    "vn_traffic": 11074970,
+    "qt_traffic": 4432279
+  },
+  {
+    "mac_client": "98:f4:28:e3:26:db",
+    "from_time": 1.64925746201E9,
+    "to_time": 1.649257522108E9,
+    "vn_traffic": 3403985,
+    "qt_traffic": 384316
+  },
+  {
+    "mac_client": "34:4d:ea:d8:c3:96",
+    "from_time": 1.649257461819E9,
+    "to_time": 1.649257522111E9,
+    "vn_traffic": 1618,
+    "qt_traffic": 301335
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:6a:62",
+    "from_time": 1.649257462102E9,
+    "to_time": 1.649257522115E9,
+    "vn_traffic": 246418,
+    "qt_traffic": 511816
+  },
+  {
+    "mac_client": "d4:9a:a0:2f:9a:97",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257522117E9,
+    "vn_traffic": 36439829,
+    "qt_traffic": 11925
+  },
+  {
+    "mac_client": "a0:65:18:ab:c3:cc",
+    "from_time": 1.649257462125E9,
+    "to_time": 1.649257522125E9,
+    "vn_traffic": 11111474,
+    "qt_traffic": 902302
+  },
+  {
+    "mac_client": "98:f4:28:e5:36:26",
+    "from_time": 1.649257461659E9,
+    "to_time": 1.649257522132E9,
+    "vn_traffic": 22974544,
+    "qt_traffic": 32849
+  },
+  {
+    "mac_client": "d4:9a:a0:49:42:00",
+    "from_time": 1.649257461708E9,
+    "to_time": 1.649257522135E9,
+    "vn_traffic": 5191290,
+    "qt_traffic": 161697
+  },
+  {
+    "mac_client": "18:44:e6:bc:73:0d",
+    "from_time": 1.649257461717E9,
+    "to_time": 1.649257522138E9,
+    "vn_traffic": 88547937,
+    "qt_traffic": 43940
+  },
+  {
+    "mac_client": "cc:71:90:00:17:11",
+    "from_time": 1.64925746168E9,
+    "to_time": 1.649257522144E9,
+    "vn_traffic": 12298000,
+    "qt_traffic": 6690541
+  },
+  {
+    "mac_client": "a0:65:18:3b:6c:77",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257522148E9,
+    "vn_traffic": 8791223,
+    "qt_traffic": 2972054
+  },
+  {
+    "mac_client": "cc:71:90:42:df:c1",
+    "from_time": 1.649257462146E9,
+    "to_time": 1.649257522153E9,
+    "vn_traffic": 22689444,
+    "qt_traffic": 67383324
+  },
+  {
+    "mac_client": "18:44:e6:bc:dc:94",
+    "from_time": 1.649257462157E9,
+    "to_time": 1.649257522157E9,
+    "vn_traffic": 48022965,
+    "qt_traffic": 40934
+  },
+  {
+    "mac_client": "98:f4:28:e5:bb:fa",
+    "from_time": 1.649257461704E9,
+    "to_time": 1.649257522166E9,
+    "vn_traffic": 19925,
+    "qt_traffic": 12820538
+  },
+  {
+    "mac_client": "a0:65:18:74:fe:5d",
+    "from_time": 1.649257462134E9,
+    "to_time": 1.649257522171E9,
+    "vn_traffic": 9595828,
+    "qt_traffic": 73155
+  },
+  {
+    "mac_client": "d4:9a:a0:81:fb:4f",
+    "from_time": 1.649257461678E9,
+    "to_time": 1.649257522171E9,
+    "vn_traffic": 10118083,
+    "qt_traffic": 976978
+  },
+  {
+    "mac_client": "a0:65:18:2e:f1:34",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.649257522172E9,
+    "vn_traffic": 15473,
+    "qt_traffic": 31694
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:85:99",
+    "from_time": 1.649257462167E9,
+    "to_time": 1.649257522172E9,
+    "vn_traffic": 135851613,
+    "qt_traffic": 738789
+  },
+  {
+    "mac_client": "c4:a3:66:e6:51:9c",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257522173E9,
+    "vn_traffic": 1688315,
+    "qt_traffic": 27316
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:8e:82",
+    "from_time": 1.649257462129E9,
+    "to_time": 1.649257522186E9,
+    "vn_traffic": 58765521,
+    "qt_traffic": 16954928
+  },
+  {
+    "mac_client": "ac:64:62:e9:ab:0f",
+    "from_time": 1.649257462028E9,
+    "to_time": 1.649257522191E9,
+    "vn_traffic": 0,
+    "qt_traffic": 16575
+  },
+  {
+    "mac_client": "c4:a3:66:e8:4f:a2",
+    "from_time": 1.649257462133E9,
+    "to_time": 1.6492575222E9,
+    "vn_traffic": 38893143,
+    "qt_traffic": 12866
+  },
+  {
+    "mac_client": "a0:65:18:42:ce:31",
+    "from_time": 1.649257461672E9,
+    "to_time": 1.649257522201E9,
+    "vn_traffic": 15889,
+    "qt_traffic": 98305
+  },
+  {
+    "mac_client": "d4:9a:a0:c2:6d:81",
+    "from_time": 1.649257461736E9,
+    "to_time": 1.649257522203E9,
+    "vn_traffic": 1762,
+    "qt_traffic": 343361
+  },
+  {
+    "mac_client": "c4:a3:66:eb:53:f0",
+    "from_time": 1.649257461676E9,
+    "to_time": 1.649257522211E9,
+    "vn_traffic": 38445438,
+    "qt_traffic": 21017
+  },
+  {
+    "mac_client": "c4:a3:66:e8:7d:26",
+    "from_time": 1.649257462086E9,
+    "to_time": 1.649257522211E9,
+    "vn_traffic": 21294113,
+    "qt_traffic": 209979
+  },
+  {
+    "mac_client": "d4:9a:a0:4c:f8:21",
+    "from_time": 1.649257461649E9,
+    "to_time": 1.649257522214E9,
+    "vn_traffic": 1506338,
+    "qt_traffic": 2297805
+  },
+  {
+    "mac_client": "98:f4:28:eb:83:91",
+    "from_time": 1.649257462225E9,
+    "to_time": 1.649257522226E9,
+    "vn_traffic": 3213567,
+    "qt_traffic": 15489915
+  },
+  {
+    "mac_client": "a0:65:18:c5:be:cf",
+    "from_time": 1.649257461763E9,
+    "to_time": 1.649257522234E9,
+    "vn_traffic": 45444696,
+    "qt_traffic": 915619
+  },
+  {
+    "mac_client": "98:f4:28:eb:63:2f",
+    "from_time": 1.649257462215E9,
+    "to_time": 1.649257522235E9,
+    "vn_traffic": 2086181,
+    "qt_traffic": 352433
+  },
+  {
+    "mac_client": "a4:f4:c2:fa:32:c7",
+    "from_time": 1.649257462142E9,
+    "to_time": 1.649257522241E9,
+    "vn_traffic": 16190456,
+    "qt_traffic": 579806
+  },
+  {
+    "mac_client": "a0:65:18:c9:8e:ec",
+    "from_time": 1.649257462164E9,
+    "to_time": 1.64925752225E9,
+    "vn_traffic": 9085994,
+    "qt_traffic": 115107
+  },
+  {
+    "mac_client": "d4:9a:a0:14:4a:b7",
+    "from_time": 1.649257462244E9,
+    "to_time": 1.64925752225E9,
+    "vn_traffic": 90630156,
+    "qt_traffic": 34507
+  },
+  {
+    "mac_client": "98:f4:28:e5:92:38",
+    "from_time": 1.649257461683E9,
+    "to_time": 1.649257522261E9,
+    "vn_traffic": 8811353,
+    "qt_traffic": 914395
+  },
+  {
+    "mac_client": "a0:65:18:51:d9:a7",
+    "from_time": 1.649257462166E9,
+    "to_time": 1.649257522266E9,
+    "vn_traffic": 33207703,
+    "qt_traffic": 1371
+  },
+  {
+    "mac_client": "a4:f4:c2:94:24:3d",
+    "from_time": 1.649257462221E9,
+    "to_time": 1.649257522267E9,
+    "vn_traffic": 12088,
+    "qt_traffic": 54205
+  },
+  {
+    "mac_client": "a0:65:18:83:8d:5e",
+    "from_time": 1.6492574617E9,
+    "to_time": 1.649257522272E9,
+    "vn_traffic": 3880677,
+    "qt_traffic": 230849
+  },
+  {
+    "mac_client": "a4:f4:c2:10:60:28",
+    "from_time": 1.649257462115E9,
+    "to_time": 1.649257522289E9,
+    "vn_traffic": 2164,
+    "qt_traffic": 2032
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:7f:ba",
+    "from_time": 1.649257461682E9,
+    "to_time": 1.649257522293E9,
+    "vn_traffic": 76469038,
+    "qt_traffic": 10982213
+  },
+  {
+    "mac_client": "a0:65:18:66:ec:92",
+    "from_time": 1.649257462264E9,
+    "to_time": 1.649257522302E9,
+    "vn_traffic": 53323,
+    "qt_traffic": 10495765
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:d3:30",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257522302E9,
+    "vn_traffic": 301556,
+    "qt_traffic": 18640
+  },
+  {
+    "mac_client": "a0:65:18:54:a6:ec",
+    "from_time": 1.649257461732E9,
+    "to_time": 1.649257522307E9,
+    "vn_traffic": 14220158,
+    "qt_traffic": 2627604
+  },
+  {
+    "mac_client": "cc:71:90:33:b9:31",
+    "from_time": 1.649257461806E9,
+    "to_time": 1.649257522312E9,
+    "vn_traffic": 1980105,
+    "qt_traffic": 42026
+  },
+  {
+    "mac_client": "a0:65:18:3b:94:8d",
+    "from_time": 1.649257462073E9,
+    "to_time": 1.649257522317E9,
+    "vn_traffic": 801,
+    "qt_traffic": 6089
+  },
+  {
+    "mac_client": "d4:9a:a0:39:d2:1f",
+    "from_time": 1.649257462249E9,
+    "to_time": 1.649257522319E9,
+    "vn_traffic": 2805036,
+    "qt_traffic": 1825360
+  },
+  {
+    "mac_client": "98:f4:28:eb:07:27",
+    "from_time": 1.649257462249E9,
+    "to_time": 1.649257522336E9,
+    "vn_traffic": 2281,
+    "qt_traffic": 3133
+  },
+  {
+    "mac_client": "a4:f4:c2:d9:e1:aa",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257522336E9,
+    "vn_traffic": 38898178,
+    "qt_traffic": 389905
+  },
+  {
+    "mac_client": "98:13:33:f7:2e:7c",
+    "from_time": 1.64925746181E9,
+    "to_time": 1.649257522343E9,
+    "vn_traffic": 537328,
+    "qt_traffic": 111789
+  },
+  {
+    "mac_client": "24:43:e2:57:df:81",
+    "from_time": 1.649257461767E9,
+    "to_time": 1.649257522344E9,
+    "vn_traffic": 6801622,
+    "qt_traffic": 330624
+  },
+  {
+    "mac_client": "94:a7:b7:d2:3d:69",
+    "from_time": 1.649257462221E9,
+    "to_time": 1.649257522351E9,
+    "vn_traffic": 0,
+    "qt_traffic": 255847
+  },
+  {
+    "mac_client": "98:f4:28:db:75:bb",
+    "from_time": 1.649257462302E9,
+    "to_time": 1.649257522364E9,
+    "vn_traffic": 2925515,
+    "qt_traffic": 35832
+  },
+  {
+    "mac_client": "d4:9a:a0:d9:1b:c2",
+    "from_time": 1.649257461788E9,
+    "to_time": 1.649257522367E9,
+    "vn_traffic": 65745541,
+    "qt_traffic": 120094
+  },
+  {
+    "mac_client": "a0:65:18:83:0e:c8",
+    "from_time": 1.649257461897E9,
+    "to_time": 1.649257522368E9,
+    "vn_traffic": 520492,
+    "qt_traffic": 40383
+  },
+  {
+    "mac_client": "a0:65:18:5c:ca:58",
+    "from_time": 1.649257462361E9,
+    "to_time": 1.649257522373E9,
+    "vn_traffic": 13028914,
+    "qt_traffic": 121656
+  },
+  {
+    "mac_client": "98:f4:28:da:7e:6d",
+    "from_time": 1.649257461784E9,
+    "to_time": 1.649257522375E9,
+    "vn_traffic": 5816,
+    "qt_traffic": 63423
+  },
+  {
+    "mac_client": "a0:65:18:c6:88:17",
+    "from_time": 1.649257461925E9,
+    "to_time": 1.649257522375E9,
+    "vn_traffic": 8464956,
+    "qt_traffic": 152050
+  },
+  {
+    "mac_client": "d4:9a:a0:87:9d:a8",
+    "from_time": 1.649257461899E9,
+    "to_time": 1.649257522378E9,
+    "vn_traffic": 132,
+    "qt_traffic": 3673501
+  },
+  {
+    "mac_client": "a0:65:18:79:f0:dd",
+    "from_time": 1.64925746185E9,
+    "to_time": 1.649257522383E9,
+    "vn_traffic": 15935244,
+    "qt_traffic": 661722
+  },
+  {
+    "mac_client": "a4:f4:c2:9b:ea:a0",
+    "from_time": 1.649257462377E9,
+    "to_time": 1.649257522383E9,
+    "vn_traffic": 42415188,
+    "qt_traffic": 1149
+  },
+  {
+    "mac_client": "d4:9a:a0:8f:9d:31",
+    "from_time": 1.649257461879E9,
+    "to_time": 1.649257522385E9,
+    "vn_traffic": 7662,
+    "qt_traffic": 121238
+  },
+  {
+    "mac_client": "cc:71:90:1c:b5:29",
+    "from_time": 1.649257462355E9,
+    "to_time": 1.649257522386E9,
+    "vn_traffic": 511387,
+    "qt_traffic": 5683072
+  },
+  {
+    "mac_client": "ac:64:62:d3:42:20",
+    "from_time": 1.649257462324E9,
+    "to_time": 1.649257522387E9,
+    "vn_traffic": 20482,
+    "qt_traffic": 13525
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:66:72",
+    "from_time": 1.649257462323E9,
+    "to_time": 1.64925752239E9,
+    "vn_traffic": 299125,
+    "qt_traffic": 1100346
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:13:1b",
+    "from_time": 1.649257462332E9,
+    "to_time": 1.649257522393E9,
+    "vn_traffic": 23286128,
+    "qt_traffic": 390002
+  },
+  {
+    "mac_client": "d4:9a:a0:64:f6:20",
+    "from_time": 1.649257461654E9,
+    "to_time": 1.649257522396E9,
+    "vn_traffic": 3896,
+    "qt_traffic": 308140
+  },
+  {
+    "mac_client": "d4:9a:a0:7a:02:6f",
+    "from_time": 1.649257462379E9,
+    "to_time": 1.649257522401E9,
+    "vn_traffic": 12261077,
+    "qt_traffic": 11775176
+  },
+  {
+    "mac_client": "a0:65:18:41:b8:f0",
+    "from_time": 1.649257461954E9,
+    "to_time": 1.649257522411E9,
+    "vn_traffic": 52864,
+    "qt_traffic": 437128
+  },
+  {
+    "mac_client": "d4:9a:a0:03:13:3f",
+    "from_time": 1.649257462356E9,
+    "to_time": 1.649257522411E9,
+    "vn_traffic": 167,
+    "qt_traffic": 20023
+  },
+  {
+    "mac_client": "a4:f4:c2:b5:a0:10",
+    "from_time": 1.649257461655E9,
+    "to_time": 1.649257522411E9,
+    "vn_traffic": 9906026,
+    "qt_traffic": 9072
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:2d:91",
+    "from_time": 1.649257461869E9,
+    "to_time": 1.649257522417E9,
+    "vn_traffic": 20981497,
+    "qt_traffic": 35290
+  },
+  {
+    "mac_client": "24:43:e2:52:bc:e9",
+    "from_time": 1.649257462414E9,
+    "to_time": 1.649257522418E9,
+    "vn_traffic": 2098793,
+    "qt_traffic": 329685
+  },
+  {
+    "mac_client": "c4:a3:66:e6:63:54",
+    "from_time": 1.649257462318E9,
+    "to_time": 1.649257522423E9,
+    "vn_traffic": 38361810,
+    "qt_traffic": 13407
+  },
+  {
+    "mac_client": "a0:65:18:59:d5:cd",
+    "from_time": 1.649257462421E9,
+    "to_time": 1.649257522424E9,
+    "vn_traffic": 10968715,
+    "qt_traffic": 76982
+  },
+  {
+    "mac_client": "24:43:e2:57:1b:49",
+    "from_time": 1.64925746234E9,
+    "to_time": 1.649257522427E9,
+    "vn_traffic": 78,
+    "qt_traffic": 57453
+  },
+  {
+    "mac_client": "c4:a3:66:e6:25:98",
+    "from_time": 1.64925746232E9,
+    "to_time": 1.649257522437E9,
+    "vn_traffic": 11289881,
+    "qt_traffic": 1128
+  },
+  {
+    "mac_client": "c4:a3:66:ec:52:90",
+    "from_time": 1.649257462441E9,
+    "to_time": 1.649257522441E9,
+    "vn_traffic": 10604432,
+    "qt_traffic": 2426344
+  },
+  {
+    "mac_client": "ac:64:62:e9:7c:93",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257522442E9,
+    "vn_traffic": 60582393,
+    "qt_traffic": 4199971
+  },
+  {
+    "mac_client": "cc:2d:21:1f:63:b9",
+    "from_time": 1.64925746225E9,
+    "to_time": 1.649257522451E9,
+    "vn_traffic": 2224,
+    "qt_traffic": 3450
+  },
+  {
+    "mac_client": "a0:65:18:42:f0:99",
+    "from_time": 1.649257461798E9,
+    "to_time": 1.649257522453E9,
+    "vn_traffic": 5839328,
+    "qt_traffic": 2429600
+  },
+  {
+    "mac_client": "d4:9a:a0:14:53:9f",
+    "from_time": 1.649257461763E9,
+    "to_time": 1.649257522466E9,
+    "vn_traffic": 9823584,
+    "qt_traffic": 192325
+  },
+  {
+    "mac_client": "a0:65:18:b0:dd:80",
+    "from_time": 1.649257462464E9,
+    "to_time": 1.649257522467E9,
+    "vn_traffic": 21029786,
+    "qt_traffic": 258724
+  },
+  {
+    "mac_client": "74:4d:28:cf:01:fc",
+    "from_time": 1.649257462296E9,
+    "to_time": 1.64925752247E9,
+    "vn_traffic": 6380956,
+    "qt_traffic": 901028
+  },
+  {
+    "mac_client": "94:a7:b7:d2:d3:82",
+    "from_time": 1.649257461892E9,
+    "to_time": 1.649257522479E9,
+    "vn_traffic": 3397198,
+    "qt_traffic": 3619873
+  },
+  {
+    "mac_client": "ac:64:62:d1:1d:60",
+    "from_time": 1.649257462143E9,
+    "to_time": 1.64925752248E9,
+    "vn_traffic": 212982978,
+    "qt_traffic": 30538
+  },
+  {
+    "mac_client": "a0:65:18:4c:c2:15",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.64925752248E9,
+    "vn_traffic": 21528353,
+    "qt_traffic": 636862
+  },
+  {
+    "mac_client": "a0:65:18:98:95:65",
+    "from_time": 1.649257461731E9,
+    "to_time": 1.64925752248E9,
+    "vn_traffic": 5074383,
+    "qt_traffic": 3712669
+  },
+  {
+    "mac_client": "a0:65:18:9f:bf:ac",
+    "from_time": 1.649257461907E9,
+    "to_time": 1.649257522485E9,
+    "vn_traffic": 1491211,
+    "qt_traffic": 187584
+  },
+  {
+    "mac_client": "a0:65:18:a3:57:3e",
+    "from_time": 1.649257461653E9,
+    "to_time": 1.649257522491E9,
+    "vn_traffic": 716835,
+    "qt_traffic": 264962
+  },
+  {
+    "mac_client": "a0:65:18:74:ca:c1",
+    "from_time": 1.649257462005E9,
+    "to_time": 1.649257522499E9,
+    "vn_traffic": 0,
+    "qt_traffic": 7118
+  },
+  {
+    "mac_client": "a0:65:18:15:b1:dd",
+    "from_time": 1.649257461877E9,
+    "to_time": 1.649257522501E9,
+    "vn_traffic": 12292,
+    "qt_traffic": 109161
+  },
+  {
+    "mac_client": "a0:65:18:39:5c:8b",
+    "from_time": 1.64925746245E9,
+    "to_time": 1.649257522502E9,
+    "vn_traffic": 57308183,
+    "qt_traffic": 29131
+  },
+  {
+    "mac_client": "a0:65:18:c6:15:a5",
+    "from_time": 1.649257462408E9,
+    "to_time": 1.649257522505E9,
+    "vn_traffic": 1567,
+    "qt_traffic": 66033
+  },
+  {
+    "mac_client": "98:f4:28:db:42:d0",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257522513E9,
+    "vn_traffic": 38446370,
+    "qt_traffic": 2483390
+  },
+  {
+    "mac_client": "a4:f4:c2:d0:7b:8d",
+    "from_time": 1.649257461922E9,
+    "to_time": 1.649257522529E9,
+    "vn_traffic": 1744888,
+    "qt_traffic": 349932
+  },
+  {
+    "mac_client": "a0:65:18:41:c4:ed",
+    "from_time": 1.649257461736E9,
+    "to_time": 1.649257522532E9,
+    "vn_traffic": 0,
+    "qt_traffic": 7526
+  },
+  {
+    "mac_client": "a0:65:18:66:fa:08",
+    "from_time": 1.649257462397E9,
+    "to_time": 1.649257522533E9,
+    "vn_traffic": 422,
+    "qt_traffic": 794
+  },
+  {
+    "mac_client": "a0:65:18:54:53:6a",
+    "from_time": 1.649257462085E9,
+    "to_time": 1.649257522546E9,
+    "vn_traffic": 80562,
+    "qt_traffic": 991067
+  },
+  {
+    "mac_client": "a0:65:18:9d:8d:83",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257522554E9,
+    "vn_traffic": 2007616,
+    "qt_traffic": 880805
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:b4:41",
+    "from_time": 1.649257461758E9,
+    "to_time": 1.649257522558E9,
+    "vn_traffic": 9547,
+    "qt_traffic": 8697
+  },
+  {
+    "mac_client": "98:f4:28:e5:34:55",
+    "from_time": 1.649257462544E9,
+    "to_time": 1.649257522565E9,
+    "vn_traffic": 6456,
+    "qt_traffic": 70715
+  },
+  {
+    "mac_client": "d4:9a:a0:da:80:21",
+    "from_time": 1.649257462132E9,
+    "to_time": 1.649257522566E9,
+    "vn_traffic": 30745,
+    "qt_traffic": 10184264
+  },
+  {
+    "mac_client": "cc:71:90:1b:d3:21",
+    "from_time": 1.649257462574E9,
+    "to_time": 1.649257522581E9,
+    "vn_traffic": 14375655,
+    "qt_traffic": 421077
+  },
+  {
+    "mac_client": "c4:a3:66:e8:32:3e",
+    "from_time": 1.649257462577E9,
+    "to_time": 1.649257522581E9,
+    "vn_traffic": 0,
+    "qt_traffic": 52346
+  },
+  {
+    "mac_client": "a0:65:18:54:a4:6a",
+    "from_time": 1.649257462431E9,
+    "to_time": 1.649257522585E9,
+    "vn_traffic": 25952614,
+    "qt_traffic": 1292546
+  },
+  {
+    "mac_client": "a0:65:18:8d:af:20",
+    "from_time": 1.649257461735E9,
+    "to_time": 1.649257522586E9,
+    "vn_traffic": 11632153,
+    "qt_traffic": 1422138
+  },
+  {
+    "mac_client": "a0:65:18:75:24:a0",
+    "from_time": 1.64925746232E9,
+    "to_time": 1.649257522593E9,
+    "vn_traffic": 3290787,
+    "qt_traffic": 59948
+  },
+  {
+    "mac_client": "18:44:e6:a3:ea:73",
+    "from_time": 1.649257462556E9,
+    "to_time": 1.649257522596E9,
+    "vn_traffic": 674,
+    "qt_traffic": 22922
+  },
+  {
+    "mac_client": "cc:71:90:39:48:11",
+    "from_time": 1.649257462581E9,
+    "to_time": 1.649257522604E9,
+    "vn_traffic": 1261,
+    "qt_traffic": 64441
+  },
+  {
+    "mac_client": "98:f4:28:eb:a7:68",
+    "from_time": 1.649257462543E9,
+    "to_time": 1.649257522605E9,
+    "vn_traffic": 3758079,
+    "qt_traffic": 5003506
+  },
+  {
+    "mac_client": "a0:65:18:81:f7:7d",
+    "from_time": 1.649257462422E9,
+    "to_time": 1.649257522609E9,
+    "vn_traffic": 19743,
+    "qt_traffic": 4224
+  },
+  {
+    "mac_client": "98:f4:28:eb:4d:36",
+    "from_time": 1.649257462403E9,
+    "to_time": 1.649257522615E9,
+    "vn_traffic": 73222553,
+    "qt_traffic": 11176
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:0e:d7",
+    "from_time": 1.64925746255E9,
+    "to_time": 1.649257522623E9,
+    "vn_traffic": 7835,
+    "qt_traffic": 4012
+  },
+  {
+    "mac_client": "d4:9a:a0:88:57:d8",
+    "from_time": 1.649257462291E9,
+    "to_time": 1.64925752263E9,
+    "vn_traffic": 56688065,
+    "qt_traffic": 20592
+  },
+  {
+    "mac_client": "a0:65:18:82:8b:d9",
+    "from_time": 1.649257462406E9,
+    "to_time": 1.649257522645E9,
+    "vn_traffic": 9919,
+    "qt_traffic": 14258
+  },
+  {
+    "mac_client": "98:f4:28:e2:9c:0c",
+    "from_time": 1.649257462563E9,
+    "to_time": 1.649257522648E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1466
+  },
+  {
+    "mac_client": "18:d6:c7:6d:fa:69",
+    "from_time": 1.64925746198E9,
+    "to_time": 1.649257522654E9,
+    "vn_traffic": 12503980,
+    "qt_traffic": 64178
+  },
+  {
+    "mac_client": "18:44:e6:a3:90:78",
+    "from_time": 1.649257462223E9,
+    "to_time": 1.649257522664E9,
+    "vn_traffic": 3360,
+    "qt_traffic": 57150
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:0e:0b",
+    "from_time": 1.649257461999E9,
+    "to_time": 1.649257522684E9,
+    "vn_traffic": 11312,
+    "qt_traffic": 50031
+  },
+  {
+    "mac_client": "d4:9a:a0:50:36:e7",
+    "from_time": 1.649257462653E9,
+    "to_time": 1.649257522693E9,
+    "vn_traffic": 33686418,
+    "qt_traffic": 1222115
+  },
+  {
+    "mac_client": "18:44:e6:bc:dc:5d",
+    "from_time": 1.649257461942E9,
+    "to_time": 1.649257522694E9,
+    "vn_traffic": 9275,
+    "qt_traffic": 353525
+  },
+  {
+    "mac_client": "a4:f4:c2:b5:29:48",
+    "from_time": 1.649257462702E9,
+    "to_time": 1.649257522704E9,
+    "vn_traffic": 38546283,
+    "qt_traffic": 25972
+  },
+  {
+    "mac_client": "c4:a3:66:eb:9a:b8",
+    "from_time": 1.649257461973E9,
+    "to_time": 1.649257522716E9,
+    "vn_traffic": 15084,
+    "qt_traffic": 42063
+  },
+  {
+    "mac_client": "a0:65:18:14:72:63",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257522717E9,
+    "vn_traffic": 39450985,
+    "qt_traffic": 96348
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:f1:2d",
+    "from_time": 1.649257462658E9,
+    "to_time": 1.649257522725E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1900
+  },
+  {
+    "mac_client": "d4:9a:a0:42:dc:87",
+    "from_time": 1.64925746165E9,
+    "to_time": 1.649257522729E9,
+    "vn_traffic": 9309920,
+    "qt_traffic": 255855
+  },
+  {
+    "mac_client": "18:44:e6:bc:ce:a2",
+    "from_time": 1.649257461661E9,
+    "to_time": 1.64925752273E9,
+    "vn_traffic": 48879,
+    "qt_traffic": 2947184
+  },
+  {
+    "mac_client": "d4:9a:a0:5f:97:6f",
+    "from_time": 1.649257461684E9,
+    "to_time": 1.64925752273E9,
+    "vn_traffic": 16936398,
+    "qt_traffic": 469750
+  },
+  {
+    "mac_client": "c4:a3:66:e8:85:42",
+    "from_time": 1.64925746268E9,
+    "to_time": 1.649257522735E9,
+    "vn_traffic": 466142,
+    "qt_traffic": 1151591
+  },
+  {
+    "mac_client": "a0:65:18:74:6a:c9",
+    "from_time": 1.649257461723E9,
+    "to_time": 1.649257522738E9,
+    "vn_traffic": 17071,
+    "qt_traffic": 810
+  },
+  {
+    "mac_client": "a4:f4:c2:e5:02:1f",
+    "from_time": 1.649257462653E9,
+    "to_time": 1.649257522747E9,
+    "vn_traffic": 4304830,
+    "qt_traffic": 2023887
+  },
+  {
+    "mac_client": "ec:8a:4c:fb:52:6f",
+    "from_time": 1.649257462072E9,
+    "to_time": 1.64925752275E9,
+    "vn_traffic": 23317,
+    "qt_traffic": 2131736
+  },
+  {
+    "mac_client": "cc:71:90:1b:27:b9",
+    "from_time": 1.649257461953E9,
+    "to_time": 1.649257522757E9,
+    "vn_traffic": 4765113,
+    "qt_traffic": 86702
+  },
+  {
+    "mac_client": "a0:65:18:57:d3:c8",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257522758E9,
+    "vn_traffic": 9864664,
+    "qt_traffic": 8357111
+  },
+  {
+    "mac_client": "d4:9a:a0:86:5b:c0",
+    "from_time": 1.649257462069E9,
+    "to_time": 1.649257522759E9,
+    "vn_traffic": 15019,
+    "qt_traffic": 137324
+  },
+  {
+    "mac_client": "50:06:ab:e3:ff:15",
+    "from_time": 1.649257462732E9,
+    "to_time": 1.649257522761E9,
+    "vn_traffic": 1598785,
+    "qt_traffic": 368843
+  },
+  {
+    "mac_client": "ac:64:62:e9:9a:57",
+    "from_time": 1.649257462757E9,
+    "to_time": 1.649257522762E9,
+    "vn_traffic": 10465563,
+    "qt_traffic": 4805215
+  },
+  {
+    "mac_client": "98:f4:28:eb:aa:33",
+    "from_time": 1.649257461807E9,
+    "to_time": 1.649257522774E9,
+    "vn_traffic": 4724,
+    "qt_traffic": 5992
+  },
+  {
+    "mac_client": "ac:64:62:d2:92:85",
+    "from_time": 1.649257462464E9,
+    "to_time": 1.64925752278E9,
+    "vn_traffic": 22808551,
+    "qt_traffic": 388957
+  },
+  {
+    "mac_client": "a0:65:18:3b:71:7a",
+    "from_time": 1.649257461961E9,
+    "to_time": 1.649257522812E9,
+    "vn_traffic": 10535018,
+    "qt_traffic": 1812
+  },
+  {
+    "mac_client": "d4:9a:a0:50:59:57",
+    "from_time": 1.649257462817E9,
+    "to_time": 1.649257522818E9,
+    "vn_traffic": 88941844,
+    "qt_traffic": 3016
+  },
+  {
+    "mac_client": "a4:f4:c2:f3:5f:7f",
+    "from_time": 1.649257462661E9,
+    "to_time": 1.64925752282E9,
+    "vn_traffic": 20830,
+    "qt_traffic": 51203
+  },
+  {
+    "mac_client": "98:f4:28:ea:9e:cc",
+    "from_time": 1.649257462819E9,
+    "to_time": 1.649257522821E9,
+    "vn_traffic": 39070,
+    "qt_traffic": 782040
+  },
+  {
+    "mac_client": "d4:9a:a0:e6:58:d1",
+    "from_time": 1.649257461901E9,
+    "to_time": 1.649257522836E9,
+    "vn_traffic": 8429,
+    "qt_traffic": 158601
+  },
+  {
+    "mac_client": "a0:65:18:38:17:05",
+    "from_time": 1.649257462757E9,
+    "to_time": 1.649257522846E9,
+    "vn_traffic": 30233875,
+    "qt_traffic": 18264
+  },
+  {
+    "mac_client": "a0:65:18:3b:89:4d",
+    "from_time": 1.649257462662E9,
+    "to_time": 1.649257522866E9,
+    "vn_traffic": 118054,
+    "qt_traffic": 46359
+  },
+  {
+    "mac_client": "d4:9a:a0:87:a4:a0",
+    "from_time": 1.649257462214E9,
+    "to_time": 1.649257522874E9,
+    "vn_traffic": 25238015,
+    "qt_traffic": 736980
+  },
+  {
+    "mac_client": "cc:71:90:15:f7:d9",
+    "from_time": 1.649257461698E9,
+    "to_time": 1.649257522874E9,
+    "vn_traffic": 29503543,
+    "qt_traffic": 113865
+  },
+  {
+    "mac_client": "d4:9a:a0:d0:8a:31",
+    "from_time": 1.649257461919E9,
+    "to_time": 1.649257522881E9,
+    "vn_traffic": 2519,
+    "qt_traffic": 9203
+  },
+  {
+    "mac_client": "24:43:e2:6b:5a:91",
+    "from_time": 1.649257462192E9,
+    "to_time": 1.649257522885E9,
+    "vn_traffic": 24472586,
+    "qt_traffic": 33399
+  },
+  {
+    "mac_client": "a4:f4:c2:c3:0a:42",
+    "from_time": 1.649257462869E9,
+    "to_time": 1.649257522888E9,
+    "vn_traffic": 43117,
+    "qt_traffic": 10460059
+  },
+  {
+    "mac_client": "98:f4:28:ea:38:e2",
+    "from_time": 1.6492574625E9,
+    "to_time": 1.649257522889E9,
+    "vn_traffic": 2035,
+    "qt_traffic": 113595
+  },
+  {
+    "mac_client": "a0:65:18:39:c7:98",
+    "from_time": 1.649257461714E9,
+    "to_time": 1.64925752289E9,
+    "vn_traffic": 18741,
+    "qt_traffic": 97099
+  },
+  {
+    "mac_client": "18:44:e6:a3:b0:f8",
+    "from_time": 1.649257462281E9,
+    "to_time": 1.649257522894E9,
+    "vn_traffic": 13244392,
+    "qt_traffic": 1271587
+  },
+  {
+    "mac_client": "d4:9a:a0:64:f8:18",
+    "from_time": 1.649257461767E9,
+    "to_time": 1.649257522895E9,
+    "vn_traffic": 34874,
+    "qt_traffic": 10977
+  },
+  {
+    "mac_client": "ac:64:62:e9:50:10",
+    "from_time": 1.64925746166E9,
+    "to_time": 1.649257522899E9,
+    "vn_traffic": 42307881,
+    "qt_traffic": 447047
+  },
+  {
+    "mac_client": "94:a7:b7:d2:ea:43",
+    "from_time": 1.649257461791E9,
+    "to_time": 1.649257522906E9,
+    "vn_traffic": 1818,
+    "qt_traffic": 152332
+  },
+  {
+    "mac_client": "d4:9a:a0:86:fc:b8",
+    "from_time": 1.649257462556E9,
+    "to_time": 1.649257522924E9,
+    "vn_traffic": 11731139,
+    "qt_traffic": 280734
+  },
+  {
+    "mac_client": "a0:65:18:74:97:fc",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.649257522933E9,
+    "vn_traffic": 17458890,
+    "qt_traffic": 1278211
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:14:83",
+    "from_time": 1.649257462758E9,
+    "to_time": 1.649257522943E9,
+    "vn_traffic": 35438975,
+    "qt_traffic": 1161086
+  },
+  {
+    "mac_client": "a0:65:18:44:a7:59",
+    "from_time": 1.649257462944E9,
+    "to_time": 1.649257522946E9,
+    "vn_traffic": 70135672,
+    "qt_traffic": 441578
+  },
+  {
+    "mac_client": "a0:65:18:6d:38:48",
+    "from_time": 1.649257462538E9,
+    "to_time": 1.649257522949E9,
+    "vn_traffic": 115245154,
+    "qt_traffic": 14105
+  },
+  {
+    "mac_client": "18:44:e6:a3:e1:bd",
+    "from_time": 1.649257462848E9,
+    "to_time": 1.649257522957E9,
+    "vn_traffic": 2410,
+    "qt_traffic": 6593
+  },
+  {
+    "mac_client": "d4:9a:a0:96:78:01",
+    "from_time": 1.649257462595E9,
+    "to_time": 1.649257522958E9,
+    "vn_traffic": 438,
+    "qt_traffic": 33347
+  },
+  {
+    "mac_client": "a0:65:18:c7:70:4c",
+    "from_time": 1.649257462925E9,
+    "to_time": 1.649257522966E9,
+    "vn_traffic": 1398,
+    "qt_traffic": 470
+  },
+  {
+    "mac_client": "24:43:e2:60:5f:e9",
+    "from_time": 1.649257462246E9,
+    "to_time": 1.649257522975E9,
+    "vn_traffic": 0,
+    "qt_traffic": 779
+  },
+  {
+    "mac_client": "a0:65:18:8c:49:21",
+    "from_time": 1.649257461758E9,
+    "to_time": 1.649257522989E9,
+    "vn_traffic": 2641,
+    "qt_traffic": 664
+  },
+  {
+    "mac_client": "a0:65:18:75:a4:df",
+    "from_time": 1.64925746283E9,
+    "to_time": 1.64925752299E9,
+    "vn_traffic": 828102,
+    "qt_traffic": 466
+  },
+  {
+    "mac_client": "cc:71:90:1b:2b:91",
+    "from_time": 1.649257462981E9,
+    "to_time": 1.649257522997E9,
+    "vn_traffic": 38707502,
+    "qt_traffic": 200205
+  },
+  {
+    "mac_client": "a0:65:18:3e:cb:2f",
+    "from_time": 1.649257462332E9,
+    "to_time": 1.649257522998E9,
+    "vn_traffic": 13662080,
+    "qt_traffic": 962
+  },
+  {
+    "mac_client": "a0:65:18:34:3b:f3",
+    "from_time": 1.649257462315E9,
+    "to_time": 1.649257523004E9,
+    "vn_traffic": 49125071,
+    "qt_traffic": 1111102
+  },
+  {
+    "mac_client": "a0:65:18:53:6a:84",
+    "from_time": 1.649257462469E9,
+    "to_time": 1.649257523009E9,
+    "vn_traffic": 39052152,
+    "qt_traffic": 34911
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:83:ca",
+    "from_time": 1.649257462784E9,
+    "to_time": 1.649257523013E9,
+    "vn_traffic": 27674102,
+    "qt_traffic": 1554323
+  },
+  {
+    "mac_client": "a0:65:18:9b:3d:c3",
+    "from_time": 1.649257462754E9,
+    "to_time": 1.649257523028E9,
+    "vn_traffic": 28433884,
+    "qt_traffic": 407978
+  },
+  {
+    "mac_client": "a4:f4:c2:aa:88:60",
+    "from_time": 1.64925746287E9,
+    "to_time": 1.649257523031E9,
+    "vn_traffic": 40079,
+    "qt_traffic": 29189
+  },
+  {
+    "mac_client": "a0:65:18:31:a4:e2",
+    "from_time": 1.649257462414E9,
+    "to_time": 1.649257523033E9,
+    "vn_traffic": 38440187,
+    "qt_traffic": 2444
+  },
+  {
+    "mac_client": "cc:71:90:0e:d0:f1",
+    "from_time": 1.649257461876E9,
+    "to_time": 1.649257523039E9,
+    "vn_traffic": 41690026,
+    "qt_traffic": 21998
+  },
+  {
+    "mac_client": "18:44:e6:bc:48:97",
+    "from_time": 1.649257461677E9,
+    "to_time": 1.64925752304E9,
+    "vn_traffic": 634902,
+    "qt_traffic": 76573
+  },
+  {
+    "mac_client": "a0:65:18:3e:c7:39",
+    "from_time": 1.649257462167E9,
+    "to_time": 1.649257523047E9,
+    "vn_traffic": 38744925,
+    "qt_traffic": 906
+  },
+  {
+    "mac_client": "44:f4:36:e8:b2:46",
+    "from_time": 1.649257462254E9,
+    "to_time": 1.64925752305E9,
+    "vn_traffic": 10334,
+    "qt_traffic": 9074
+  },
+  {
+    "mac_client": "a4:f4:c2:bb:d2:4e",
+    "from_time": 1.649257461648E9,
+    "to_time": 1.649257523052E9,
+    "vn_traffic": 40718,
+    "qt_traffic": 451572
+  },
+  {
+    "mac_client": "c4:a3:66:e6:59:fa",
+    "from_time": 1.649257461801E9,
+    "to_time": 1.649257523054E9,
+    "vn_traffic": 4068471,
+    "qt_traffic": 1322055
+  },
+  {
+    "mac_client": "a4:f4:c2:9c:76:49",
+    "from_time": 1.649257462888E9,
+    "to_time": 1.649257523055E9,
+    "vn_traffic": 1056,
+    "qt_traffic": 5396
+  },
+  {
+    "mac_client": "98:f4:28:ed:70:57",
+    "from_time": 1.649257462433E9,
+    "to_time": 1.64925752306E9,
+    "vn_traffic": 819,
+    "qt_traffic": 8972
+  },
+  {
+    "mac_client": "c4:a3:66:eb:60:9e",
+    "from_time": 1.649257462684E9,
+    "to_time": 1.64925752307E9,
+    "vn_traffic": 5816,
+    "qt_traffic": 11070
+  },
+  {
+    "mac_client": "cc:71:90:38:89:41",
+    "from_time": 1.649257461761E9,
+    "to_time": 1.649257523081E9,
+    "vn_traffic": 360,
+    "qt_traffic": 27136
+  },
+  {
+    "mac_client": "a4:f4:c2:a0:04:50",
+    "from_time": 1.649257463022E9,
+    "to_time": 1.649257523085E9,
+    "vn_traffic": 19244372,
+    "qt_traffic": 79621
+  },
+  {
+    "mac_client": "cc:71:90:0b:fe:39",
+    "from_time": 1.649257462811E9,
+    "to_time": 1.649257523086E9,
+    "vn_traffic": 360,
+    "qt_traffic": 8212
+  },
+  {
+    "mac_client": "a0:65:18:9f:81:c9",
+    "from_time": 1.649257463045E9,
+    "to_time": 1.649257523103E9,
+    "vn_traffic": 38657403,
+    "qt_traffic": 954
+  },
+  {
+    "mac_client": "d4:9a:a0:b2:36:12",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.649257523107E9,
+    "vn_traffic": 12354461,
+    "qt_traffic": 12517137
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:3a:09",
+    "from_time": 1.649257461791E9,
+    "to_time": 1.649257523112E9,
+    "vn_traffic": 3350953,
+    "qt_traffic": 123805
+  },
+  {
+    "mac_client": "d4:9a:a0:1e:f0:9f",
+    "from_time": 1.649257462868E9,
+    "to_time": 1.649257523123E9,
+    "vn_traffic": 1497432,
+    "qt_traffic": 13660
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:87:c1",
+    "from_time": 1.649257462352E9,
+    "to_time": 1.649257523124E9,
+    "vn_traffic": 454401,
+    "qt_traffic": 454925
+  },
+  {
+    "mac_client": "d4:9a:a0:c7:c0:59",
+    "from_time": 1.649257463122E9,
+    "to_time": 1.649257523125E9,
+    "vn_traffic": 4557412,
+    "qt_traffic": 11526
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:2b:29",
+    "from_time": 1.649257463037E9,
+    "to_time": 1.64925752313E9,
+    "vn_traffic": 39158247,
+    "qt_traffic": 292145
+  },
+  {
+    "mac_client": "c4:a3:66:e8:5d:70",
+    "from_time": 1.649257462366E9,
+    "to_time": 1.649257523145E9,
+    "vn_traffic": 664,
+    "qt_traffic": 546
+  },
+  {
+    "mac_client": "d4:9a:a0:e7:02:f9",
+    "from_time": 1.649257462316E9,
+    "to_time": 1.649257523153E9,
+    "vn_traffic": 512,
+    "qt_traffic": 830
+  },
+  {
+    "mac_client": "a0:65:18:4c:1b:1a",
+    "from_time": 1.649257462532E9,
+    "to_time": 1.649257523163E9,
+    "vn_traffic": 38874298,
+    "qt_traffic": 11713
+  },
+  {
+    "mac_client": "d4:9a:a0:80:d4:77",
+    "from_time": 1.649257462173E9,
+    "to_time": 1.64925752317E9,
+    "vn_traffic": 16942765,
+    "qt_traffic": 8758
+  },
+  {
+    "mac_client": "98:f4:28:e3:39:6e",
+    "from_time": 1.649257461805E9,
+    "to_time": 1.64925752317E9,
+    "vn_traffic": 0,
+    "qt_traffic": 9021
+  },
+  {
+    "mac_client": "18:44:e6:bc:f2:0b",
+    "from_time": 1.649257463172E9,
+    "to_time": 1.649257523172E9,
+    "vn_traffic": 78,
+    "qt_traffic": 32426422
+  },
+  {
+    "mac_client": "18:44:e6:a4:27:2c",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257523176E9,
+    "vn_traffic": 35912,
+    "qt_traffic": 268804
+  },
+  {
+    "mac_client": "ec:8a:4c:ec:ca:34",
+    "from_time": 1.649257462451E9,
+    "to_time": 1.649257523177E9,
+    "vn_traffic": 22852325,
+    "qt_traffic": 2277724
+  },
+  {
+    "mac_client": "98:f4:28:e1:b1:2f",
+    "from_time": 1.649257463179E9,
+    "to_time": 1.649257523179E9,
+    "vn_traffic": 14667305,
+    "qt_traffic": 5300646
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:7f:bb",
+    "from_time": 1.649257461792E9,
+    "to_time": 1.649257523182E9,
+    "vn_traffic": 21758655,
+    "qt_traffic": 712939
+  },
+  {
+    "mac_client": "d4:9a:a0:ed:db:49",
+    "from_time": 1.649257463173E9,
+    "to_time": 1.649257523192E9,
+    "vn_traffic": 516,
+    "qt_traffic": 13348
+  },
+  {
+    "mac_client": "24:43:e2:57:12:81",
+    "from_time": 1.649257462395E9,
+    "to_time": 1.649257523192E9,
+    "vn_traffic": 2502,
+    "qt_traffic": 47552
+  },
+  {
+    "mac_client": "ac:64:62:e9:5f:4c",
+    "from_time": 1.649257461773E9,
+    "to_time": 1.649257523195E9,
+    "vn_traffic": 21487,
+    "qt_traffic": 184306
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:46:31",
+    "from_time": 1.649257463155E9,
+    "to_time": 1.649257523205E9,
+    "vn_traffic": 3750,
+    "qt_traffic": 4747
+  },
+  {
+    "mac_client": "d4:9a:a0:ea:be:99",
+    "from_time": 1.649257462034E9,
+    "to_time": 1.649257523221E9,
+    "vn_traffic": 39657051,
+    "qt_traffic": 4363
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:61:42",
+    "from_time": 1.649257462557E9,
+    "to_time": 1.649257523227E9,
+    "vn_traffic": 24096491,
+    "qt_traffic": 261909
+  },
+  {
+    "mac_client": "14:49:bc:0c:5c:23",
+    "from_time": 1.649257462551E9,
+    "to_time": 1.64925752323E9,
+    "vn_traffic": 3830,
+    "qt_traffic": 24064
+  },
+  {
+    "mac_client": "a0:65:18:39:4a:c7",
+    "from_time": 1.649257462057E9,
+    "to_time": 1.649257523234E9,
+    "vn_traffic": 1397,
+    "qt_traffic": 3486
+  },
+  {
+    "mac_client": "c4:a3:66:e6:3d:20",
+    "from_time": 1.649257462556E9,
+    "to_time": 1.649257523245E9,
+    "vn_traffic": 38639154,
+    "qt_traffic": 33024
+  },
+  {
+    "mac_client": "98:13:33:f7:e0:66",
+    "from_time": 1.649257463089E9,
+    "to_time": 1.649257523257E9,
+    "vn_traffic": 15069349,
+    "qt_traffic": 746424
+  },
+  {
+    "mac_client": "a0:65:18:98:98:20",
+    "from_time": 1.649257461731E9,
+    "to_time": 1.649257523271E9,
+    "vn_traffic": 43628331,
+    "qt_traffic": 19204
+  },
+  {
+    "mac_client": "94:a7:b7:d2:29:e1",
+    "from_time": 1.649257461676E9,
+    "to_time": 1.649257523273E9,
+    "vn_traffic": 64806870,
+    "qt_traffic": 4625270
+  },
+  {
+    "mac_client": "a0:65:18:67:f5:24",
+    "from_time": 1.649257462632E9,
+    "to_time": 1.64925752328E9,
+    "vn_traffic": 1743656,
+    "qt_traffic": 1150321
+  },
+  {
+    "mac_client": "98:f4:28:eb:2c:d4",
+    "from_time": 1.649257462695E9,
+    "to_time": 1.649257523283E9,
+    "vn_traffic": 101164,
+    "qt_traffic": 7645
+  },
+  {
+    "mac_client": "a0:65:18:b6:5c:05",
+    "from_time": 1.649257462745E9,
+    "to_time": 1.649257523287E9,
+    "vn_traffic": 39291,
+    "qt_traffic": 91345
+  },
+  {
+    "mac_client": "ac:64:62:e9:ab:c8",
+    "from_time": 1.649257462488E9,
+    "to_time": 1.649257523294E9,
+    "vn_traffic": 38754184,
+    "qt_traffic": 60273
+  },
+  {
+    "mac_client": "a0:65:18:54:50:97",
+    "from_time": 1.649257463247E9,
+    "to_time": 1.649257523304E9,
+    "vn_traffic": 15958193,
+    "qt_traffic": 1128
+  },
+  {
+    "mac_client": "a4:f4:c2:c1:f6:f9",
+    "from_time": 1.649257462634E9,
+    "to_time": 1.649257523308E9,
+    "vn_traffic": 18602,
+    "qt_traffic": 5917
+  },
+  {
+    "mac_client": "98:f4:28:e2:59:cc",
+    "from_time": 1.649257461823E9,
+    "to_time": 1.649257523322E9,
+    "vn_traffic": 4712,
+    "qt_traffic": 2837
+  },
+  {
+    "mac_client": "44:f4:36:e7:09:73",
+    "from_time": 1.649257461896E9,
+    "to_time": 1.649257523339E9,
+    "vn_traffic": 38737994,
+    "qt_traffic": 1700
+  },
+  {
+    "mac_client": "a0:65:18:a3:bb:04",
+    "from_time": 1.649257461758E9,
+    "to_time": 1.649257523349E9,
+    "vn_traffic": 38809,
+    "qt_traffic": 55756
+  },
+  {
+    "mac_client": "98:f4:28:e2:b8:4a",
+    "from_time": 1.649257463217E9,
+    "to_time": 1.649257523368E9,
+    "vn_traffic": 29582361,
+    "qt_traffic": 508224
+  },
+  {
+    "mac_client": "a0:65:18:4f:3d:fd",
+    "from_time": 1.649257463363E9,
+    "to_time": 1.649257523368E9,
+    "vn_traffic": 63844,
+    "qt_traffic": 42997
+  },
+  {
+    "mac_client": "18:44:e6:bc:43:f1",
+    "from_time": 1.649257462711E9,
+    "to_time": 1.649257523376E9,
+    "vn_traffic": 1180,
+    "qt_traffic": 7750
+  },
+  {
+    "mac_client": "a0:65:18:4c:6f:6e",
+    "from_time": 1.64925746326E9,
+    "to_time": 1.649257523379E9,
+    "vn_traffic": 520449,
+    "qt_traffic": 7779952
+  },
+  {
+    "mac_client": "ac:64:62:e8:ab:c9",
+    "from_time": 1.649257462901E9,
+    "to_time": 1.649257523383E9,
+    "vn_traffic": 3139,
+    "qt_traffic": 17051
+  },
+  {
+    "mac_client": "18:44:e6:bd:83:c9",
+    "from_time": 1.649257463282E9,
+    "to_time": 1.649257523385E9,
+    "vn_traffic": 38129341,
+    "qt_traffic": 1188
+  },
+  {
+    "mac_client": "a4:f4:c2:a0:3e:31",
+    "from_time": 1.649257463172E9,
+    "to_time": 1.649257523406E9,
+    "vn_traffic": 0,
+    "qt_traffic": 478
+  },
+  {
+    "mac_client": "d4:9a:a0:5f:43:67",
+    "from_time": 1.649257462381E9,
+    "to_time": 1.649257523408E9,
+    "vn_traffic": 16681,
+    "qt_traffic": 18412
+  },
+  {
+    "mac_client": "ec:8a:4c:fb:5d:90",
+    "from_time": 1.649257462797E9,
+    "to_time": 1.649257523414E9,
+    "vn_traffic": 156,
+    "qt_traffic": 330
+  },
+  {
+    "mac_client": "a0:65:18:2f:05:33",
+    "from_time": 1.6492574631E9,
+    "to_time": 1.649257523437E9,
+    "vn_traffic": 69016,
+    "qt_traffic": 172668
+  },
+  {
+    "mac_client": "94:a7:b7:d2:12:f8",
+    "from_time": 1.649257461993E9,
+    "to_time": 1.649257523443E9,
+    "vn_traffic": 14242562,
+    "qt_traffic": 2013275
+  },
+  {
+    "mac_client": "a0:65:18:41:bc:62",
+    "from_time": 1.649257462668E9,
+    "to_time": 1.649257523454E9,
+    "vn_traffic": 14589420,
+    "qt_traffic": 50059
+  },
+  {
+    "mac_client": "d4:9a:a0:19:69:ff",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257523473E9,
+    "vn_traffic": 6131744,
+    "qt_traffic": 162063
+  },
+  {
+    "mac_client": "a0:65:18:59:1e:e8",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257523489E9,
+    "vn_traffic": 37002715,
+    "qt_traffic": 470
+  },
+  {
+    "mac_client": "cc:71:90:38:8d:f1",
+    "from_time": 1.649257462921E9,
+    "to_time": 1.649257523497E9,
+    "vn_traffic": 6506496,
+    "qt_traffic": 2280443
+  },
+  {
+    "mac_client": "a0:65:18:91:54:b3",
+    "from_time": 1.649257463267E9,
+    "to_time": 1.649257523529E9,
+    "vn_traffic": 144,
+    "qt_traffic": 27157
+  },
+  {
+    "mac_client": "24:43:e2:47:7e:d1",
+    "from_time": 1.649257463356E9,
+    "to_time": 1.649257523533E9,
+    "vn_traffic": 8053333,
+    "qt_traffic": 14110998
+  },
+  {
+    "mac_client": "cc:71:90:0e:a9:61",
+    "from_time": 1.649257462355E9,
+    "to_time": 1.649257523537E9,
+    "vn_traffic": 238787,
+    "qt_traffic": 114861
+  },
+  {
+    "mac_client": "d4:9a:a0:03:19:af",
+    "from_time": 1.649257462995E9,
+    "to_time": 1.649257523544E9,
+    "vn_traffic": 3244,
+    "qt_traffic": 4942
+  },
+  {
+    "mac_client": "a0:65:18:74:fb:e1",
+    "from_time": 1.649257462926E9,
+    "to_time": 1.649257523553E9,
+    "vn_traffic": 5249646,
+    "qt_traffic": 682832
+  },
+  {
+    "mac_client": "d4:9a:a0:2c:7e:07",
+    "from_time": 1.649257463581E9,
+    "to_time": 1.649257523581E9,
+    "vn_traffic": 14131673,
+    "qt_traffic": 127663
+  },
+  {
+    "mac_client": "d4:9a:a0:c7:81:99",
+    "from_time": 1.649257462346E9,
+    "to_time": 1.649257523592E9,
+    "vn_traffic": 81118373,
+    "qt_traffic": 24784
+  },
+  {
+    "mac_client": "a4:f4:c2:ed:35:cf",
+    "from_time": 1.649257461784E9,
+    "to_time": 1.6492575236E9,
+    "vn_traffic": 846,
+    "qt_traffic": 16889
+  },
+  {
+    "mac_client": "d4:9a:a0:fb:4e:a9",
+    "from_time": 1.649257462895E9,
+    "to_time": 1.649257523611E9,
+    "vn_traffic": 2401673,
+    "qt_traffic": 43374
+  },
+  {
+    "mac_client": "a0:65:18:42:c7:05",
+    "from_time": 1.649257462345E9,
+    "to_time": 1.649257523616E9,
+    "vn_traffic": 0,
+    "qt_traffic": 164177
+  },
+  {
+    "mac_client": "a4:f4:c2:d3:44:11",
+    "from_time": 1.649257462275E9,
+    "to_time": 1.649257523632E9,
+    "vn_traffic": 38968490,
+    "qt_traffic": 7145
+  },
+  {
+    "mac_client": "a4:f4:c2:bb:28:07",
+    "from_time": 1.649257462913E9,
+    "to_time": 1.649257523647E9,
+    "vn_traffic": 11104794,
+    "qt_traffic": 738049
+  },
+  {
+    "mac_client": "d4:9a:a0:e2:c2:31",
+    "from_time": 1.64925746283E9,
+    "to_time": 1.649257523656E9,
+    "vn_traffic": 7274134,
+    "qt_traffic": 16796
+  },
+  {
+    "mac_client": "c4:a3:66:e8:39:7c",
+    "from_time": 1.649257463645E9,
+    "to_time": 1.64925752366E9,
+    "vn_traffic": 16769136,
+    "qt_traffic": 45304
+  },
+  {
+    "mac_client": "a0:65:18:a3:9a:61",
+    "from_time": 1.649257462209E9,
+    "to_time": 1.649257523683E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1240
+  },
+  {
+    "mac_client": "d4:9a:a0:f7:fa:c1",
+    "from_time": 1.649257463519E9,
+    "to_time": 1.649257523684E9,
+    "vn_traffic": 43909404,
+    "qt_traffic": 10413
+  },
+  {
+    "mac_client": "ac:64:62:e8:9c:01",
+    "from_time": 1.649257461886E9,
+    "to_time": 1.649257523689E9,
+    "vn_traffic": 3062907,
+    "qt_traffic": 11569
+  },
+  {
+    "mac_client": "c4:a3:66:ec:63:04",
+    "from_time": 1.649257463598E9,
+    "to_time": 1.64925752369E9,
+    "vn_traffic": 38451907,
+    "qt_traffic": 1906
+  },
+  {
+    "mac_client": "a0:65:18:60:fc:7b",
+    "from_time": 1.649257463182E9,
+    "to_time": 1.64925752369E9,
+    "vn_traffic": 22532824,
+    "qt_traffic": 1326381
+  },
+  {
+    "mac_client": "a4:f4:c2:9d:76:ac",
+    "from_time": 1.649257463583E9,
+    "to_time": 1.64925752369E9,
+    "vn_traffic": 1104,
+    "qt_traffic": 687
+  },
+  {
+    "mac_client": "a4:f4:c2:19:c9:29",
+    "from_time": 1.64925746344E9,
+    "to_time": 1.649257523692E9,
+    "vn_traffic": 145060,
+    "qt_traffic": 42506
+  },
+  {
+    "mac_client": "a4:f4:c2:ae:37:77",
+    "from_time": 1.649257462047E9,
+    "to_time": 1.649257523693E9,
+    "vn_traffic": 78,
+    "qt_traffic": 10464
+  },
+  {
+    "mac_client": "d4:9a:a0:49:21:80",
+    "from_time": 1.649257463698E9,
+    "to_time": 1.649257523698E9,
+    "vn_traffic": 43957512,
+    "qt_traffic": 323309
+  },
+  {
+    "mac_client": "cc:71:90:17:fe:81",
+    "from_time": 1.649257462337E9,
+    "to_time": 1.649257523725E9,
+    "vn_traffic": 6890484,
+    "qt_traffic": 10933897
+  },
+  {
+    "mac_client": "70:9f:2d:d3:66:ac",
+    "from_time": 1.649257463269E9,
+    "to_time": 1.649257523729E9,
+    "vn_traffic": 0,
+    "qt_traffic": 8602
+  },
+  {
+    "mac_client": "a0:65:18:3b:75:f7",
+    "from_time": 1.649257463408E9,
+    "to_time": 1.649257523777E9,
+    "vn_traffic": 10059,
+    "qt_traffic": 173571
+  },
+  {
+    "mac_client": "98:f4:28:db:8f:9c",
+    "from_time": 1.649257461755E9,
+    "to_time": 1.649257523778E9,
+    "vn_traffic": 1220573,
+    "qt_traffic": 56947
+  },
+  {
+    "mac_client": "a0:65:18:44:28:96",
+    "from_time": 1.649257462964E9,
+    "to_time": 1.649257523778E9,
+    "vn_traffic": 2545,
+    "qt_traffic": 65369
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:83:1a",
+    "from_time": 1.649257463758E9,
+    "to_time": 1.649257523788E9,
+    "vn_traffic": 360,
+    "qt_traffic": 6534
+  },
+  {
+    "mac_client": "c4:a3:66:eb:cf:8c",
+    "from_time": 1.649257463693E9,
+    "to_time": 1.649257523789E9,
+    "vn_traffic": 7639476,
+    "qt_traffic": 214113
+  },
+  {
+    "mac_client": "d4:9a:a0:03:9a:8f",
+    "from_time": 1.649257463081E9,
+    "to_time": 1.649257523797E9,
+    "vn_traffic": 18995947,
+    "qt_traffic": 5200
+  },
+  {
+    "mac_client": "98:f4:28:e1:ab:5d",
+    "from_time": 1.649257463728E9,
+    "to_time": 1.649257523839E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2618
+  },
+  {
+    "mac_client": "a0:65:18:d1:a1:c8",
+    "from_time": 1.649257462554E9,
+    "to_time": 1.649257523872E9,
+    "vn_traffic": 9081312,
+    "qt_traffic": 33222
+  },
+  {
+    "mac_client": "a0:65:18:75:b8:08",
+    "from_time": 1.649257463205E9,
+    "to_time": 1.649257523902E9,
+    "vn_traffic": 2093,
+    "qt_traffic": 7384
+  },
+  {
+    "mac_client": "a4:f4:c2:c1:e7:db",
+    "from_time": 1.649257463209E9,
+    "to_time": 1.649257523909E9,
+    "vn_traffic": 1030,
+    "qt_traffic": 10312
+  },
+  {
+    "mac_client": "ec:8a:4c:fb:45:c6",
+    "from_time": 1.649257462946E9,
+    "to_time": 1.649257523924E9,
+    "vn_traffic": 25952820,
+    "qt_traffic": 16192
+  },
+  {
+    "mac_client": "a0:65:18:3b:9b:e0",
+    "from_time": 1.649257462405E9,
+    "to_time": 1.649257523938E9,
+    "vn_traffic": 38105771,
+    "qt_traffic": 15012
+  },
+  {
+    "mac_client": "a4:f4:c2:1b:24:0c",
+    "from_time": 1.649257463134E9,
+    "to_time": 1.649257523953E9,
+    "vn_traffic": 18295727,
+    "qt_traffic": 49601
+  },
+  {
+    "mac_client": "d4:9a:a0:86:66:00",
+    "from_time": 1.649257462337E9,
+    "to_time": 1.649257523965E9,
+    "vn_traffic": 14415,
+    "qt_traffic": 89355
+  },
+  {
+    "mac_client": "a4:f4:c2:ae:f4:c2",
+    "from_time": 1.649257463056E9,
+    "to_time": 1.649257523969E9,
+    "vn_traffic": 38536638,
+    "qt_traffic": 198
+  },
+  {
+    "mac_client": "a0:65:18:64:58:b8",
+    "from_time": 1.649257463468E9,
+    "to_time": 1.649257524005E9,
+    "vn_traffic": 952,
+    "qt_traffic": 2268
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:19:f6",
+    "from_time": 1.649257462709E9,
+    "to_time": 1.649257524021E9,
+    "vn_traffic": 81656,
+    "qt_traffic": 2118717
+  },
+  {
+    "mac_client": "a0:65:18:78:af:b6",
+    "from_time": 1.649257462137E9,
+    "to_time": 1.649257524033E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2738
+  },
+  {
+    "mac_client": "d4:9a:a0:39:73:cf",
+    "from_time": 1.64925746334E9,
+    "to_time": 1.649257524063E9,
+    "vn_traffic": 2185,
+    "qt_traffic": 11345
+  },
+  {
+    "mac_client": "d4:9a:a0:81:fa:ef",
+    "from_time": 1.649257461871E9,
+    "to_time": 1.649257524071E9,
+    "vn_traffic": 7687295,
+    "qt_traffic": 7630351
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:27:d9",
+    "from_time": 1.649257464051E9,
+    "to_time": 1.649257524074E9,
+    "vn_traffic": 360,
+    "qt_traffic": 35060
+  },
+  {
+    "mac_client": "c4:a3:66:e6:87:36",
+    "from_time": 1.649257463346E9,
+    "to_time": 1.649257524114E9,
+    "vn_traffic": 0,
+    "qt_traffic": 11701
+  },
+  {
+    "mac_client": "ac:64:62:e9:8a:e4",
+    "from_time": 1.64925746404E9,
+    "to_time": 1.649257524126E9,
+    "vn_traffic": 38519771,
+    "qt_traffic": 5304
+  },
+  {
+    "mac_client": "34:4d:ea:d7:f5:68",
+    "from_time": 1.649257463362E9,
+    "to_time": 1.649257524136E9,
+    "vn_traffic": 21585054,
+    "qt_traffic": 619860
+  },
+  {
+    "mac_client": "5c:c7:d7:1f:26:3e",
+    "from_time": 1.649257462305E9,
+    "to_time": 1.64925752417E9,
+    "vn_traffic": 134094,
+    "qt_traffic": 94229
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:9c:00",
+    "from_time": 1.649257464066E9,
+    "to_time": 1.649257524193E9,
+    "vn_traffic": 38980755,
+    "qt_traffic": 598
+  },
+  {
+    "mac_client": "18:44:e6:bc:48:4c",
+    "from_time": 1.649257462918E9,
+    "to_time": 1.6492575242E9,
+    "vn_traffic": 1034,
+    "qt_traffic": 8952
+  },
+  {
+    "mac_client": "24:43:e2:60:fd:69",
+    "from_time": 1.649257462832E9,
+    "to_time": 1.649257524216E9,
+    "vn_traffic": 14744531,
+    "qt_traffic": 30967
+  },
+  {
+    "mac_client": "a4:f4:c2:c1:1c:25",
+    "from_time": 1.649257464046E9,
+    "to_time": 1.649257524229E9,
+    "vn_traffic": 46636411,
+    "qt_traffic": 16692
+  },
+  {
+    "mac_client": "98:f4:28:e2:ff:67",
+    "from_time": 1.649257464211E9,
+    "to_time": 1.649257524238E9,
+    "vn_traffic": 9268,
+    "qt_traffic": 4590
+  },
+  {
+    "mac_client": "a4:f4:c2:a2:72:42",
+    "from_time": 1.649257463512E9,
+    "to_time": 1.64925752424E9,
+    "vn_traffic": 234,
+    "qt_traffic": 756
+  },
+  {
+    "mac_client": "a0:65:18:2d:52:26",
+    "from_time": 1.64925746302E9,
+    "to_time": 1.649257524244E9,
+    "vn_traffic": 39353326,
+    "qt_traffic": 22053
+  },
+  {
+    "mac_client": "98:f4:28:e2:2e:7a",
+    "from_time": 1.649257463821E9,
+    "to_time": 1.649257524255E9,
+    "vn_traffic": 188,
+    "qt_traffic": 4052
+  },
+  {
+    "mac_client": "98:f4:28:e3:41:2a",
+    "from_time": 1.649257462186E9,
+    "to_time": 1.649257524276E9,
+    "vn_traffic": 440,
+    "qt_traffic": 1489
+  },
+  {
+    "mac_client": "a0:65:18:44:43:21",
+    "from_time": 1.649257463636E9,
+    "to_time": 1.649257524287E9,
+    "vn_traffic": 188,
+    "qt_traffic": 134777
+  },
+  {
+    "mac_client": "5c:c7:d7:1f:39:a6",
+    "from_time": 1.649257464292E9,
+    "to_time": 1.649257524294E9,
+    "vn_traffic": 6434369,
+    "qt_traffic": 2600788
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:34:c1",
+    "from_time": 1.64925746353E9,
+    "to_time": 1.649257524306E9,
+    "vn_traffic": 516,
+    "qt_traffic": 6248
+  },
+  {
+    "mac_client": "a0:65:18:49:a6:5e",
+    "from_time": 1.649257462265E9,
+    "to_time": 1.649257524326E9,
+    "vn_traffic": 0,
+    "qt_traffic": 4309
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:bd:c1",
+    "from_time": 1.649257462694E9,
+    "to_time": 1.64925752433E9,
+    "vn_traffic": 570,
+    "qt_traffic": 5774
+  },
+  {
+    "mac_client": "d4:9a:a0:cb:9c:89",
+    "from_time": 1.649257463807E9,
+    "to_time": 1.64925752433E9,
+    "vn_traffic": 73500,
+    "qt_traffic": 3781972
+  },
+  {
+    "mac_client": "d4:9a:a0:6a:78:b1",
+    "from_time": 1.649257464287E9,
+    "to_time": 1.64925752434E9,
+    "vn_traffic": 21417852,
+    "qt_traffic": 8497
+  },
+  {
+    "mac_client": "a4:f4:c2:e9:d1:07",
+    "from_time": 1.649257464282E9,
+    "to_time": 1.649257524347E9,
+    "vn_traffic": 14034471,
+    "qt_traffic": 12914
+  },
+  {
+    "mac_client": "a0:65:18:4a:9c:d0",
+    "from_time": 1.649257462219E9,
+    "to_time": 1.649257524363E9,
+    "vn_traffic": 39128750,
+    "qt_traffic": 36366
+  },
+  {
+    "mac_client": "ac:64:62:e8:a3:d1",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.649257524368E9,
+    "vn_traffic": 12830711,
+    "qt_traffic": 588454
+  },
+  {
+    "mac_client": "18:44:e6:a3:d4:11",
+    "from_time": 1.649257462663E9,
+    "to_time": 1.649257524399E9,
+    "vn_traffic": 271,
+    "qt_traffic": 534
+  },
+  {
+    "mac_client": "a0:65:18:44:2f:5c",
+    "from_time": 1.649257461741E9,
+    "to_time": 1.649257524408E9,
+    "vn_traffic": 73721,
+    "qt_traffic": 269461
+  },
+  {
+    "mac_client": "a0:65:18:48:f1:bf",
+    "from_time": 1.649257462866E9,
+    "to_time": 1.649257524448E9,
+    "vn_traffic": 78,
+    "qt_traffic": 40607
+  },
+  {
+    "mac_client": "cc:71:90:39:48:79",
+    "from_time": 1.649257464223E9,
+    "to_time": 1.649257524451E9,
+    "vn_traffic": 13009548,
+    "qt_traffic": 7617
+  },
+  {
+    "mac_client": "ac:64:62:e9:4b:65",
+    "from_time": 1.649257463556E9,
+    "to_time": 1.649257524478E9,
+    "vn_traffic": 7884,
+    "qt_traffic": 36369
+  },
+  {
+    "mac_client": "1c:5f:2b:10:c4:9f",
+    "from_time": 1.649257464456E9,
+    "to_time": 1.649257524491E9,
+    "vn_traffic": 216121,
+    "qt_traffic": 3188359
+  },
+  {
+    "mac_client": "70:9f:2d:d3:e0:6e",
+    "from_time": 1.649257462516E9,
+    "to_time": 1.649257524493E9,
+    "vn_traffic": 16080,
+    "qt_traffic": 16641
+  },
+  {
+    "mac_client": "44:f4:36:e7:75:a7",
+    "from_time": 1.649257464405E9,
+    "to_time": 1.649257524497E9,
+    "vn_traffic": 38308003,
+    "qt_traffic": 420
+  },
+  {
+    "mac_client": "c4:a3:66:e5:fd:ea",
+    "from_time": 1.649257461927E9,
+    "to_time": 1.649257524499E9,
+    "vn_traffic": 17710456,
+    "qt_traffic": 213181
+  },
+  {
+    "mac_client": "a0:65:18:3b:65:74",
+    "from_time": 1.649257463233E9,
+    "to_time": 1.64925752451E9,
+    "vn_traffic": 21768,
+    "qt_traffic": 64180
+  },
+  {
+    "mac_client": "a0:65:18:5a:b4:4e",
+    "from_time": 1.649257461647E9,
+    "to_time": 1.64925752455E9,
+    "vn_traffic": 0,
+    "qt_traffic": 73605
+  },
+  {
+    "mac_client": "d4:9a:a0:42:63:27",
+    "from_time": 1.649257462091E9,
+    "to_time": 1.649257524554E9,
+    "vn_traffic": 28618709,
+    "qt_traffic": 49088
+  },
+  {
+    "mac_client": "a0:65:18:75:11:ca",
+    "from_time": 1.649257463625E9,
+    "to_time": 1.649257524557E9,
+    "vn_traffic": 29263671,
+    "qt_traffic": 7234
+  },
+  {
+    "mac_client": "a4:f4:c2:d0:f2:52",
+    "from_time": 1.649257463627E9,
+    "to_time": 1.649257524563E9,
+    "vn_traffic": 156,
+    "qt_traffic": 4235
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:0e:09",
+    "from_time": 1.649257464547E9,
+    "to_time": 1.649257524593E9,
+    "vn_traffic": 5053,
+    "qt_traffic": 293638
+  },
+  {
+    "mac_client": "a0:65:18:ad:c8:86",
+    "from_time": 1.649257463305E9,
+    "to_time": 1.649257524624E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1708
+  },
+  {
+    "mac_client": "a4:f4:c2:c3:11:e0",
+    "from_time": 1.649257462027E9,
+    "to_time": 1.649257524624E9,
+    "vn_traffic": 9595779,
+    "qt_traffic": 7240
+  },
+  {
+    "mac_client": "24:43:e2:6b:4f:41",
+    "from_time": 1.649257464054E9,
+    "to_time": 1.649257524631E9,
+    "vn_traffic": 274,
+    "qt_traffic": 2042
+  },
+  {
+    "mac_client": "18:44:e6:bc:ec:a2",
+    "from_time": 1.649257463164E9,
+    "to_time": 1.649257524633E9,
+    "vn_traffic": 20816,
+    "qt_traffic": 1130359
+  },
+  {
+    "mac_client": "98:f4:28:e9:e5:e0",
+    "from_time": 1.649257463169E9,
+    "to_time": 1.64925752466E9,
+    "vn_traffic": 393113,
+    "qt_traffic": 666677
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:bd:d5",
+    "from_time": 1.649257461947E9,
+    "to_time": 1.649257524665E9,
+    "vn_traffic": 2846,
+    "qt_traffic": 4487
+  },
+  {
+    "mac_client": "a0:65:18:5f:b5:06",
+    "from_time": 1.649257464542E9,
+    "to_time": 1.649257524688E9,
+    "vn_traffic": 524,
+    "qt_traffic": 34356
+  },
+  {
+    "mac_client": "d4:9a:a0:f7:ff:89",
+    "from_time": 1.64925746178E9,
+    "to_time": 1.649257524691E9,
+    "vn_traffic": 676,
+    "qt_traffic": 780
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:01:c9",
+    "from_time": 1.649257461944E9,
+    "to_time": 1.649257524698E9,
+    "vn_traffic": 520,
+    "qt_traffic": 5320
+  },
+  {
+    "mac_client": "a0:65:18:5e:ed:71",
+    "from_time": 1.649257464541E9,
+    "to_time": 1.649257524707E9,
+    "vn_traffic": 1099542,
+    "qt_traffic": 2096632
+  },
+  {
+    "mac_client": "a0:65:18:75:b8:a4",
+    "from_time": 1.649257464185E9,
+    "to_time": 1.64925752474E9,
+    "vn_traffic": 38451498,
+    "qt_traffic": 35097
+  },
+  {
+    "mac_client": "a0:65:18:86:92:5f",
+    "from_time": 1.64925746181E9,
+    "to_time": 1.649257524742E9,
+    "vn_traffic": 343,
+    "qt_traffic": 4765
+  },
+  {
+    "mac_client": "d4:9a:a0:cb:92:89",
+    "from_time": 1.649257462781E9,
+    "to_time": 1.649257524756E9,
+    "vn_traffic": 6877,
+    "qt_traffic": 4038
+  },
+  {
+    "mac_client": "98:f4:28:e1:e2:a3",
+    "from_time": 1.649257464336E9,
+    "to_time": 1.649257524761E9,
+    "vn_traffic": 2503,
+    "qt_traffic": 20389218
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:1f:70",
+    "from_time": 1.649257461665E9,
+    "to_time": 1.649257524768E9,
+    "vn_traffic": 470,
+    "qt_traffic": 12326
+  },
+  {
+    "mac_client": "cc:71:90:43:b6:61",
+    "from_time": 1.64925746338E9,
+    "to_time": 1.649257524802E9,
+    "vn_traffic": 360,
+    "qt_traffic": 6406
+  },
+  {
+    "mac_client": "a0:65:18:64:4b:47",
+    "from_time": 1.649257464742E9,
+    "to_time": 1.649257524829E9,
+    "vn_traffic": 38720419,
+    "qt_traffic": 1379
+  },
+  {
+    "mac_client": "a0:65:18:8c:e1:e8",
+    "from_time": 1.649257463605E9,
+    "to_time": 1.649257524834E9,
+    "vn_traffic": 266,
+    "qt_traffic": 84718
+  },
+  {
+    "mac_client": "a0:65:18:2e:ec:a8",
+    "from_time": 1.649257464379E9,
+    "to_time": 1.649257524835E9,
+    "vn_traffic": 6917,
+    "qt_traffic": 28473
+  },
+  {
+    "mac_client": "a4:f4:c2:b9:9a:6f",
+    "from_time": 1.649257461868E9,
+    "to_time": 1.649257524837E9,
+    "vn_traffic": 902,
+    "qt_traffic": 752
+  },
+  {
+    "mac_client": "a0:65:18:b7:9a:2c",
+    "from_time": 1.649257463158E9,
+    "to_time": 1.649257524842E9,
+    "vn_traffic": 950,
+    "qt_traffic": 3586
+  },
+  {
+    "mac_client": "a0:65:18:64:64:28",
+    "from_time": 1.64925746199E9,
+    "to_time": 1.649257524876E9,
+    "vn_traffic": 33858,
+    "qt_traffic": 127396
+  },
+  {
+    "mac_client": "d4:9a:a0:b7:38:11",
+    "from_time": 1.649257462179E9,
+    "to_time": 1.649257524878E9,
+    "vn_traffic": 2281,
+    "qt_traffic": 142578
+  },
+  {
+    "mac_client": "ac:64:62:e9:a2:31",
+    "from_time": 1.649257461646E9,
+    "to_time": 1.649257524883E9,
+    "vn_traffic": 77382,
+    "qt_traffic": 249744
+  },
+  {
+    "mac_client": "a0:65:18:9b:9c:f1",
+    "from_time": 1.649257464616E9,
+    "to_time": 1.649257524884E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1715
+  },
+  {
+    "mac_client": "cc:71:90:42:d9:91",
+    "from_time": 1.649257463108E9,
+    "to_time": 1.649257524888E9,
+    "vn_traffic": 438,
+    "qt_traffic": 826
+  },
+  {
+    "mac_client": "c4:a3:66:e8:1e:a6",
+    "from_time": 1.649257462708E9,
+    "to_time": 1.649257524889E9,
+    "vn_traffic": 4421375,
+    "qt_traffic": 2029
+  },
+  {
+    "mac_client": "a0:65:18:64:56:c0",
+    "from_time": 1.649257461988E9,
+    "to_time": 1.649257524892E9,
+    "vn_traffic": 107403,
+    "qt_traffic": 927309
+  },
+  {
+    "mac_client": "d4:9a:a0:9b:f7:29",
+    "from_time": 1.649257464768E9,
+    "to_time": 1.649257524901E9,
+    "vn_traffic": 26748,
+    "qt_traffic": 13038
+  },
+  {
+    "mac_client": "a4:f4:c2:1b:18:f9",
+    "from_time": 1.649257463567E9,
+    "to_time": 1.649257524998E9,
+    "vn_traffic": 50575,
+    "qt_traffic": 87267
+  },
+  {
+    "mac_client": "94:a7:b7:d2:ed:2c",
+    "from_time": 1.649257464677E9,
+    "to_time": 1.649257524999E9,
+    "vn_traffic": 32975962,
+    "qt_traffic": 3278
+  },
+  {
+    "mac_client": "ac:64:62:d1:37:d2",
+    "from_time": 1.649257463874E9,
+    "to_time": 1.649257525016E9,
+    "vn_traffic": 5554,
+    "qt_traffic": 2544
+  },
+  {
+    "mac_client": "a0:65:18:30:25:ff",
+    "from_time": 1.649257465026E9,
+    "to_time": 1.649257525027E9,
+    "vn_traffic": 16440563,
+    "qt_traffic": 82225
+  },
+  {
+    "mac_client": "a0:65:18:41:bc:8f",
+    "from_time": 1.649257463198E9,
+    "to_time": 1.649257525034E9,
+    "vn_traffic": 8748968,
+    "qt_traffic": 15310
+  },
+  {
+    "mac_client": "a4:f4:c2:ec:46:8f",
+    "from_time": 1.649257465067E9,
+    "to_time": 1.649257525083E9,
+    "vn_traffic": 1518,
+    "qt_traffic": 268
+  },
+  {
+    "mac_client": "94:a7:b7:d1:f4:ee",
+    "from_time": 1.649257465018E9,
+    "to_time": 1.649257525084E9,
+    "vn_traffic": 38543328,
+    "qt_traffic": 1617
+  },
+  {
+    "mac_client": "a4:f4:c2:d3:3c:89",
+    "from_time": 1.649257464844E9,
+    "to_time": 1.649257525094E9,
+    "vn_traffic": 0,
+    "qt_traffic": 8492
+  },
+  {
+    "mac_client": "cc:71:90:17:51:11",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257525113E9,
+    "vn_traffic": 36013437,
+    "qt_traffic": 1907
+  },
+  {
+    "mac_client": "a0:65:18:ca:08:06",
+    "from_time": 1.649257462266E9,
+    "to_time": 1.649257525116E9,
+    "vn_traffic": 57566965,
+    "qt_traffic": 8552
+  },
+  {
+    "mac_client": "98:f4:28:db:86:91",
+    "from_time": 1.649257464407E9,
+    "to_time": 1.64925752512E9,
+    "vn_traffic": 43026572,
+    "qt_traffic": 1644
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:07:cc",
+    "from_time": 1.649257462865E9,
+    "to_time": 1.649257525148E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2826
+  },
+  {
+    "mac_client": "18:44:e6:a3:86:37",
+    "from_time": 1.649257464407E9,
+    "to_time": 1.649257525156E9,
+    "vn_traffic": 4712,
+    "qt_traffic": 16429014
+  },
+  {
+    "mac_client": "a0:65:18:75:25:57",
+    "from_time": 1.649257464282E9,
+    "to_time": 1.649257525185E9,
+    "vn_traffic": 9396031,
+    "qt_traffic": 42605
+  },
+  {
+    "mac_client": "a0:65:18:40:e7:8f",
+    "from_time": 1.649257462509E9,
+    "to_time": 1.649257525187E9,
+    "vn_traffic": 13041282,
+    "qt_traffic": 272
+  },
+  {
+    "mac_client": "a0:65:18:77:5d:82",
+    "from_time": 1.649257463021E9,
+    "to_time": 1.649257525188E9,
+    "vn_traffic": 19545,
+    "qt_traffic": 21712
+  },
+  {
+    "mac_client": "a0:65:18:ac:af:67",
+    "from_time": 1.649257464087E9,
+    "to_time": 1.649257525192E9,
+    "vn_traffic": 0,
+    "qt_traffic": 3894
+  },
+  {
+    "mac_client": "c4:a3:66:e8:03:6a",
+    "from_time": 1.649257462211E9,
+    "to_time": 1.649257525194E9,
+    "vn_traffic": 798,
+    "qt_traffic": 7425
+  },
+  {
+    "mac_client": "a0:65:18:2e:fa:86",
+    "from_time": 1.649257463677E9,
+    "to_time": 1.649257525195E9,
+    "vn_traffic": 234,
+    "qt_traffic": 2761836
+  },
+  {
+    "mac_client": "c4:a3:66:e8:18:2e",
+    "from_time": 1.649257461704E9,
+    "to_time": 1.649257525203E9,
+    "vn_traffic": 1004,
+    "qt_traffic": 12151
+  },
+  {
+    "mac_client": "a0:65:18:2f:c2:56",
+    "from_time": 1.649257463019E9,
+    "to_time": 1.649257525203E9,
+    "vn_traffic": 17950,
+    "qt_traffic": 4859
+  },
+  {
+    "mac_client": "98:f4:28:da:5b:4a",
+    "from_time": 1.649257462901E9,
+    "to_time": 1.649257525241E9,
+    "vn_traffic": 0,
+    "qt_traffic": 10357
+  },
+  {
+    "mac_client": "98:f4:28:eb:a8:8f",
+    "from_time": 1.649257462776E9,
+    "to_time": 1.649257525263E9,
+    "vn_traffic": 1641394,
+    "qt_traffic": 328192
+  },
+  {
+    "mac_client": "a0:65:18:74:fa:dc",
+    "from_time": 1.649257465317E9,
+    "to_time": 1.649257525317E9,
+    "vn_traffic": 1961114,
+    "qt_traffic": 3418934
+  },
+  {
+    "mac_client": "34:4d:ea:d8:55:38",
+    "from_time": 1.649257464648E9,
+    "to_time": 1.649257525324E9,
+    "vn_traffic": 19449,
+    "qt_traffic": 2713
+  },
+  {
+    "mac_client": "a0:65:18:54:51:f3",
+    "from_time": 1.649257465276E9,
+    "to_time": 1.649257525327E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2922
+  },
+  {
+    "mac_client": "94:a7:b7:d3:48:26",
+    "from_time": 1.649257465321E9,
+    "to_time": 1.64925752533E9,
+    "vn_traffic": 848,
+    "qt_traffic": 2986
+  },
+  {
+    "mac_client": "c4:a3:66:e6:6d:3e",
+    "from_time": 1.649257463268E9,
+    "to_time": 1.649257525355E9,
+    "vn_traffic": 6680380,
+    "qt_traffic": 53179
+  },
+  {
+    "mac_client": "98:f4:28:da:5e:a1",
+    "from_time": 1.649257463022E9,
+    "to_time": 1.649257525357E9,
+    "vn_traffic": 1594174,
+    "qt_traffic": 439062
+  },
+  {
+    "mac_client": "98:f4:28:e2:4e:14",
+    "from_time": 1.649257465268E9,
+    "to_time": 1.649257525384E9,
+    "vn_traffic": 4530719,
+    "qt_traffic": 36425
+  },
+  {
+    "mac_client": "a0:65:18:75:23:1a",
+    "from_time": 1.649257461657E9,
+    "to_time": 1.649257525401E9,
+    "vn_traffic": 0,
+    "qt_traffic": 37791
+  },
+  {
+    "mac_client": "ac:64:62:e9:a0:b0",
+    "from_time": 1.649257465283E9,
+    "to_time": 1.649257525415E9,
+    "vn_traffic": 773,
+    "qt_traffic": 4684
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:97:a8",
+    "from_time": 1.649257463422E9,
+    "to_time": 1.649257525439E9,
+    "vn_traffic": 78,
+    "qt_traffic": 2951
+  },
+  {
+    "mac_client": "94:a7:b7:d2:70:86",
+    "from_time": 1.64925746245E9,
+    "to_time": 1.649257525448E9,
+    "vn_traffic": 746,
+    "qt_traffic": 1086
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:16:45",
+    "from_time": 1.649257462823E9,
+    "to_time": 1.649257525463E9,
+    "vn_traffic": 1171,
+    "qt_traffic": 2571
+  },
+  {
+    "mac_client": "cc:71:90:57:7c:4a",
+    "from_time": 1.649257463349E9,
+    "to_time": 1.649257525469E9,
+    "vn_traffic": 16345973,
+    "qt_traffic": 33493
+  },
+  {
+    "mac_client": "a0:65:18:3c:9d:a7",
+    "from_time": 1.649257465255E9,
+    "to_time": 1.649257525471E9,
+    "vn_traffic": 865,
+    "qt_traffic": 1000
+  },
+  {
+    "mac_client": "ac:64:62:e9:45:34",
+    "from_time": 1.649257465401E9,
+    "to_time": 1.649257525473E9,
+    "vn_traffic": 13510746,
+    "qt_traffic": 1211314
+  },
+  {
+    "mac_client": "a0:65:18:74:5f:18",
+    "from_time": 1.649257463585E9,
+    "to_time": 1.649257525511E9,
+    "vn_traffic": 41908340,
+    "qt_traffic": 53192
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:b2:e7",
+    "from_time": 1.649257465246E9,
+    "to_time": 1.649257525536E9,
+    "vn_traffic": 5613,
+    "qt_traffic": 5814
+  },
+  {
+    "mac_client": "a0:65:18:75:3a:17",
+    "from_time": 1.649257461645E9,
+    "to_time": 1.649257525567E9,
+    "vn_traffic": 42132082,
+    "qt_traffic": 2148
+  },
+  {
+    "mac_client": "cc:71:90:18:67:81",
+    "from_time": 1.649257464423E9,
+    "to_time": 1.649257525595E9,
+    "vn_traffic": 1269,
+    "qt_traffic": 5150
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:16:06",
+    "from_time": 1.649257462612E9,
+    "to_time": 1.649257525609E9,
+    "vn_traffic": 746,
+    "qt_traffic": 2324
+  },
+  {
+    "mac_client": "d4:9a:a0:e6:57:21",
+    "from_time": 1.649257463223E9,
+    "to_time": 1.649257525647E9,
+    "vn_traffic": 865,
+    "qt_traffic": 925
+  },
+  {
+    "mac_client": "a0:65:18:75:b8:9b",
+    "from_time": 1.649257464386E9,
+    "to_time": 1.649257525651E9,
+    "vn_traffic": 156,
+    "qt_traffic": 33081
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:98:9e",
+    "from_time": 1.649257461871E9,
+    "to_time": 1.649257525673E9,
+    "vn_traffic": 38978871,
+    "qt_traffic": 1250
+  },
+  {
+    "mac_client": "d4:9a:a0:c9:6b:6a",
+    "from_time": 1.649257465406E9,
+    "to_time": 1.649257525686E9,
+    "vn_traffic": 360,
+    "qt_traffic": 3135
+  },
+  {
+    "mac_client": "d4:9a:a0:f1:45:69",
+    "from_time": 1.649257463568E9,
+    "to_time": 1.649257525692E9,
+    "vn_traffic": 360,
+    "qt_traffic": 28729
+  },
+  {
+    "mac_client": "a0:65:18:8c:d9:a2",
+    "from_time": 1.649257465671E9,
+    "to_time": 1.649257525698E9,
+    "vn_traffic": 0,
+    "qt_traffic": 26760
+  },
+  {
+    "mac_client": "a0:65:18:9f:aa:a0",
+    "from_time": 1.649257464387E9,
+    "to_time": 1.649257525702E9,
+    "vn_traffic": 0,
+    "qt_traffic": 20197
+  },
+  {
+    "mac_client": "a0:65:18:74:bb:c0",
+    "from_time": 1.64925746425E9,
+    "to_time": 1.649257525715E9,
+    "vn_traffic": 202482,
+    "qt_traffic": 44897
+  },
+  {
+    "mac_client": "74:83:c2:6d:ec:34",
+    "from_time": 1.649257465726E9,
+    "to_time": 1.64925752573E9,
+    "vn_traffic": 53924360,
+    "qt_traffic": 13728
+  },
+  {
+    "mac_client": "2c:c8:1b:ed:2c:40",
+    "from_time": 1.649257463425E9,
+    "to_time": 1.649257525737E9,
+    "vn_traffic": 1420,
+    "qt_traffic": 2694
+  },
+  {
+    "mac_client": "a0:65:18:a3:b8:07",
+    "from_time": 1.649257463312E9,
+    "to_time": 1.649257525747E9,
+    "vn_traffic": 16680744,
+    "qt_traffic": 163782
+  },
+  {
+    "mac_client": "a0:65:18:72:d9:bc",
+    "from_time": 1.649257462268E9,
+    "to_time": 1.649257525758E9,
+    "vn_traffic": 1035,
+    "qt_traffic": 3910
+  },
+  {
+    "mac_client": "a0:65:18:3e:04:f0",
+    "from_time": 1.649257463704E9,
+    "to_time": 1.649257525789E9,
+    "vn_traffic": 2310479,
+    "qt_traffic": 3898
+  },
+  {
+    "mac_client": "a0:65:18:98:95:c2",
+    "from_time": 1.649257463586E9,
+    "to_time": 1.649257525798E9,
+    "vn_traffic": 0,
+    "qt_traffic": 21122
+  },
+  {
+    "mac_client": "d4:9a:a0:88:47:37",
+    "from_time": 1.649257463242E9,
+    "to_time": 1.649257525804E9,
+    "vn_traffic": 0,
+    "qt_traffic": 400
+  },
+  {
+    "mac_client": "d4:9a:a0:4b:b1:e8",
+    "from_time": 1.649257462997E9,
+    "to_time": 1.649257525806E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1775
+  },
+  {
+    "mac_client": "d4:9a:a0:f5:bc:e1",
+    "from_time": 1.649257463393E9,
+    "to_time": 1.649257525853E9,
+    "vn_traffic": 37968055,
+    "qt_traffic": 1010
+  },
+  {
+    "mac_client": "a4:f4:c2:19:db:b6",
+    "from_time": 1.649257464317E9,
+    "to_time": 1.649257525865E9,
+    "vn_traffic": 2858,
+    "qt_traffic": 275
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:85:fd",
+    "from_time": 1.649257465559E9,
+    "to_time": 1.649257525906E9,
+    "vn_traffic": 3128,
+    "qt_traffic": 114766
+  },
+  {
+    "mac_client": "98:f4:28:ea:37:70",
+    "from_time": 1.649257463606E9,
+    "to_time": 1.649257525933E9,
+    "vn_traffic": 12821,
+    "qt_traffic": 210192
+  },
+  {
+    "mac_client": "a0:65:18:41:d2:13",
+    "from_time": 1.649257465313E9,
+    "to_time": 1.649257525945E9,
+    "vn_traffic": 244277,
+    "qt_traffic": 11443
+  },
+  {
+    "mac_client": "98:f4:28:e1:ad:47",
+    "from_time": 1.649257465837E9,
+    "to_time": 1.649257525976E9,
+    "vn_traffic": 152,
+    "qt_traffic": 12344
+  },
+  {
+    "mac_client": "a4:f4:c2:bb:03:ce",
+    "from_time": 1.649257464041E9,
+    "to_time": 1.649257525988E9,
+    "vn_traffic": 148,
+    "qt_traffic": 874
+  },
+  {
+    "mac_client": "c4:a3:66:e6:8a:60",
+    "from_time": 1.649257463391E9,
+    "to_time": 1.649257526012E9,
+    "vn_traffic": 7323,
+    "qt_traffic": 2856
+  },
+  {
+    "mac_client": "a0:65:18:72:bf:ca",
+    "from_time": 1.649257464368E9,
+    "to_time": 1.649257526035E9,
+    "vn_traffic": 234,
+    "qt_traffic": 338
+  },
+  {
+    "mac_client": "18:44:e6:bc:c8:26",
+    "from_time": 1.64925746427E9,
+    "to_time": 1.649257526052E9,
+    "vn_traffic": 5338832,
+    "qt_traffic": 4214
+  },
+  {
+    "mac_client": "ac:64:62:e9:53:49",
+    "from_time": 1.649257466077E9,
+    "to_time": 1.649257526078E9,
+    "vn_traffic": 0,
+    "qt_traffic": 116110
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:ad:30",
+    "from_time": 1.649257465896E9,
+    "to_time": 1.649257526091E9,
+    "vn_traffic": 194663,
+    "qt_traffic": 432492
+  },
+  {
+    "mac_client": "24:43:e2:6b:c7:d1",
+    "from_time": 1.649257463169E9,
+    "to_time": 1.649257526101E9,
+    "vn_traffic": 0,
+    "qt_traffic": 688
+  },
+  {
+    "mac_client": "98:f4:28:e1:c7:b4",
+    "from_time": 1.649257466088E9,
+    "to_time": 1.649257526112E9,
+    "vn_traffic": 156,
+    "qt_traffic": 598
+  },
+  {
+    "mac_client": "98:f4:28:ea:e6:16",
+    "from_time": 1.649257464439E9,
+    "to_time": 1.649257526128E9,
+    "vn_traffic": 31023394,
+    "qt_traffic": 2736
+  },
+  {
+    "mac_client": "98:f4:28:ea:eb:cf",
+    "from_time": 1.649257461685E9,
+    "to_time": 1.649257526168E9,
+    "vn_traffic": 230,
+    "qt_traffic": 5281
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:de:a0",
+    "from_time": 1.649257462746E9,
+    "to_time": 1.649257526191E9,
+    "vn_traffic": 0,
+    "qt_traffic": 8003
+  },
+  {
+    "mac_client": "d4:9a:a0:39:c9:87",
+    "from_time": 1.649257466076E9,
+    "to_time": 1.649257526204E9,
+    "vn_traffic": 458,
+    "qt_traffic": 562
+  },
+  {
+    "mac_client": "24:43:e2:57:21:a1",
+    "from_time": 1.649257465778E9,
+    "to_time": 1.649257526218E9,
+    "vn_traffic": 10186,
+    "qt_traffic": 72932
+  },
+  {
+    "mac_client": "a0:65:18:75:3a:fb",
+    "from_time": 1.649257463663E9,
+    "to_time": 1.649257526266E9,
+    "vn_traffic": 4134743,
+    "qt_traffic": 14888010
+  },
+  {
+    "mac_client": "ac:64:62:e9:93:b8",
+    "from_time": 1.649257463219E9,
+    "to_time": 1.649257526299E9,
+    "vn_traffic": 428,
+    "qt_traffic": 7714
+  },
+  {
+    "mac_client": "a0:65:18:3c:a5:cf",
+    "from_time": 1.649257466313E9,
+    "to_time": 1.649257526319E9,
+    "vn_traffic": 14215,
+    "qt_traffic": 2388
+  },
+  {
+    "mac_client": "d4:9a:a0:48:e9:18",
+    "from_time": 1.649257465775E9,
+    "to_time": 1.649257526362E9,
+    "vn_traffic": 0,
+    "qt_traffic": 23637
+  },
+  {
+    "mac_client": "a4:f4:c2:a7:0c:0d",
+    "from_time": 1.649257466362E9,
+    "to_time": 1.649257526412E9,
+    "vn_traffic": 1398,
+    "qt_traffic": 334
+  },
+  {
+    "mac_client": "d4:9a:a0:d0:b7:31",
+    "from_time": 1.649257464616E9,
+    "to_time": 1.649257526421E9,
+    "vn_traffic": 504,
+    "qt_traffic": 1086
+  },
+  {
+    "mac_client": "a4:f4:c2:a0:20:a6",
+    "from_time": 1.649257462738E9,
+    "to_time": 1.649257526472E9,
+    "vn_traffic": 595,
+    "qt_traffic": 15763
+  },
+  {
+    "mac_client": "a0:65:18:74:ff:9b",
+    "from_time": 1.649257463499E9,
+    "to_time": 1.649257526498E9,
+    "vn_traffic": 3366,
+    "qt_traffic": 39434
+  },
+  {
+    "mac_client": "98:f4:28:ea:a1:74",
+    "from_time": 1.649257465067E9,
+    "to_time": 1.649257526506E9,
+    "vn_traffic": 6117350,
+    "qt_traffic": 49183
+  },
+  {
+    "mac_client": "a0:65:18:2e:ff:c3",
+    "from_time": 1.649257465782E9,
+    "to_time": 1.649257526614E9,
+    "vn_traffic": 78,
+    "qt_traffic": 2548
+  },
+  {
+    "mac_client": "d4:9a:a0:cb:9e:29",
+    "from_time": 1.649257465982E9,
+    "to_time": 1.64925752662E9,
+    "vn_traffic": 3290,
+    "qt_traffic": 293474
+  },
+  {
+    "mac_client": "a0:65:18:74:05:d1",
+    "from_time": 1.649257462729E9,
+    "to_time": 1.649257526633E9,
+    "vn_traffic": 0,
+    "qt_traffic": 4161
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:92:a9",
+    "from_time": 1.649257465302E9,
+    "to_time": 1.649257526676E9,
+    "vn_traffic": 360,
+    "qt_traffic": 26499
+  },
+  {
+    "mac_client": "18:44:e6:bc:8e:3d",
+    "from_time": 1.64925746285E9,
+    "to_time": 1.649257526682E9,
+    "vn_traffic": 642,
+    "qt_traffic": 4187
+  },
+  {
+    "mac_client": "d4:9a:a0:86:5b:38",
+    "from_time": 1.6492574619E9,
+    "to_time": 1.649257526734E9,
+    "vn_traffic": 12554515,
+    "qt_traffic": 15238
+  },
+  {
+    "mac_client": "a0:65:18:38:ed:58",
+    "from_time": 1.649257466685E9,
+    "to_time": 1.649257526746E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1845
+  },
+  {
+    "mac_client": "18:44:e6:a3:88:c1",
+    "from_time": 1.649257463286E9,
+    "to_time": 1.649257526757E9,
+    "vn_traffic": 865,
+    "qt_traffic": 51716
+  },
+  {
+    "mac_client": "a0:65:18:cd:5f:9c",
+    "from_time": 1.649257466736E9,
+    "to_time": 1.649257526757E9,
+    "vn_traffic": 182249,
+    "qt_traffic": 250195
+  },
+  {
+    "mac_client": "a4:f4:c2:19:c4:46",
+    "from_time": 1.649257465561E9,
+    "to_time": 1.649257526768E9,
+    "vn_traffic": 3699,
+    "qt_traffic": 7673
+  },
+  {
+    "mac_client": "70:9f:2d:d3:82:f9",
+    "from_time": 1.649257463818E9,
+    "to_time": 1.649257526778E9,
+    "vn_traffic": 0,
+    "qt_traffic": 750
+  },
+  {
+    "mac_client": "98:13:33:f7:59:66",
+    "from_time": 1.649257464296E9,
+    "to_time": 1.649257526814E9,
+    "vn_traffic": 2300,
+    "qt_traffic": 18777
+  },
+  {
+    "mac_client": "a0:65:18:54:4d:ca",
+    "from_time": 1.649257461658E9,
+    "to_time": 1.649257526818E9,
+    "vn_traffic": 1979,
+    "qt_traffic": 12950
+  },
+  {
+    "mac_client": "34:4d:ea:d7:fd:90",
+    "from_time": 1.64925746404E9,
+    "to_time": 1.649257526823E9,
+    "vn_traffic": 1087,
+    "qt_traffic": 8341
+  },
+  {
+    "mac_client": "a4:f4:c2:10:57:b5",
+    "from_time": 1.649257466741E9,
+    "to_time": 1.649257526835E9,
+    "vn_traffic": 5855,
+    "qt_traffic": 1352
+  },
+  {
+    "mac_client": "a0:65:18:aa:b3:5c",
+    "from_time": 1.649257466485E9,
+    "to_time": 1.649257526883E9,
+    "vn_traffic": 1836,
+    "qt_traffic": 18696
+  },
+  {
+    "mac_client": "98:f4:28:e2:08:d2",
+    "from_time": 1.649257464931E9,
+    "to_time": 1.649257526916E9,
+    "vn_traffic": 428,
+    "qt_traffic": 4440
+  },
+  {
+    "mac_client": "c4:a3:66:e6:4e:78",
+    "from_time": 1.649257464038E9,
+    "to_time": 1.649257526921E9,
+    "vn_traffic": 4154,
+    "qt_traffic": 2135
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:a8:10",
+    "from_time": 1.649257462961E9,
+    "to_time": 1.649257526949E9,
+    "vn_traffic": 2220,
+    "qt_traffic": 4338
+  },
+  {
+    "mac_client": "d4:9a:a0:b4:7f:a1",
+    "from_time": 1.649257463727E9,
+    "to_time": 1.649257526968E9,
+    "vn_traffic": 438,
+    "qt_traffic": 756
+  },
+  {
+    "mac_client": "94:a7:b7:d3:47:68",
+    "from_time": 1.649257463154E9,
+    "to_time": 1.649257527055E9,
+    "vn_traffic": 2340,
+    "qt_traffic": 2378
+  },
+  {
+    "mac_client": "d4:9a:a0:5f:92:cf",
+    "from_time": 1.649257464164E9,
+    "to_time": 1.649257527115E9,
+    "vn_traffic": 975,
+    "qt_traffic": 1672
+  },
+  {
+    "mac_client": "d4:9a:a0:01:d0:38",
+    "from_time": 1.649257462971E9,
+    "to_time": 1.64925752712E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1606
+  },
+  {
+    "mac_client": "a0:65:18:ab:c9:b4",
+    "from_time": 1.649257464336E9,
+    "to_time": 1.649257527123E9,
+    "vn_traffic": 0,
+    "qt_traffic": 40867
+  },
+  {
+    "mac_client": "a0:65:18:66:f0:81",
+    "from_time": 1.649257462943E9,
+    "to_time": 1.649257527137E9,
+    "vn_traffic": 1104,
+    "qt_traffic": 552
+  },
+  {
+    "mac_client": "a0:65:18:0d:e0:a1",
+    "from_time": 1.649257461864E9,
+    "to_time": 1.649257527156E9,
+    "vn_traffic": 45855,
+    "qt_traffic": 3326
+  },
+  {
+    "mac_client": "a4:f4:c2:a0:0b:79",
+    "from_time": 1.649257462404E9,
+    "to_time": 1.649257527158E9,
+    "vn_traffic": 4202,
+    "qt_traffic": 19099
+  },
+  {
+    "mac_client": "a0:65:18:4b:6b:e2",
+    "from_time": 1.649257465887E9,
+    "to_time": 1.649257527191E9,
+    "vn_traffic": 0,
+    "qt_traffic": 972
+  },
+  {
+    "mac_client": "a0:65:18:4c:4b:6b",
+    "from_time": 1.649257463011E9,
+    "to_time": 1.649257527223E9,
+    "vn_traffic": 4430191,
+    "qt_traffic": 36079
+  },
+  {
+    "mac_client": "a0:65:18:38:1c:51",
+    "from_time": 1.649257462679E9,
+    "to_time": 1.649257527228E9,
+    "vn_traffic": 0,
+    "qt_traffic": 3970
+  },
+  {
+    "mac_client": "a0:65:18:72:74:08",
+    "from_time": 1.649257463234E9,
+    "to_time": 1.649257527232E9,
+    "vn_traffic": 1778597,
+    "qt_traffic": 397804
+  },
+  {
+    "mac_client": "d4:9a:a0:e2:be:41",
+    "from_time": 1.64925746601E9,
+    "to_time": 1.649257527303E9,
+    "vn_traffic": 360,
+    "qt_traffic": 1043
+  },
+  {
+    "mac_client": "98:13:33:f7:ca:ca",
+    "from_time": 1.649257465084E9,
+    "to_time": 1.649257527334E9,
+    "vn_traffic": 4158,
+    "qt_traffic": 18713
+  },
+  {
+    "mac_client": "a0:65:18:9b:19:81",
+    "from_time": 1.649257466924E9,
+    "to_time": 1.649257527389E9,
+    "vn_traffic": 161041,
+    "qt_traffic": 1094342
+  },
+  {
+    "mac_client": "a4:f4:c2:ae:44:d4",
+    "from_time": 1.649257464564E9,
+    "to_time": 1.649257527389E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1090
+  },
+  {
+    "mac_client": "44:f4:36:eb:90:61",
+    "from_time": 1.649257462703E9,
+    "to_time": 1.649257527391E9,
+    "vn_traffic": 2988,
+    "qt_traffic": 1106
+  },
+  {
+    "mac_client": "c4:a3:66:e6:5d:ea",
+    "from_time": 1.649257463986E9,
+    "to_time": 1.649257527398E9,
+    "vn_traffic": 4779,
+    "qt_traffic": 2292
+  },
+  {
+    "mac_client": "44:f4:36:e8:af:58",
+    "from_time": 1.649257467157E9,
+    "to_time": 1.649257527419E9,
+    "vn_traffic": 41061783,
+    "qt_traffic": 276739
+  },
+  {
+    "mac_client": "a0:65:18:42:cf:2a",
+    "from_time": 1.64925746353E9,
+    "to_time": 1.649257527457E9,
+    "vn_traffic": 966,
+    "qt_traffic": 4263388
+  },
+  {
+    "mac_client": "98:f4:28:e3:05:34",
+    "from_time": 1.649257466682E9,
+    "to_time": 1.649257527462E9,
+    "vn_traffic": 234,
+    "qt_traffic": 30071
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:99:ef",
+    "from_time": 1.649257464935E9,
+    "to_time": 1.649257527484E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2322
+  },
+  {
+    "mac_client": "5c:c7:d7:1e:f0:7e",
+    "from_time": 1.649257467062E9,
+    "to_time": 1.649257527524E9,
+    "vn_traffic": 6290,
+    "qt_traffic": 28155
+  },
+  {
+    "mac_client": "a0:65:18:9c:53:28",
+    "from_time": 1.649257467395E9,
+    "to_time": 1.649257527533E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2363
+  },
+  {
+    "mac_client": "a0:65:18:6d:3c:68",
+    "from_time": 1.649257462324E9,
+    "to_time": 1.649257527553E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1884
+  },
+  {
+    "mac_client": "a0:65:18:77:22:cc",
+    "from_time": 1.649257467418E9,
+    "to_time": 1.649257527582E9,
+    "vn_traffic": 2660,
+    "qt_traffic": 466
+  },
+  {
+    "mac_client": "a4:f4:c2:d3:48:a9",
+    "from_time": 1.649257466111E9,
+    "to_time": 1.649257527714E9,
+    "vn_traffic": 13443,
+    "qt_traffic": 27807
+  },
+  {
+    "mac_client": "a4:f4:c2:e4:13:27",
+    "from_time": 1.649257463682E9,
+    "to_time": 1.64925752773E9,
+    "vn_traffic": 0,
+    "qt_traffic": 552
+  },
+  {
+    "mac_client": "8c:e1:17:a0:3f:52",
+    "from_time": 1.649257463341E9,
+    "to_time": 1.649257527732E9,
+    "vn_traffic": 7195344,
+    "qt_traffic": 7031
+  },
+  {
+    "mac_client": "a4:f4:c2:fb:a6:b7",
+    "from_time": 1.649257462599E9,
+    "to_time": 1.649257527794E9,
+    "vn_traffic": 14702150,
+    "qt_traffic": 34742
+  },
+  {
+    "mac_client": "98:f4:28:db:cd:22",
+    "from_time": 1.649257463623E9,
+    "to_time": 1.649257527799E9,
+    "vn_traffic": 1130553,
+    "qt_traffic": 316981
+  },
+  {
+    "mac_client": "a0:65:18:4c:c6:c5",
+    "from_time": 1.649257465317E9,
+    "to_time": 1.649257527802E9,
+    "vn_traffic": 1122197,
+    "qt_traffic": 32209
+  },
+  {
+    "mac_client": "a0:65:18:3c:a0:68",
+    "from_time": 1.649257465028E9,
+    "to_time": 1.649257527833E9,
+    "vn_traffic": 43193989,
+    "qt_traffic": 466
+  },
+  {
+    "mac_client": "98:f4:28:da:a0:3c",
+    "from_time": 1.649257464713E9,
+    "to_time": 1.64925752784E9,
+    "vn_traffic": 0,
+    "qt_traffic": 548
+  },
+  {
+    "mac_client": "d4:9a:a0:63:be:c8",
+    "from_time": 1.649257462702E9,
+    "to_time": 1.649257527856E9,
+    "vn_traffic": 230,
+    "qt_traffic": 602
+  },
+  {
+    "mac_client": "a4:f4:c2:f2:e7:07",
+    "from_time": 1.649257463006E9,
+    "to_time": 1.649257527949E9,
+    "vn_traffic": 828,
+    "qt_traffic": 474
+  },
+  {
+    "mac_client": "a4:f4:c2:19:f0:62",
+    "from_time": 1.649257466866E9,
+    "to_time": 1.649257527984E9,
+    "vn_traffic": 3236865,
+    "qt_traffic": 60728
+  },
+  {
+    "mac_client": "a0:65:18:72:54:2e",
+    "from_time": 1.649257465019E9,
+    "to_time": 1.649257528004E9,
+    "vn_traffic": 7279,
+    "qt_traffic": 6456
+  },
+  {
+    "mac_client": "94:a7:b7:d2:f9:07",
+    "from_time": 1.649257468045E9,
+    "to_time": 1.649257528045E9,
+    "vn_traffic": 17283967,
+    "qt_traffic": 630982
+  },
+  {
+    "mac_client": "ac:64:62:d4:92:8d",
+    "from_time": 1.649257463026E9,
+    "to_time": 1.649257528045E9,
+    "vn_traffic": 9051,
+    "qt_traffic": 538
+  },
+  {
+    "mac_client": "18:44:e6:bc:c6:0f",
+    "from_time": 1.649257468111E9,
+    "to_time": 1.649257528151E9,
+    "vn_traffic": 2635,
+    "qt_traffic": 3390
+  },
+  {
+    "mac_client": "a0:65:18:2d:01:c5",
+    "from_time": 1.649257466001E9,
+    "to_time": 1.649257528164E9,
+    "vn_traffic": 3469,
+    "qt_traffic": 67883
+  },
+  {
+    "mac_client": "a0:65:18:38:bd:5e",
+    "from_time": 1.649257464684E9,
+    "to_time": 1.649257528166E9,
+    "vn_traffic": 1309,
+    "qt_traffic": 47715
+  },
+  {
+    "mac_client": "18:44:e6:a3:ee:47",
+    "from_time": 1.649257462441E9,
+    "to_time": 1.649257528171E9,
+    "vn_traffic": 1494,
+    "qt_traffic": 17688
+  },
+  {
+    "mac_client": "a4:f4:c2:d0:6d:e9",
+    "from_time": 1.649257465504E9,
+    "to_time": 1.649257528258E9,
+    "vn_traffic": 59154,
+    "qt_traffic": 598
+  },
+  {
+    "mac_client": "a0:65:18:51:bf:c7",
+    "from_time": 1.649257467845E9,
+    "to_time": 1.649257528291E9,
+    "vn_traffic": 25024657,
+    "qt_traffic": 593417
+  },
+  {
+    "mac_client": "a4:f4:c2:af:6a:88",
+    "from_time": 1.649257464646E9,
+    "to_time": 1.649257528294E9,
+    "vn_traffic": 152,
+    "qt_traffic": 4308
+  },
+  {
+    "mac_client": "98:f4:28:e1:85:10",
+    "from_time": 1.649257462554E9,
+    "to_time": 1.649257528333E9,
+    "vn_traffic": 0,
+    "qt_traffic": 3935
+  },
+  {
+    "mac_client": "a0:65:18:d0:59:24",
+    "from_time": 1.649257465338E9,
+    "to_time": 1.649257528335E9,
+    "vn_traffic": 746,
+    "qt_traffic": 1883
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:cf:80",
+    "from_time": 1.649257462271E9,
+    "to_time": 1.64925752837E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1474
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:03:67",
+    "from_time": 1.649257465944E9,
+    "to_time": 1.649257528396E9,
+    "vn_traffic": 1281,
+    "qt_traffic": 13953
+  },
+  {
+    "mac_client": "44:f4:36:eb:4c:3c",
+    "from_time": 1.649257466196E9,
+    "to_time": 1.649257528507E9,
+    "vn_traffic": 761,
+    "qt_traffic": 38885
+  },
+  {
+    "mac_client": "98:f4:28:e5:6d:3a",
+    "from_time": 1.649257467911E9,
+    "to_time": 1.649257528577E9,
+    "vn_traffic": 188,
+    "qt_traffic": 953
+  },
+  {
+    "mac_client": "94:a7:b7:d2:54:c0",
+    "from_time": 1.649257467894E9,
+    "to_time": 1.649257528601E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1841
+  },
+  {
+    "mac_client": "94:a7:b7:d2:d5:9e",
+    "from_time": 1.649257462569E9,
+    "to_time": 1.649257528687E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1069
+  },
+  {
+    "mac_client": "a0:65:18:9f:a5:cc",
+    "from_time": 1.649257463017E9,
+    "to_time": 1.649257528694E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1069
+  },
+  {
+    "mac_client": "d4:9a:a0:56:17:57",
+    "from_time": 1.649257468225E9,
+    "to_time": 1.649257528775E9,
+    "vn_traffic": 0,
+    "qt_traffic": 606
+  },
+  {
+    "mac_client": "24:43:e2:47:60:e1",
+    "from_time": 1.649257465306E9,
+    "to_time": 1.649257528878E9,
+    "vn_traffic": 4046540,
+    "qt_traffic": 55922976
+  },
+  {
+    "mac_client": "a0:65:18:3a:b6:69",
+    "from_time": 1.64925746875E9,
+    "to_time": 1.649257528903E9,
+    "vn_traffic": 0,
+    "qt_traffic": 88308
+  },
+  {
+    "mac_client": "d4:9a:a0:1e:7a:cf",
+    "from_time": 1.649257464754E9,
+    "to_time": 1.649257528919E9,
+    "vn_traffic": 78,
+    "qt_traffic": 340920
+  },
+  {
+    "mac_client": "d4:9a:a0:c3:47:e9",
+    "from_time": 1.649257465553E9,
+    "to_time": 1.649257528944E9,
+    "vn_traffic": 360,
+    "qt_traffic": 4448
+  },
+  {
+    "mac_client": "c4:a3:66:e7:f5:4e",
+    "from_time": 1.649257462528E9,
+    "to_time": 1.649257529041E9,
+    "vn_traffic": 0,
+    "qt_traffic": 396
+  },
+  {
+    "mac_client": "a0:65:18:86:a7:08",
+    "from_time": 1.649257468236E9,
+    "to_time": 1.649257529067E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1762
+  },
+  {
+    "mac_client": "94:a7:b7:d2:eb:5b",
+    "from_time": 1.64925746878E9,
+    "to_time": 1.649257529072E9,
+    "vn_traffic": 156,
+    "qt_traffic": 984
+  },
+  {
+    "mac_client": "ac:64:62:d1:29:3b",
+    "from_time": 1.649257468656E9,
+    "to_time": 1.649257529107E9,
+    "vn_traffic": 6533709,
+    "qt_traffic": 181407
+  },
+  {
+    "mac_client": "24:43:e2:6b:c5:b1",
+    "from_time": 1.649257469121E9,
+    "to_time": 1.649257529123E9,
+    "vn_traffic": 3306,
+    "qt_traffic": 12200
+  },
+  {
+    "mac_client": "d4:9a:a0:b2:eb:61",
+    "from_time": 1.64925746773E9,
+    "to_time": 1.649257529141E9,
+    "vn_traffic": 1358979,
+    "qt_traffic": 77899
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:e3:b5",
+    "from_time": 1.649257461757E9,
+    "to_time": 1.649257529244E9,
+    "vn_traffic": 0,
+    "qt_traffic": 3344
+  },
+  {
+    "mac_client": "98:f4:28:e2:48:6f",
+    "from_time": 1.649257463901E9,
+    "to_time": 1.64925752925E9,
+    "vn_traffic": 344,
+    "qt_traffic": 41295
+  },
+  {
+    "mac_client": "a4:f4:c2:05:96:2d",
+    "from_time": 1.649257469252E9,
+    "to_time": 1.649257529254E9,
+    "vn_traffic": 70,
+    "qt_traffic": 1346
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:d1:4a",
+    "from_time": 1.649257464856E9,
+    "to_time": 1.649257529361E9,
+    "vn_traffic": 234,
+    "qt_traffic": 929
+  },
+  {
+    "mac_client": "18:44:e6:a3:c1:0b",
+    "from_time": 1.649257463736E9,
+    "to_time": 1.649257529437E9,
+    "vn_traffic": 484,
+    "qt_traffic": 30985
+  },
+  {
+    "mac_client": "ac:64:62:d1:29:4f",
+    "from_time": 1.64925746909E9,
+    "to_time": 1.64925752945E9,
+    "vn_traffic": 802,
+    "qt_traffic": 48083
+  },
+  {
+    "mac_client": "94:a7:b7:d2:e1:42",
+    "from_time": 1.649257464289E9,
+    "to_time": 1.649257529509E9,
+    "vn_traffic": 1468,
+    "qt_traffic": 16202
+  },
+  {
+    "mac_client": "a0:65:18:6f:c0:9c",
+    "from_time": 1.649257465388E9,
+    "to_time": 1.649257529568E9,
+    "vn_traffic": 6204,
+    "qt_traffic": 810
+  },
+  {
+    "mac_client": "a0:65:18:7a:11:6b",
+    "from_time": 1.64925746756E9,
+    "to_time": 1.649257529639E9,
+    "vn_traffic": 406,
+    "qt_traffic": 4854
+  },
+  {
+    "mac_client": "d4:9a:a0:49:61:28",
+    "from_time": 1.649257468777E9,
+    "to_time": 1.649257529675E9,
+    "vn_traffic": 0,
+    "qt_traffic": 762
+  },
+  {
+    "mac_client": "98:f4:28:e1:ec:67",
+    "from_time": 1.649257464501E9,
+    "to_time": 1.6492575297E9,
+    "vn_traffic": 1044,
+    "qt_traffic": 20930
+  },
+  {
+    "mac_client": "98:f4:28:e5:b1:8c",
+    "from_time": 1.649257469681E9,
+    "to_time": 1.649257529784E9,
+    "vn_traffic": 563,
+    "qt_traffic": 4786
+  },
+  {
+    "mac_client": "a4:f4:c2:be:43:4c",
+    "from_time": 1.649257469715E9,
+    "to_time": 1.649257529844E9,
+    "vn_traffic": 840,
+    "qt_traffic": 2312
+  },
+  {
+    "mac_client": "a0:65:18:68:01:45",
+    "from_time": 1.649257469879E9,
+    "to_time": 1.649257529901E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2640
+  },
+  {
+    "mac_client": "a4:f4:c2:a4:ca:69",
+    "from_time": 1.649257465743E9,
+    "to_time": 1.649257529929E9,
+    "vn_traffic": 1518,
+    "qt_traffic": 482
+  },
+  {
+    "mac_client": "a0:65:18:91:9b:39",
+    "from_time": 1.649257463457E9,
+    "to_time": 1.649257530013E9,
+    "vn_traffic": 950,
+    "qt_traffic": 16502
+  },
+  {
+    "mac_client": "a0:65:18:75:23:86",
+    "from_time": 1.64925746194E9,
+    "to_time": 1.64925753006E9,
+    "vn_traffic": 709,
+    "qt_traffic": 6010
+  },
+  {
+    "mac_client": "cc:71:90:06:17:b1",
+    "from_time": 1.649257470071E9,
+    "to_time": 1.649257530093E9,
+    "vn_traffic": 438,
+    "qt_traffic": 1092
+  },
+  {
+    "mac_client": "ac:64:62:d2:96:0e",
+    "from_time": 1.649257463736E9,
+    "to_time": 1.649257530122E9,
+    "vn_traffic": 152,
+    "qt_traffic": 734
+  },
+  {
+    "mac_client": "98:f4:28:e1:ae:23",
+    "from_time": 1.649257467489E9,
+    "to_time": 1.649257530159E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1072
+  },
+  {
+    "mac_client": "d4:9a:a0:64:5a:58",
+    "from_time": 1.649257468877E9,
+    "to_time": 1.649257530213E9,
+    "vn_traffic": 376,
+    "qt_traffic": 48094
+  },
+  {
+    "mac_client": "ac:64:62:e9:78:7e",
+    "from_time": 1.649257462162E9,
+    "to_time": 1.649257530244E9,
+    "vn_traffic": 1021,
+    "qt_traffic": 5714
+  },
+  {
+    "mac_client": "a0:65:18:c8:19:c0",
+    "from_time": 1.649257467647E9,
+    "to_time": 1.649257530337E9,
+    "vn_traffic": 156,
+    "qt_traffic": 760
+  },
+  {
+    "mac_client": "a0:65:18:98:91:f0",
+    "from_time": 1.649257467863E9,
+    "to_time": 1.649257530351E9,
+    "vn_traffic": 1390,
+    "qt_traffic": 1211
+  },
+  {
+    "mac_client": "98:f4:28:ea:6a:92",
+    "from_time": 1.649257470191E9,
+    "to_time": 1.649257530424E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2158
+  },
+  {
+    "mac_client": "98:f4:28:e3:29:ce",
+    "from_time": 1.649257470059E9,
+    "to_time": 1.64925753055E9,
+    "vn_traffic": 0,
+    "qt_traffic": 25994
+  },
+  {
+    "mac_client": "cc:71:90:50:00:39",
+    "from_time": 1.649257468559E9,
+    "to_time": 1.649257530551E9,
+    "vn_traffic": 360,
+    "qt_traffic": 888
+  },
+  {
+    "mac_client": "a0:65:18:5e:ed:59",
+    "from_time": 1.649257469929E9,
+    "to_time": 1.649257530658E9,
+    "vn_traffic": 17577,
+    "qt_traffic": 1080
+  },
+  {
+    "mac_client": "24:43:e2:56:df:89",
+    "from_time": 1.649257467621E9,
+    "to_time": 1.649257530662E9,
+    "vn_traffic": 0,
+    "qt_traffic": 4234
+  },
+  {
+    "mac_client": "a0:65:18:a3:99:d7",
+    "from_time": 1.649257462797E9,
+    "to_time": 1.649257530798E9,
+    "vn_traffic": 0,
+    "qt_traffic": 812
+  },
+  {
+    "mac_client": "a0:65:18:a6:0f:5c",
+    "from_time": 1.649257470825E9,
+    "to_time": 1.649257530832E9,
+    "vn_traffic": 1865083,
+    "qt_traffic": 43800
+  },
+  {
+    "mac_client": "a0:65:18:74:d6:13",
+    "from_time": 1.649257466049E9,
+    "to_time": 1.649257530856E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1149
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:a2:13",
+    "from_time": 1.649257466717E9,
+    "to_time": 1.649257530887E9,
+    "vn_traffic": 0,
+    "qt_traffic": 28922
+  },
+  {
+    "mac_client": "00:1d:aa:23:1e:29",
+    "from_time": 1.649257464354E9,
+    "to_time": 1.649257530906E9,
+    "vn_traffic": 0,
+    "qt_traffic": 5390
+  },
+  {
+    "mac_client": "a4:f4:c2:a3:32:cf",
+    "from_time": 1.649257462647E9,
+    "to_time": 1.649257531011E9,
+    "vn_traffic": 1746,
+    "qt_traffic": 10472
+  },
+  {
+    "mac_client": "a0:65:18:a3:bc:69",
+    "from_time": 1.6492574672E9,
+    "to_time": 1.649257531121E9,
+    "vn_traffic": 2196334,
+    "qt_traffic": 541447
+  },
+  {
+    "mac_client": "d4:9a:a0:cb:9a:d9",
+    "from_time": 1.649257470934E9,
+    "to_time": 1.649257531212E9,
+    "vn_traffic": 360,
+    "qt_traffic": 4554
+  },
+  {
+    "mac_client": "34:4d:ea:d8:ea:ae",
+    "from_time": 1.649257470904E9,
+    "to_time": 1.64925753122E9,
+    "vn_traffic": 78,
+    "qt_traffic": 25105
+  },
+  {
+    "mac_client": "a0:65:18:86:e4:a4",
+    "from_time": 1.649257470348E9,
+    "to_time": 1.649257531382E9,
+    "vn_traffic": 152,
+    "qt_traffic": 672
+  },
+  {
+    "mac_client": "98:f4:28:db:2c:55",
+    "from_time": 1.6492574638E9,
+    "to_time": 1.649257531407E9,
+    "vn_traffic": 156,
+    "qt_traffic": 4160
+  },
+  {
+    "mac_client": "98:f4:28:ea:7b:c2",
+    "from_time": 1.649257468195E9,
+    "to_time": 1.649257531655E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1058
+  },
+  {
+    "mac_client": "a0:65:18:75:00:04",
+    "from_time": 1.649257467248E9,
+    "to_time": 1.649257531697E9,
+    "vn_traffic": 2041,
+    "qt_traffic": 1183
+  },
+  {
+    "mac_client": "18:44:e6:bc:8e:f1",
+    "from_time": 1.649257463801E9,
+    "to_time": 1.649257531746E9,
+    "vn_traffic": 0,
+    "qt_traffic": 31916
+  },
+  {
+    "mac_client": "c4:a3:66:e5:d4:4a",
+    "from_time": 1.649257470746E9,
+    "to_time": 1.649257531851E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2309
+  },
+  {
+    "mac_client": "98:f4:28:db:90:5a",
+    "from_time": 1.649257467805E9,
+    "to_time": 1.649257532029E9,
+    "vn_traffic": 78,
+    "qt_traffic": 3169
+  },
+  {
+    "mac_client": "a4:f4:c2:a4:29:08",
+    "from_time": 1.649257470728E9,
+    "to_time": 1.649257532041E9,
+    "vn_traffic": 18074,
+    "qt_traffic": 3122
+  },
+  {
+    "mac_client": "a4:f4:c2:eb:7d:3f",
+    "from_time": 1.649257468824E9,
+    "to_time": 1.649257532111E9,
+    "vn_traffic": 1104,
+    "qt_traffic": 470
+  },
+  {
+    "mac_client": "98:13:33:f7:7f:d6",
+    "from_time": 1.649257462098E9,
+    "to_time": 1.649257532171E9,
+    "vn_traffic": 484,
+    "qt_traffic": 3952113
+  },
+  {
+    "mac_client": "18:44:e6:a3:e8:e8",
+    "from_time": 1.649257463814E9,
+    "to_time": 1.649257532211E9,
+    "vn_traffic": 428,
+    "qt_traffic": 5534
+  },
+  {
+    "mac_client": "18:44:e6:a3:c6:a6",
+    "from_time": 1.64925746335E9,
+    "to_time": 1.649257532312E9,
+    "vn_traffic": 865,
+    "qt_traffic": 166301
+  },
+  {
+    "mac_client": "a4:f4:c2:b9:db:d3",
+    "from_time": 1.649257466841E9,
+    "to_time": 1.649257532382E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2573
+  },
+  {
+    "mac_client": "d4:9a:a0:93:f2:31",
+    "from_time": 1.649257466032E9,
+    "to_time": 1.649257532409E9,
+    "vn_traffic": 594,
+    "qt_traffic": 862
+  },
+  {
+    "mac_client": "98:f4:28:eb:a6:14",
+    "from_time": 1.64925746662E9,
+    "to_time": 1.649257532461E9,
+    "vn_traffic": 0,
+    "qt_traffic": 26358
+  },
+  {
+    "mac_client": "d4:9a:a0:4b:a4:60",
+    "from_time": 1.649257463809E9,
+    "to_time": 1.649257532604E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1622
+  },
+  {
+    "mac_client": "a0:65:18:3f:e3:3a",
+    "from_time": 1.649257463583E9,
+    "to_time": 1.649257532622E9,
+    "vn_traffic": 156,
+    "qt_traffic": 396
+  },
+  {
+    "mac_client": "24:43:e2:59:45:e1",
+    "from_time": 1.649257463746E9,
+    "to_time": 1.649257532686E9,
+    "vn_traffic": 0,
+    "qt_traffic": 5540
+  },
+  {
+    "mac_client": "a4:f4:c2:04:54:88",
+    "from_time": 1.649257469505E9,
+    "to_time": 1.649257532719E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2144
+  },
+  {
+    "mac_client": "d4:9a:a0:e3:f7:39",
+    "from_time": 1.64925746551E9,
+    "to_time": 1.649257532723E9,
+    "vn_traffic": 360,
+    "qt_traffic": 1110
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:f1:24",
+    "from_time": 1.649257466179E9,
+    "to_time": 1.649257532767E9,
+    "vn_traffic": 156,
+    "qt_traffic": 474
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:ab:d2",
+    "from_time": 1.64925747208E9,
+    "to_time": 1.649257532856E9,
+    "vn_traffic": 0,
+    "qt_traffic": 330
+  },
+  {
+    "mac_client": "98:f4:28:e1:a0:b3",
+    "from_time": 1.649257467379E9,
+    "to_time": 1.649257532903E9,
+    "vn_traffic": 77,
+    "qt_traffic": 2912
+  },
+  {
+    "mac_client": "a0:65:18:7a:15:43",
+    "from_time": 1.649257465821E9,
+    "to_time": 1.649257533043E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1211
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:ba:d1",
+    "from_time": 1.649257462628E9,
+    "to_time": 1.649257533239E9,
+    "vn_traffic": 600,
+    "qt_traffic": 8461
+  },
+  {
+    "mac_client": "a0:65:18:c7:70:5b",
+    "from_time": 1.649257473202E9,
+    "to_time": 1.649257533329E9,
+    "vn_traffic": 234,
+    "qt_traffic": 4044
+  },
+  {
+    "mac_client": "18:44:e6:bc:79:07",
+    "from_time": 1.649257468035E9,
+    "to_time": 1.649257533469E9,
+    "vn_traffic": 0,
+    "qt_traffic": 3840
+  },
+  {
+    "mac_client": "a0:65:18:61:61:97",
+    "from_time": 1.649257468667E9,
+    "to_time": 1.649257533507E9,
+    "vn_traffic": 0,
+    "qt_traffic": 409
+  },
+  {
+    "mac_client": "a0:65:18:ad:92:92",
+    "from_time": 1.649257463023E9,
+    "to_time": 1.649257533622E9,
+    "vn_traffic": 602,
+    "qt_traffic": 21273
+  },
+  {
+    "mac_client": "a0:65:18:74:64:f6",
+    "from_time": 1.649257468462E9,
+    "to_time": 1.649257533697E9,
+    "vn_traffic": 331,
+    "qt_traffic": 19929
+  },
+  {
+    "mac_client": "a0:65:18:66:f0:0c",
+    "from_time": 1.649257469603E9,
+    "to_time": 1.649257533711E9,
+    "vn_traffic": 16297,
+    "qt_traffic": 34579
+  },
+  {
+    "mac_client": "d4:9a:a0:4b:b7:40",
+    "from_time": 1.649257473184E9,
+    "to_time": 1.649257533789E9,
+    "vn_traffic": 5067,
+    "qt_traffic": 15480
+  },
+  {
+    "mac_client": "a4:f4:c2:93:cf:68",
+    "from_time": 1.649257473445E9,
+    "to_time": 1.649257533855E9,
+    "vn_traffic": 0,
+    "qt_traffic": 804
+  },
+  {
+    "mac_client": "a4:f4:c2:a7:54:91",
+    "from_time": 1.649257464302E9,
+    "to_time": 1.649257533873E9,
+    "vn_traffic": 1104,
+    "qt_traffic": 464
+  },
+  {
+    "mac_client": "94:a7:b7:d3:3b:60",
+    "from_time": 1.649257461695E9,
+    "to_time": 1.649257534006E9,
+    "vn_traffic": 400,
+    "qt_traffic": 4906
+  },
+  {
+    "mac_client": "a0:65:18:42:ca:c2",
+    "from_time": 1.649257463787E9,
+    "to_time": 1.649257534146E9,
+    "vn_traffic": 19349,
+    "qt_traffic": 8243
+  },
+  {
+    "mac_client": "d4:9a:a0:79:24:c7",
+    "from_time": 1.649257470817E9,
+    "to_time": 1.649257534157E9,
+    "vn_traffic": 696,
+    "qt_traffic": 334
+  },
+  {
+    "mac_client": "a0:65:18:84:0a:02",
+    "from_time": 1.649257464065E9,
+    "to_time": 1.649257534242E9,
+    "vn_traffic": 156,
+    "qt_traffic": 672
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:1d:54",
+    "from_time": 1.649257465048E9,
+    "to_time": 1.649257534297E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2412
+  },
+  {
+    "mac_client": "18:44:e6:a3:86:91",
+    "from_time": 1.649257462245E9,
+    "to_time": 1.649257534413E9,
+    "vn_traffic": 428,
+    "qt_traffic": 29765
+  },
+  {
+    "mac_client": "34:4d:ea:d7:da:da",
+    "from_time": 1.649257464463E9,
+    "to_time": 1.649257534463E9,
+    "vn_traffic": 1202,
+    "qt_traffic": 396
+  },
+  {
+    "mac_client": "a0:65:18:74:bb:a5",
+    "from_time": 1.649257466087E9,
+    "to_time": 1.649257534644E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1384
+  },
+  {
+    "mac_client": "a0:65:18:3c:aa:7f",
+    "from_time": 1.649257474677E9,
+    "to_time": 1.649257534735E9,
+    "vn_traffic": 0,
+    "qt_traffic": 6174
+  },
+  {
+    "mac_client": "a0:65:18:5b:7c:02",
+    "from_time": 1.649257471051E9,
+    "to_time": 1.649257534818E9,
+    "vn_traffic": 695,
+    "qt_traffic": 1868
+  },
+  {
+    "mac_client": "70:9f:2d:d4:3b:18",
+    "from_time": 1.649257462906E9,
+    "to_time": 1.649257534898E9,
+    "vn_traffic": 856,
+    "qt_traffic": 3277
+  },
+  {
+    "mac_client": "d4:9a:a0:2c:96:df",
+    "from_time": 1.649257469942E9,
+    "to_time": 1.649257534966E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1109
+  },
+  {
+    "mac_client": "d4:9a:a0:f7:a6:39",
+    "from_time": 1.649257470998E9,
+    "to_time": 1.649257535024E9,
+    "vn_traffic": 438,
+    "qt_traffic": 1018
+  },
+  {
+    "mac_client": "d4:9a:a0:63:d9:88",
+    "from_time": 1.649257462557E9,
+    "to_time": 1.649257535054E9,
+    "vn_traffic": 78,
+    "qt_traffic": 560
+  },
+  {
+    "mac_client": "d4:9a:a0:14:dd:9f",
+    "from_time": 1.649257475122E9,
+    "to_time": 1.649257535146E9,
+    "vn_traffic": 78,
+    "qt_traffic": 2722
+  },
+  {
+    "mac_client": "a0:65:18:31:ae:7e",
+    "from_time": 1.649257465188E9,
+    "to_time": 1.649257535151E9,
+    "vn_traffic": 312,
+    "qt_traffic": 4927
+  },
+  {
+    "mac_client": "a4:f4:c2:fb:b2:7f",
+    "from_time": 1.649257469676E9,
+    "to_time": 1.649257535244E9,
+    "vn_traffic": 156,
+    "qt_traffic": 6566042
+  },
+  {
+    "mac_client": "c4:a3:66:e8:62:aa",
+    "from_time": 1.64925746301E9,
+    "to_time": 1.649257535272E9,
+    "vn_traffic": 336,
+    "qt_traffic": 1278
+  },
+  {
+    "mac_client": "98:f4:28:e2:a0:76",
+    "from_time": 1.649257465891E9,
+    "to_time": 1.649257535283E9,
+    "vn_traffic": 1197125,
+    "qt_traffic": 24674
+  },
+  {
+    "mac_client": "a0:65:18:ab:c6:9c",
+    "from_time": 1.649257465147E9,
+    "to_time": 1.649257535341E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1428
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:6f:64",
+    "from_time": 1.649257471848E9,
+    "to_time": 1.649257535411E9,
+    "vn_traffic": 0,
+    "qt_traffic": 4073
+  },
+  {
+    "mac_client": "a4:f4:c2:1a:13:c6",
+    "from_time": 1.649257469926E9,
+    "to_time": 1.64925753548E9,
+    "vn_traffic": 0,
+    "qt_traffic": 400
+  },
+  {
+    "mac_client": "a0:65:18:34:d3:08",
+    "from_time": 1.649257474392E9,
+    "to_time": 1.649257535511E9,
+    "vn_traffic": 0,
+    "qt_traffic": 18827
+  },
+  {
+    "mac_client": "d4:9a:a0:14:53:b7",
+    "from_time": 1.649257463202E9,
+    "to_time": 1.64925753564E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1194
+  },
+  {
+    "mac_client": "ac:64:62:d1:15:54",
+    "from_time": 1.649257462195E9,
+    "to_time": 1.649257535686E9,
+    "vn_traffic": 78,
+    "qt_traffic": 2748
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:ea:9d",
+    "from_time": 1.649257469837E9,
+    "to_time": 1.64925753606E9,
+    "vn_traffic": 0,
+    "qt_traffic": 536
+  },
+  {
+    "mac_client": "a4:f4:c2:f3:7c:9f",
+    "from_time": 1.649257473532E9,
+    "to_time": 1.64925753631E9,
+    "vn_traffic": 984,
+    "qt_traffic": 528
+  },
+  {
+    "mac_client": "a0:65:18:9b:c3:c4",
+    "from_time": 1.649257476281E9,
+    "to_time": 1.649257536328E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1198
+  },
+  {
+    "mac_client": "20:76:93:4c:53:e5",
+    "from_time": 1.649257475155E9,
+    "to_time": 1.649257536464E9,
+    "vn_traffic": 1168798,
+    "qt_traffic": 110885
+  },
+  {
+    "mac_client": "98:f4:28:e1:90:fa",
+    "from_time": 1.649257462864E9,
+    "to_time": 1.649257536485E9,
+    "vn_traffic": 2178,
+    "qt_traffic": 6633
+  },
+  {
+    "mac_client": "a0:65:18:3e:b8:f9",
+    "from_time": 1.649257473564E9,
+    "to_time": 1.649257536562E9,
+    "vn_traffic": 2340,
+    "qt_traffic": 76763
+  },
+  {
+    "mac_client": "a4:f4:c2:c3:02:74",
+    "from_time": 1.649257466988E9,
+    "to_time": 1.649257536577E9,
+    "vn_traffic": 1143,
+    "qt_traffic": 8251
+  },
+  {
+    "mac_client": "a0:65:18:54:a7:ac",
+    "from_time": 1.649257467193E9,
+    "to_time": 1.649257536665E9,
+    "vn_traffic": 112,
+    "qt_traffic": 396
+  },
+  {
+    "mac_client": "d4:9a:a0:e6:bd:b9",
+    "from_time": 1.649257464981E9,
+    "to_time": 1.649257536671E9,
+    "vn_traffic": 360,
+    "qt_traffic": 1176
+  },
+  {
+    "mac_client": "a0:65:18:83:8f:9e",
+    "from_time": 1.649257472659E9,
+    "to_time": 1.64925753669E9,
+    "vn_traffic": 1389,
+    "qt_traffic": 224187
+  },
+  {
+    "mac_client": "24:43:e2:6b:df:71",
+    "from_time": 1.649257463609E9,
+    "to_time": 1.649257536761E9,
+    "vn_traffic": 156,
+    "qt_traffic": 567
+  },
+  {
+    "mac_client": "18:44:e6:bc:a1:3e",
+    "from_time": 1.649257471182E9,
+    "to_time": 1.649257536814E9,
+    "vn_traffic": 11147,
+    "qt_traffic": 50774
+  },
+  {
+    "mac_client": "a0:65:18:2d:5c:5e",
+    "from_time": 1.649257465469E9,
+    "to_time": 1.649257537107E9,
+    "vn_traffic": 156,
+    "qt_traffic": 115127
+  },
+  {
+    "mac_client": "a0:65:18:4c:77:cf",
+    "from_time": 1.649257466559E9,
+    "to_time": 1.649257537289E9,
+    "vn_traffic": 0,
+    "qt_traffic": 756
+  },
+  {
+    "mac_client": "a0:65:18:59:ae:91",
+    "from_time": 1.649257468382E9,
+    "to_time": 1.649257537613E9,
+    "vn_traffic": 78,
+    "qt_traffic": 750
+  },
+  {
+    "mac_client": "d4:9a:a0:37:2c:f7",
+    "from_time": 1.649257467964E9,
+    "to_time": 1.649257537621E9,
+    "vn_traffic": 78,
+    "qt_traffic": 506
+  },
+  {
+    "mac_client": "98:f4:28:da:d1:c4",
+    "from_time": 1.649257472331E9,
+    "to_time": 1.64925753806E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1071
+  },
+  {
+    "mac_client": "d4:9a:a0:55:fb:ef",
+    "from_time": 1.649257473285E9,
+    "to_time": 1.649257538143E9,
+    "vn_traffic": 0,
+    "qt_traffic": 396
+  },
+  {
+    "mac_client": "a0:65:18:ac:ab:83",
+    "from_time": 1.649257461652E9,
+    "to_time": 1.649257538155E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1585519
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:bd:80",
+    "from_time": 1.649257465931E9,
+    "to_time": 1.649257538195E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2294
+  },
+  {
+    "mac_client": "a0:65:18:79:5d:95",
+    "from_time": 1.649257464252E9,
+    "to_time": 1.649257538319E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2653
+  },
+  {
+    "mac_client": "a0:65:18:ab:cd:1a",
+    "from_time": 1.64925747671E9,
+    "to_time": 1.649257538374E9,
+    "vn_traffic": 0,
+    "qt_traffic": 474
+  },
+  {
+    "mac_client": "a0:65:18:41:c8:20",
+    "from_time": 1.649257461739E9,
+    "to_time": 1.649257538469E9,
+    "vn_traffic": 392,
+    "qt_traffic": 52617
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:db:0a",
+    "from_time": 1.649257477084E9,
+    "to_time": 1.649257538549E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2030
+  },
+  {
+    "mac_client": "ac:64:62:d3:04:d1",
+    "from_time": 1.649257462307E9,
+    "to_time": 1.649257538814E9,
+    "vn_traffic": 19631,
+    "qt_traffic": 13499
+  },
+  {
+    "mac_client": "a0:65:18:ad:de:01",
+    "from_time": 1.649257461838E9,
+    "to_time": 1.649257539112E9,
+    "vn_traffic": 4998,
+    "qt_traffic": 18131
+  },
+  {
+    "mac_client": "c4:70:ab:72:9a:85",
+    "from_time": 1.649257479462E9,
+    "to_time": 1.649257539512E9,
+    "vn_traffic": 756,
+    "qt_traffic": 2304
+  },
+  {
+    "mac_client": "94:a7:b7:d2:c9:37",
+    "from_time": 1.649257461995E9,
+    "to_time": 1.649257539635E9,
+    "vn_traffic": 78,
+    "qt_traffic": 594
+  },
+  {
+    "mac_client": "a0:65:18:42:f0:bd",
+    "from_time": 1.649257471009E9,
+    "to_time": 1.649257539763E9,
+    "vn_traffic": 156,
+    "qt_traffic": 10320
+  },
+  {
+    "mac_client": "5c:c7:d7:1e:ee:4e",
+    "from_time": 1.649257471764E9,
+    "to_time": 1.64925754021E9,
+    "vn_traffic": 261,
+    "qt_traffic": 2749
+  },
+  {
+    "mac_client": "a0:65:18:2f:6e:29",
+    "from_time": 1.649257476514E9,
+    "to_time": 1.649257540442E9,
+    "vn_traffic": 0,
+    "qt_traffic": 490
+  },
+  {
+    "mac_client": "98:13:33:f6:fa:20",
+    "from_time": 1.649257470622E9,
+    "to_time": 1.649257540595E9,
+    "vn_traffic": 156,
+    "qt_traffic": 528
+  },
+  {
+    "mac_client": "ac:64:62:d6:92:09",
+    "from_time": 1.649257479629E9,
+    "to_time": 1.649257540605E9,
+    "vn_traffic": 0,
+    "qt_traffic": 801
+  },
+  {
+    "mac_client": "a0:65:18:c4:3f:b6",
+    "from_time": 1.649257478795E9,
+    "to_time": 1.649257540767E9,
+    "vn_traffic": 3033,
+    "qt_traffic": 1848
+  },
+  {
+    "mac_client": "a0:65:18:56:bb:7e",
+    "from_time": 1.649257466592E9,
+    "to_time": 1.649257540965E9,
+    "vn_traffic": 648,
+    "qt_traffic": 480
+  },
+  {
+    "mac_client": "c4:a3:66:eb:45:56",
+    "from_time": 1.649257476636E9,
+    "to_time": 1.649257541053E9,
+    "vn_traffic": 152,
+    "qt_traffic": 734
+  },
+  {
+    "mac_client": "a0:65:18:39:cb:88",
+    "from_time": 1.649257465366E9,
+    "to_time": 1.649257541489E9,
+    "vn_traffic": 1182,
+    "qt_traffic": 602
+  },
+  {
+    "mac_client": "18:44:e6:a3:f0:cc",
+    "from_time": 1.649257468629E9,
+    "to_time": 1.649257541613E9,
+    "vn_traffic": 856,
+    "qt_traffic": 13549
+  },
+  {
+    "mac_client": "cc:71:90:0b:99:91",
+    "from_time": 1.649257461742E9,
+    "to_time": 1.649257541745E9,
+    "vn_traffic": 438,
+    "qt_traffic": 23555
+  },
+  {
+    "mac_client": "98:f4:28:ec:ff:91",
+    "from_time": 1.649257469829E9,
+    "to_time": 1.649257541831E9,
+    "vn_traffic": 655,
+    "qt_traffic": 21003
+  },
+  {
+    "mac_client": "d4:9a:a0:f2:86:69",
+    "from_time": 1.649257473614E9,
+    "to_time": 1.649257541971E9,
+    "vn_traffic": 360,
+    "qt_traffic": 8945
+  },
+  {
+    "mac_client": "a4:f4:c2:d0:be:5c",
+    "from_time": 1.649257472991E9,
+    "to_time": 1.649257542392E9,
+    "vn_traffic": 0,
+    "qt_traffic": 396
+  },
+  {
+    "mac_client": "a4:f4:c2:9c:1a:e9",
+    "from_time": 1.649257468247E9,
+    "to_time": 1.649257542397E9,
+    "vn_traffic": 360,
+    "qt_traffic": 1374
+  },
+  {
+    "mac_client": "a0:65:18:4a:bb:e7",
+    "from_time": 1.649257472605E9,
+    "to_time": 1.649257542489E9,
+    "vn_traffic": 0,
+    "qt_traffic": 536
+  },
+  {
+    "mac_client": "d4:9a:a0:64:e7:b0",
+    "from_time": 1.64925747094E9,
+    "to_time": 1.649257542499E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1067
+  },
+  {
+    "mac_client": "c4:a3:66:eb:cc:38",
+    "from_time": 1.649257470757E9,
+    "to_time": 1.649257542581E9,
+    "vn_traffic": 0,
+    "qt_traffic": 664
+  },
+  {
+    "mac_client": "a0:65:18:75:a7:1f",
+    "from_time": 1.649257465565E9,
+    "to_time": 1.649257542706E9,
+    "vn_traffic": 0,
+    "qt_traffic": 536
+  },
+  {
+    "mac_client": "98:f4:28:e3:3c:02",
+    "from_time": 1.649257481133E9,
+    "to_time": 1.64925754303E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1041
+  },
+  {
+    "mac_client": "d4:9a:a0:01:c4:68",
+    "from_time": 1.649257468111E9,
+    "to_time": 1.649257543106E9,
+    "vn_traffic": 66,
+    "qt_traffic": 694
+  },
+  {
+    "mac_client": "a4:f4:c2:d0:38:bc",
+    "from_time": 1.6492574682E9,
+    "to_time": 1.649257543178E9,
+    "vn_traffic": 78,
+    "qt_traffic": 858
+  },
+  {
+    "mac_client": "a4:f4:c2:dd:ee:a8",
+    "from_time": 1.649257467312E9,
+    "to_time": 1.649257543183E9,
+    "vn_traffic": 78,
+    "qt_traffic": 984
+  },
+  {
+    "mac_client": "cc:71:90:00:62:b1",
+    "from_time": 1.649257480714E9,
+    "to_time": 1.649257543227E9,
+    "vn_traffic": 78,
+    "qt_traffic": 1140
+  },
+  {
+    "mac_client": "a0:65:18:7a:4b:07",
+    "from_time": 1.649257462852E9,
+    "to_time": 1.649257543233E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1438
+  },
+  {
+    "mac_client": "94:a7:b7:d2:f6:a0",
+    "from_time": 1.649257476875E9,
+    "to_time": 1.649257543258E9,
+    "vn_traffic": 156,
+    "qt_traffic": 1197445
+  },
+  {
+    "mac_client": "a0:65:18:34:fd:08",
+    "from_time": 1.649257463104E9,
+    "to_time": 1.649257543471E9,
+    "vn_traffic": 1404,
+    "qt_traffic": 46288
+  },
+  {
+    "mac_client": "a4:f4:c2:d0:9b:a3",
+    "from_time": 1.649257473951E9,
+    "to_time": 1.649257543587E9,
+    "vn_traffic": 78,
+    "qt_traffic": 9879
+  },
+  {
+    "mac_client": "a0:65:18:ab:cb:25",
+    "from_time": 1.649257471821E9,
+    "to_time": 1.649257544039E9,
+    "vn_traffic": 0,
+    "qt_traffic": 649
+  },
+  {
+    "mac_client": "a0:65:18:4a:8c:56",
+    "from_time": 1.649257483328E9,
+    "to_time": 1.649257544098E9,
+    "vn_traffic": 72828,
+    "qt_traffic": 26112
+  },
+  {
+    "mac_client": "a0:65:18:41:bf:ce",
+    "from_time": 1.649257473522E9,
+    "to_time": 1.649257544603E9,
+    "vn_traffic": 0,
+    "qt_traffic": 416
+  },
+  {
+    "mac_client": "a0:65:18:86:92:53",
+    "from_time": 1.64925748061E9,
+    "to_time": 1.649257544841E9,
+    "vn_traffic": 0,
+    "qt_traffic": 3119
+  },
+  {
+    "mac_client": "d4:9a:a0:b2:ef:11",
+    "from_time": 1.64925746173E9,
+    "to_time": 1.649257544852E9,
+    "vn_traffic": 606,
+    "qt_traffic": 974
+  },
+  {
+    "mac_client": "a0:65:18:ca:f6:9b",
+    "from_time": 1.649257467366E9,
+    "to_time": 1.649257545097E9,
+    "vn_traffic": 0,
+    "qt_traffic": 716
+  },
+  {
+    "mac_client": "a0:65:18:0f:01:fd",
+    "from_time": 1.649257481369E9,
+    "to_time": 1.649257545686E9,
+    "vn_traffic": 0,
+    "qt_traffic": 6564
+  },
+  {
+    "mac_client": "a0:65:18:38:1f:24",
+    "from_time": 1.649257465756E9,
+    "to_time": 1.649257545855E9,
+    "vn_traffic": 0,
+    "qt_traffic": 646
+  },
+  {
+    "mac_client": "98:f4:28:e3:45:53",
+    "from_time": 1.649257484777E9,
+    "to_time": 1.649257545907E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1604
+  },
+  {
+    "mac_client": "cc:71:90:17:f0:99",
+    "from_time": 1.649257466942E9,
+    "to_time": 1.649257545971E9,
+    "vn_traffic": 360,
+    "qt_traffic": 970
+  },
+  {
+    "mac_client": "a4:f4:c2:e4:5b:af",
+    "from_time": 1.649257464021E9,
+    "to_time": 1.649257546007E9,
+    "vn_traffic": 0,
+    "qt_traffic": 932
+  },
+  {
+    "mac_client": "a0:65:18:9f:aa:9a",
+    "from_time": 1.649257464078E9,
+    "to_time": 1.649257546092E9,
+    "vn_traffic": 0,
+    "qt_traffic": 1570
+  },
+  {
+    "mac_client": "d4:9a:a0:4e:04:f7",
+    "from_time": 1.649257469209E9,
+    "to_time": 1.6492575461E9,
+    "vn_traffic": 0,
+    "qt_traffic": 544
+  },
+  {
+    "mac_client": "a4:f4:c2:0a:29:ec",
+    "from_time": 1.649257482332E9,
+    "to_time": 1.649257546437E9,
+    "vn_traffic": 0,
+    "qt_traffic": 7978
+  },
+  {
+    "mac_client": "ac:64:62:d1:2d:e1",
+    "from_time": 1.649257485103E9,
+    "to_time": 1.649257547352E9,
+    "vn_traffic": 0,
+    "qt_traffic": 482
+  },
+  {
+    "mac_client": "a4:f4:c2:f3:9c:67",
+    "from_time": 1.649257472284E9,
+    "to_time": 1.649257547745E9,
+    "vn_traffic": 22017,
+    "qt_traffic": 44287
+  },
+  {
+    "mac_client": "18:44:e6:bd:4e:6d",
+    "from_time": 1.649257464186E9,
+    "to_time": 1.649257547934E9,
+    "vn_traffic": 0,
+    "qt_traffic": 754
+  },
+  {
+    "mac_client": "ac:64:62:d3:31:54",
+    "from_time": 1.649257472743E9,
+    "to_time": 1.649257547953E9,
+    "vn_traffic": 156,
+    "qt_traffic": 2679
+  },
+  {
+    "mac_client": "a0:65:18:6c:66:8d",
+    "from_time": 1.649257482516E9,
+    "to_time": 1.649257547957E9,
+    "vn_traffic": 85,
+    "qt_traffic": 13325
+  },
+  {
+    "mac_client": "98:f4:28:e1:e0:aa",
+    "from_time": 1.649257463154E9,
+    "to_time": 1.649257548083E9,
+    "vn_traffic": 78,
+    "qt_traffic": 548
+  },
+  {
+    "mac_client": "a4:f4:c2:cd:15:01",
+    "from_time": 1.649257473844E9,
+    "to_time": 1.649257548515E9,
+    "vn_traffic": 746,
+    "qt_traffic": 632
+  },
+  {
+    "mac_client": "a0:65:18:57:d7:ee",
+    "from_time": 1.649257465254E9,
+    "to_time": 1.649257548517E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2615
+  },
+  {
+    "mac_client": "5c:c7:d7:1e:ee:4f",
+    "from_time": 1.649257472317E9,
+    "to_time": 1.649257548769E9,
+    "vn_traffic": 0,
+    "qt_traffic": 400
+  },
+  {
+    "mac_client": "18:44:e6:bc:e4:f0",
+    "from_time": 1.649257480573E9,
+    "to_time": 1.649257549115E9,
+    "vn_traffic": 78,
+    "qt_traffic": 462
+  },
+  {
+    "mac_client": "a0:65:18:39:52:09",
+    "from_time": 1.649257463923E9,
+    "to_time": 1.64925754921E9,
+    "vn_traffic": 0,
+    "qt_traffic": 2227
+  },
+  {
+    "mac_client": "a4:f4:c2:9f:9a:12",
+    "from_time": 1.649257485311E9,
+    "to_time": 1.649257549313E9,
+    "vn_traffic": 2644,
+    "qt_traffic": 378
+  },
+  {
+    "mac_client": "c4:a3:66:eb:9f:a4",
+    "from_time": 1.64925746348E9,
+    "to_time": 1.649257549445E9,
+    "vn_traffic": 0,
+    "qt_traffic": 800
+  },
+  {
+    "mac_client": "a4:f4:c2:95:31:89",
+    "from_time": 1.649257487135E9,
+    "to_time": 1.649257549523E9,
+    "vn_traffic": 78,
+    "qt_traffic": 338
+  },
+  {
+    "mac_client": "a4:f4:c2:c2:20:4b",
+    "from_time": 1.649257472019E9,
+    "to_time": 1.649257549779E9,
+    "vn_traffic": 0,
+    "qt_traffic": 400
+  },
+  {
+    "mac_client": "a4:f4:c2:a7:31:7e",
+    "from_time": 1.64925748048E9,
+    "to_time": 1.649257549867E9,
+    "vn_traffic": 1242,
+    "qt_traffic": 136
+  },
+  {
+    "mac_client": "c4:a3:66:eb:86:84",
+    "from_time": 1.649257471379E9,
+    "to_time": 1.649257550538E9,
+    "vn_traffic": 70,
+    "qt_traffic": 663
+  },
+  {
+    "mac_client": "a0:65:18:3b:68:41",
+    "from_time": 1.649257481372E9,
+    "to_time": 1.649257550935E9,
+    "vn_traffic": 0,
+    "qt_traffic": 396
+  },
+  {
+    "mac_client": "a0:65:18:c9:91:62",
+    "from_time": 1.649257473058E9,
+    "to_time": 1.64925755115E9,
+    "vn_traffic": 0,
+    "qt_traffic": 466
+  },
+  {
+    "mac_client": "74:4d:28:a7:30:1f",
+    "from_time": 1.649257485963E9,
+    "to_time": 1.649257551184E9,
+    "vn_traffic": 0,
+    "qt_traffic": 532
+  }
+]
